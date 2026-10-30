@@ -1,0 +1,25 @@
+market_id,name,region,market_type,trust_tier,update_cadence_days,last_updated,fee_pct,currency,file
+MKT-NE-01,Harborline Dock Auction (fictional),Northeast,dock_auction,B,7,2026-10-08,3.0,USD,data/market_prices.csv
+MKT-NE-02,Granite Cove Seafood Exchange (fictional),Northeast,seafood_exchange,B,7,2026-10-09,5.5,USD,data/market_prices.csv
+MKT-NE-03,Bayside Wholesale Market (fictional),Northeast,wholesale_market,C,7,2026-10-10,7.0,USD,data/market_prices.csv
+MKT-MA-01,Tidal Flats Auction (fictional),Mid-Atlantic,dock_auction,B,7,2026-10-09,3.0,USD,data/market_prices.csv
+MKT-MA-02,Marlin Cove Exchange (fictional),Mid-Atlantic,seafood_exchange,B,7,2026-10-10,5.5,USD,data/market_prices.csv
+MKT-MA-03,Oyster Row Wholesale Market (fictional),Mid-Atlantic,wholesale_market,C,7,2026-10-11,7.0,USD,data/market_prices.csv
+MKT-SE-01,Palmetto Landing Auction (fictional),Southeast,dock_auction,B,7,2026-10-10,3.0,USD,data/market_prices.csv
+MKT-SE-02,Cape Reef Co-op Market (fictional),Southeast,seafood_exchange,B,7,2026-10-11,5.5,USD,data/market_prices.csv
+MKT-SE-03,Tidewater Fish Exchange (fictional),Southeast,wholesale_market,C,7,2026-10-12,7.0,USD,data/market_prices.csv
+MKT-GF-01,Bayou Point Dock Auction (fictional),Gulf,dock_auction,B,7,2026-10-08,3.0,USD,data/market_prices.csv
+MKT-GF-02,Delta Shore Seafood Market (fictional),Gulf,seafood_exchange,B,7,2026-10-09,5.5,USD,data/market_prices.csv
+MKT-GF-03,Mariner's Gulf Exchange (fictional),Gulf,wholesale_market,C,7,2026-10-10,7.0,USD,data/market_prices.csv
+MKT-GL-01,Lakeshore Fish Auction (fictional),Great Lakes,dock_auction,B,7,2026-10-09,3.0,USD,data/market_prices.csv
+MKT-GL-02,Northcoast Pier Market (fictional),Great Lakes,seafood_exchange,B,7,2026-10-10,5.5,USD,data/market_prices.csv
+MKT-GL-03,Inland Sea Exchange (fictional),Great Lakes,wholesale_market,C,7,2026-10-11,7.0,USD,data/market_prices.csv
+MKT-PN-01,Cascade Harbor Auction (fictional),Pacific Northwest,dock_auction,B,7,2026-10-10,3.0,USD,data/market_prices.csv
+MKT-PN-02,Sound and Strait Fish Market (fictional),Pacific Northwest,seafood_exchange,B,7,2026-10-11,5.5,USD,data/market_prices.csv
+MKT-PN-03,Rainier Quay Exchange (fictional),Pacific Northwest,wholesale_market,C,7,2026-10-12,7.0,USD,data/market_prices.csv
+MKT-AK-01,Northstar Harbor Auction (fictional),Alaska,dock_auction,B,7,2026-10-08,3.0,USD,data/market_prices.csv
+MKT-AK-02,Tundra Bay Fish Market (fictional),Alaska,seafood_exchange,B,7,2026-10-09,5.5,USD,data/market_prices.csv
+MKT-AK-03,Glacier Inlet Exchange (fictional),Alaska,wholesale_market,C,7,2026-10-10,7.0,USD,data/market_prices.csv
+MKT-HP-01,Reef Pier Auction (fictional),Hawaii-Pacific,dock_auction,B,7,2026-10-09,3.0,USD,data/market_prices.csv
+MKT-HP-02,Palm Atoll Fish Market (fictional),Hawaii-Pacific,seafood_exchange,B,7,2026-10-10,5.5,USD,data/market_prices.csv
+MKT-HP-03,Trade Wind Exchange (fictional),Hawaii-Pacific,wholesale_market,C,7,2026-10-11,7.0,USD,data/market_prices.csv

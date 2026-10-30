@@ -1,0 +1,6 @@
+segment_id,label,description
+premium,Premium buyers,"Fine dining, hotels and specialty shops that pay for quality and provenance."
+mainstream,Mainstream buyers,Grocery shoppers and casual restaurants who want reliable supply and fair prices.
+price_sensitive,Price-sensitive buyers,Buyers who choose on cost and need steady volume.
+institutional,Institutional buyers,"Schools, hospitals and cafeterias buying large steady volumes at low cost."
+export,Export-oriented buyers,"Traders shipping to overseas markets, often paying for higher grades in bulk."

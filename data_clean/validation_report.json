@@ -1,0 +1,40 @@
+{
+  "total_rows": 229828,
+  "by_status": {
+    "VALID": 189388,
+    "EXCLUDED_BY_DESIGN": 34842,
+    "REJECTED": 4029,
+    "REVIEW": 1569
+  },
+  "valid_rows": 189388,
+  "pass_rate_all_rows": 0.824,
+  "pass_rate_in_scope": 0.9713,
+  "commercial_pass_rate_in_scope": 0.9599,
+  "reason_counts": {
+    "zero_fill_no_landings": 20122,
+    "recreational_no_weight_estimate": 14720,
+    "zero_dollars_with_pounds": 2248,
+    "price_far_from_species_norm": 1569,
+    "withheld_or_unnamed_species": 1314,
+    "zero_pounds_with_dollars": 290,
+    "missing_dollars": 71,
+    "exact_duplicate": 69,
+    "price_out_of_bounds": 33,
+    "missing_pounds": 17,
+    "negative_pounds": 14,
+    "missing_region": 13,
+    "negative_dollars": 6
+  },
+  "by_collection": {
+    "Commercial": {
+      "VALID": 134136,
+      "EXCLUDED_BY_DESIGN": 20122,
+      "REJECTED": 4029,
+      "REVIEW": 1569
+    },
+    "Recreational": {
+      "VALID": 55252,
+      "EXCLUDED_BY_DESIGN": 14720
+    }
+  }
+}

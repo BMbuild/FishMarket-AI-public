@@ -1,0 +1,9 @@
+# Maps a question the user types to the nearest calculation. Each line: question_type,pattern (rest of the line).
+# Checked top to bottom; the first match the operation is allowed to ask wins. No match: the operation's default
+# calculation runs and the question is answered separately (real data, then the web if ticked).
+question_type,pattern
+best_months,\b(which|what|best|good|peak|top)\b.{0,25}\b(months?|time of (the )?year|season)\b|\bwhen\b.{0,30}\b(sell|harvest|land|fish|price(s)? (is|are)? ?(highest|best|peak))
+compare_markets,\b(which|what|best|where)\b.{0,25}\b(market|auction|exchange|port|dock)s?\b|\bwhere\b.{0,20}\bsell\b
+best_buyer_type,\b(which|what|who|best)\b.{0,25}\b(buyers?|customers?|restaurants?|channel|sell to)\b|\bwho\b.{0,20}\b(buy|pay)
+buy_now_or_wait,\b(buy|stock up|purchase|order)\b.{0,30}\b(now|wait|later|soon)\b|\bshould i (buy|order|stock)
+sell_or_hold,\b(sell|hold|store|freeze|keep|wait)\b.{0,30}\b(now|later|hold|wait|until|store|freeze)\b|\bshould i (sell|hold|store|freeze|wait)

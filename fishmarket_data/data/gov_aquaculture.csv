@@ -1,0 +1,1540 @@
+date,region,species,source_type,price,volume,unit,channel,source_id,retrieved_on
+2022-01-01,Hawaii-Pacific,Barramundi,aquaculture,5.75,256829.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-02-01,Hawaii-Pacific,Barramundi,aquaculture,5.83,239451.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-03-01,Hawaii-Pacific,Barramundi,aquaculture,5.44,250508.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-04-01,Hawaii-Pacific,Barramundi,aquaculture,5.8,258776.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-05-01,Hawaii-Pacific,Barramundi,aquaculture,5.81,238599.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-06-01,Hawaii-Pacific,Barramundi,aquaculture,5.65,278232.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-07-01,Hawaii-Pacific,Barramundi,aquaculture,5.61,234228.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-08-01,Hawaii-Pacific,Barramundi,aquaculture,5.65,249411.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-09-01,Hawaii-Pacific,Barramundi,aquaculture,5.52,259529.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-10-01,Hawaii-Pacific,Barramundi,aquaculture,5.66,247660.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-11-01,Hawaii-Pacific,Barramundi,aquaculture,5.83,241077.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-12-01,Hawaii-Pacific,Barramundi,aquaculture,5.79,267942.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-01-01,Hawaii-Pacific,Barramundi,aquaculture,5.53,252713.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-02-01,Hawaii-Pacific,Barramundi,aquaculture,5.52,225300.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-03-01,Hawaii-Pacific,Barramundi,aquaculture,5.83,249694.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-04-01,Hawaii-Pacific,Barramundi,aquaculture,5.69,237590.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-05-01,Hawaii-Pacific,Barramundi,aquaculture,5.6,239034.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-06-01,Hawaii-Pacific,Barramundi,aquaculture,5.54,231622.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-07-01,Hawaii-Pacific,Barramundi,aquaculture,5.63,249976.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-08-01,Hawaii-Pacific,Barramundi,aquaculture,5.58,265412.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-09-01,Hawaii-Pacific,Barramundi,aquaculture,5.58,247524.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-10-01,Hawaii-Pacific,Barramundi,aquaculture,5.58,273901.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-11-01,Hawaii-Pacific,Barramundi,aquaculture,5.73,236696.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-12-01,Hawaii-Pacific,Barramundi,aquaculture,5.64,245696.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-01-01,Hawaii-Pacific,Barramundi,aquaculture,5.73,262308.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-02-01,Hawaii-Pacific,Barramundi,aquaculture,5.64,256767.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-03-01,Hawaii-Pacific,Barramundi,aquaculture,5.73,254591.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-04-01,Hawaii-Pacific,Barramundi,aquaculture,5.78,243102.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-05-01,Hawaii-Pacific,Barramundi,aquaculture,5.82,255592.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-06-01,Hawaii-Pacific,Barramundi,aquaculture,5.77,248596.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-07-01,Hawaii-Pacific,Barramundi,aquaculture,6.07,253585.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-08-01,Hawaii-Pacific,Barramundi,aquaculture,6.13,250046.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-09-01,Hawaii-Pacific,Barramundi,aquaculture,5.47,255968.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-10-01,Hawaii-Pacific,Barramundi,aquaculture,5.92,260695.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-11-01,Hawaii-Pacific,Barramundi,aquaculture,5.78,251944.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-12-01,Hawaii-Pacific,Barramundi,aquaculture,5.69,243210.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-01-01,Hawaii-Pacific,Barramundi,aquaculture,5.76,243850.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-02-01,Hawaii-Pacific,Barramundi,aquaculture,5.85,259855.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-03-01,Hawaii-Pacific,Barramundi,aquaculture,5.77,238617.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-04-01,Hawaii-Pacific,Barramundi,aquaculture,5.52,251424.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-05-01,Hawaii-Pacific,Barramundi,aquaculture,5.79,263444.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-06-01,Hawaii-Pacific,Barramundi,aquaculture,5.98,258448.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-07-01,Hawaii-Pacific,Barramundi,aquaculture,5.96,247279.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-08-01,Hawaii-Pacific,Barramundi,aquaculture,5.8,244224.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-09-01,Hawaii-Pacific,Barramundi,aquaculture,5.85,252903.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-10-01,Hawaii-Pacific,Barramundi,aquaculture,6.03,249508.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-11-01,Hawaii-Pacific,Barramundi,aquaculture,6.06,251884.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-12-01,Hawaii-Pacific,Barramundi,aquaculture,5.8,250207.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-01-01,Hawaii-Pacific,Barramundi,aquaculture,5.85,249527.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-02-01,Hawaii-Pacific,Barramundi,aquaculture,5.8,229179.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-03-01,Hawaii-Pacific,Barramundi,aquaculture,5.79,251750.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-04-01,Hawaii-Pacific,Barramundi,aquaculture,5.79,243214.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-05-01,Hawaii-Pacific,Barramundi,aquaculture,5.86,250972.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-06-01,Hawaii-Pacific,Barramundi,aquaculture,6.02,264689.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-07-01,Hawaii-Pacific,Barramundi,aquaculture,6.07,224890.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-08-01,Hawaii-Pacific,Barramundi,aquaculture,6.01,252781.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-09-01,Hawaii-Pacific,Barramundi,aquaculture,5.96,244354.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-01-01,Southeast,Barramundi,aquaculture,4.75,207389.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-02-01,Southeast,Barramundi,aquaculture,4.87,210110.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-03-01,Southeast,Barramundi,aquaculture,4.79,202663.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-04-01,Southeast,Barramundi,aquaculture,4.71,214132.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-05-01,Southeast,Barramundi,aquaculture,4.79,196275.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-06-01,Southeast,Barramundi,aquaculture,4.8,206780.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-07-01,Southeast,Barramundi,aquaculture,4.93,199443.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-08-01,Southeast,Barramundi,aquaculture,4.8,195787.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-09-01,Southeast,Barramundi,aquaculture,4.69,196691.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-10-01,Southeast,Barramundi,aquaculture,4.82,205367.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-11-01,Southeast,Barramundi,aquaculture,4.77,201592.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-12-01,Southeast,Barramundi,aquaculture,5.01,183980.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-01-01,Southeast,Barramundi,aquaculture,4.64,197442.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-02-01,Southeast,Barramundi,aquaculture,4.9,193215.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-03-01,Southeast,Barramundi,aquaculture,4.75,204473.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-04-01,Southeast,Barramundi,aquaculture,4.7,212046.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-05-01,Southeast,Barramundi,aquaculture,4.9,193839.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-06-01,Southeast,Barramundi,aquaculture,4.9,185675.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-07-01,Southeast,Barramundi,aquaculture,4.91,186402.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-08-01,Southeast,Barramundi,aquaculture,4.93,209894.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-09-01,Southeast,Barramundi,aquaculture,4.99,196066.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-10-01,Southeast,Barramundi,aquaculture,4.95,197460.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-11-01,Southeast,Barramundi,aquaculture,4.79,205866.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-12-01,Southeast,Barramundi,aquaculture,4.79,185403.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-01-01,Southeast,Barramundi,aquaculture,4.69,197311.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-02-01,Southeast,Barramundi,aquaculture,4.88,199589.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-03-01,Southeast,Barramundi,aquaculture,4.57,202738.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-04-01,Southeast,Barramundi,aquaculture,4.71,193945.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-05-01,Southeast,Barramundi,aquaculture,4.88,184897.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-06-01,Southeast,Barramundi,aquaculture,5.08,197424.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-07-01,Southeast,Barramundi,aquaculture,4.81,200160.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-08-01,Southeast,Barramundi,aquaculture,4.85,216900.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-09-01,Southeast,Barramundi,aquaculture,4.89,205893.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-10-01,Southeast,Barramundi,aquaculture,4.92,200809.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-11-01,Southeast,Barramundi,aquaculture,4.91,197471.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-12-01,Southeast,Barramundi,aquaculture,4.99,191466.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-01-01,Southeast,Barramundi,aquaculture,4.81,213550.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-02-01,Southeast,Barramundi,aquaculture,5.16,193042.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-03-01,Southeast,Barramundi,aquaculture,4.88,206954.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-04-01,Southeast,Barramundi,aquaculture,5.03,201740.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-05-01,Southeast,Barramundi,aquaculture,5.06,213308.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-06-01,Southeast,Barramundi,aquaculture,5.03,197031.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-07-01,Southeast,Barramundi,aquaculture,4.94,198395.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-08-01,Southeast,Barramundi,aquaculture,4.74,196751.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-09-01,Southeast,Barramundi,aquaculture,4.98,199245.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-10-01,Southeast,Barramundi,aquaculture,5.24,193568.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-11-01,Southeast,Barramundi,aquaculture,4.91,194138.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-12-01,Southeast,Barramundi,aquaculture,5.04,197815.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-01-01,Southeast,Barramundi,aquaculture,4.99,191407.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-02-01,Southeast,Barramundi,aquaculture,5.06,204509.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-03-01,Southeast,Barramundi,aquaculture,5.11,192147.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-04-01,Southeast,Barramundi,aquaculture,4.85,192052.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-05-01,Southeast,Barramundi,aquaculture,5.02,200302.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-06-01,Southeast,Barramundi,aquaculture,5.15,203993.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-07-01,Southeast,Barramundi,aquaculture,4.96,204587.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-08-01,Southeast,Barramundi,aquaculture,5.02,201794.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-09-01,Southeast,Barramundi,aquaculture,5.26,207061.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-01-01,Northeast,Blue mussels,aquaculture,1.4,1008060.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-02-01,Northeast,Blue mussels,aquaculture,1.35,968626.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-03-01,Northeast,Blue mussels,aquaculture,1.35,944547.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-04-01,Northeast,Blue mussels,aquaculture,1.28,1005535.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-05-01,Northeast,Blue mussels,aquaculture,1.41,1068946.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-06-01,Northeast,Blue mussels,aquaculture,1.37,902204.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-07-01,Northeast,Blue mussels,aquaculture,1.41,994859.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-08-01,Northeast,Blue mussels,aquaculture,1.41,946479.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-09-01,Northeast,Blue mussels,aquaculture,1.26,1051149.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-10-01,Northeast,Blue mussels,aquaculture,1.49,1006361.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-11-01,Northeast,Blue mussels,aquaculture,1.38,1029810.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-12-01,Northeast,Blue mussels,aquaculture,1.34,981233.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-01-01,Northeast,Blue mussels,aquaculture,1.4,947561.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-02-01,Northeast,Blue mussels,aquaculture,1.34,962696.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-03-01,Northeast,Blue mussels,aquaculture,1.4,951586.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-04-01,Northeast,Blue mussels,aquaculture,1.34,1036824.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-05-01,Northeast,Blue mussels,aquaculture,1.34,1016254.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-06-01,Northeast,Blue mussels,aquaculture,1.4,962718.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-07-01,Northeast,Blue mussels,aquaculture,1.35,957139.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-08-01,Northeast,Blue mussels,aquaculture,1.36,1001691.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-09-01,Northeast,Blue mussels,aquaculture,1.34,967590.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-10-01,Northeast,Blue mussels,aquaculture,1.43,926069.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-11-01,Northeast,Blue mussels,aquaculture,1.36,1032620.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-12-01,Northeast,Blue mussels,aquaculture,1.31,949301.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-01-01,Northeast,Blue mussels,aquaculture,1.43,1133586.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-02-01,Northeast,Blue mussels,aquaculture,1.33,997584.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-03-01,Northeast,Blue mussels,aquaculture,1.35,955506.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-04-01,Northeast,Blue mussels,aquaculture,1.37,985993.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-05-01,Northeast,Blue mussels,aquaculture,1.32,1050902.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-06-01,Northeast,Blue mussels,aquaculture,1.31,1043101.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-07-01,Northeast,Blue mussels,aquaculture,1.33,1002852.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-08-01,Northeast,Blue mussels,aquaculture,1.32,948206.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-09-01,Northeast,Blue mussels,aquaculture,1.41,1028278.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-10-01,Northeast,Blue mussels,aquaculture,1.34,937645.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-11-01,Northeast,Blue mussels,aquaculture,1.38,1050026.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-12-01,Northeast,Blue mussels,aquaculture,1.35,1070854.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-01-01,Northeast,Blue mussels,aquaculture,1.34,1042978.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-02-01,Northeast,Blue mussels,aquaculture,1.3,1029370.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-03-01,Northeast,Blue mussels,aquaculture,1.35,943775.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-04-01,Northeast,Blue mussels,aquaculture,1.33,1018554.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-05-01,Northeast,Blue mussels,aquaculture,1.32,1036680.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-06-01,Northeast,Blue mussels,aquaculture,1.4,990874.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-07-01,Northeast,Blue mussels,aquaculture,1.38,996334.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-08-01,Northeast,Blue mussels,aquaculture,1.33,1041847.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-09-01,Northeast,Blue mussels,aquaculture,1.3,1023908.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-10-01,Northeast,Blue mussels,aquaculture,1.37,1027457.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-11-01,Northeast,Blue mussels,aquaculture,1.28,965770.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-12-01,Northeast,Blue mussels,aquaculture,1.34,1010810.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-01-01,Northeast,Blue mussels,aquaculture,1.32,938293.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-02-01,Northeast,Blue mussels,aquaculture,1.29,1041294.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-03-01,Northeast,Blue mussels,aquaculture,1.35,904216.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-04-01,Northeast,Blue mussels,aquaculture,1.35,995216.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-05-01,Northeast,Blue mussels,aquaculture,1.36,1007585.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-06-01,Northeast,Blue mussels,aquaculture,1.32,1000344.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-07-01,Northeast,Blue mussels,aquaculture,1.28,1106396.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-08-01,Northeast,Blue mussels,aquaculture,1.35,1027249.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-09-01,Northeast,Blue mussels,aquaculture,1.34,937456.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-01-01,Pacific Northwest,Blue mussels,aquaculture,1.39,643652.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-02-01,Pacific Northwest,Blue mussels,aquaculture,1.34,596281.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-03-01,Pacific Northwest,Blue mussels,aquaculture,1.32,627509.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-04-01,Pacific Northwest,Blue mussels,aquaculture,1.4,619033.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-05-01,Pacific Northwest,Blue mussels,aquaculture,1.35,591180.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-06-01,Pacific Northwest,Blue mussels,aquaculture,1.43,602286.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-07-01,Pacific Northwest,Blue mussels,aquaculture,1.31,593982.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-08-01,Pacific Northwest,Blue mussels,aquaculture,1.35,582424.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-09-01,Pacific Northwest,Blue mussels,aquaculture,1.36,600778.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-10-01,Pacific Northwest,Blue mussels,aquaculture,1.34,602184.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-11-01,Pacific Northwest,Blue mussels,aquaculture,1.33,627111.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-12-01,Pacific Northwest,Blue mussels,aquaculture,1.35,592133.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-01-01,Pacific Northwest,Blue mussels,aquaculture,1.34,604218.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-02-01,Pacific Northwest,Blue mussels,aquaculture,1.32,590172.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-03-01,Pacific Northwest,Blue mussels,aquaculture,1.34,653583.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-04-01,Pacific Northwest,Blue mussels,aquaculture,1.29,608282.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-05-01,Pacific Northwest,Blue mussels,aquaculture,1.31,581806.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-06-01,Pacific Northwest,Blue mussels,aquaculture,1.35,659537.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-07-01,Pacific Northwest,Blue mussels,aquaculture,1.36,632289.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-08-01,Pacific Northwest,Blue mussels,aquaculture,1.35,633926.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-09-01,Pacific Northwest,Blue mussels,aquaculture,1.32,608602.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-10-01,Pacific Northwest,Blue mussels,aquaculture,1.36,614177.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-11-01,Pacific Northwest,Blue mussels,aquaculture,1.42,632849.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-12-01,Pacific Northwest,Blue mussels,aquaculture,1.29,575395.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-01-01,Pacific Northwest,Blue mussels,aquaculture,1.31,628826.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-02-01,Pacific Northwest,Blue mussels,aquaculture,1.33,577702.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-03-01,Pacific Northwest,Blue mussels,aquaculture,1.22,651250.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-04-01,Pacific Northwest,Blue mussels,aquaculture,1.3,603888.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-05-01,Pacific Northwest,Blue mussels,aquaculture,1.32,603245.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-06-01,Pacific Northwest,Blue mussels,aquaculture,1.36,574849.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-07-01,Pacific Northwest,Blue mussels,aquaculture,1.38,654661.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-08-01,Pacific Northwest,Blue mussels,aquaculture,1.28,608211.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-09-01,Pacific Northwest,Blue mussels,aquaculture,1.32,618068.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-10-01,Pacific Northwest,Blue mussels,aquaculture,1.35,571290.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-11-01,Pacific Northwest,Blue mussels,aquaculture,1.32,600236.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-12-01,Pacific Northwest,Blue mussels,aquaculture,1.38,582726.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-01-01,Pacific Northwest,Blue mussels,aquaculture,1.32,578455.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-02-01,Pacific Northwest,Blue mussels,aquaculture,1.29,583779.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-03-01,Pacific Northwest,Blue mussels,aquaculture,1.31,621017.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-04-01,Pacific Northwest,Blue mussels,aquaculture,1.36,604234.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-05-01,Pacific Northwest,Blue mussels,aquaculture,1.27,582338.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-06-01,Pacific Northwest,Blue mussels,aquaculture,1.35,580824.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-07-01,Pacific Northwest,Blue mussels,aquaculture,1.37,600870.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-08-01,Pacific Northwest,Blue mussels,aquaculture,1.28,572459.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-09-01,Pacific Northwest,Blue mussels,aquaculture,1.3,586976.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-10-01,Pacific Northwest,Blue mussels,aquaculture,1.29,585749.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-11-01,Pacific Northwest,Blue mussels,aquaculture,1.29,559592.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-12-01,Pacific Northwest,Blue mussels,aquaculture,1.33,596152.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-01-01,Pacific Northwest,Blue mussels,aquaculture,1.32,564312.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-02-01,Pacific Northwest,Blue mussels,aquaculture,1.3,644093.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-03-01,Pacific Northwest,Blue mussels,aquaculture,1.26,611108.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-04-01,Pacific Northwest,Blue mussels,aquaculture,1.34,582034.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-05-01,Pacific Northwest,Blue mussels,aquaculture,1.32,599583.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-06-01,Pacific Northwest,Blue mussels,aquaculture,1.32,614952.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-07-01,Pacific Northwest,Blue mussels,aquaculture,1.24,647896.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-08-01,Pacific Northwest,Blue mussels,aquaculture,1.3,590026.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-09-01,Pacific Northwest,Blue mussels,aquaculture,1.3,564648.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-01-01,Gulf,Catfish,aquaculture,2.29,1529530.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-02-01,Gulf,Catfish,aquaculture,2.3,1441755.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-03-01,Gulf,Catfish,aquaculture,2.32,1605490.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-04-01,Gulf,Catfish,aquaculture,2.31,1454352.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-05-01,Gulf,Catfish,aquaculture,2.42,1501295.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-06-01,Gulf,Catfish,aquaculture,2.46,1528942.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-07-01,Gulf,Catfish,aquaculture,2.36,1370532.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-08-01,Gulf,Catfish,aquaculture,2.27,1512250.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-09-01,Gulf,Catfish,aquaculture,2.36,1540845.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-10-01,Gulf,Catfish,aquaculture,2.3,1553800.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-11-01,Gulf,Catfish,aquaculture,2.38,1485997.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-12-01,Gulf,Catfish,aquaculture,2.42,1479268.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-01-01,Gulf,Catfish,aquaculture,2.29,1465811.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-02-01,Gulf,Catfish,aquaculture,2.49,1522693.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-03-01,Gulf,Catfish,aquaculture,2.35,1551223.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-04-01,Gulf,Catfish,aquaculture,2.25,1467707.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-05-01,Gulf,Catfish,aquaculture,2.33,1553792.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-06-01,Gulf,Catfish,aquaculture,2.35,1541733.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-07-01,Gulf,Catfish,aquaculture,2.41,1522345.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-08-01,Gulf,Catfish,aquaculture,2.46,1555611.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-09-01,Gulf,Catfish,aquaculture,2.44,1495948.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-10-01,Gulf,Catfish,aquaculture,2.32,1545026.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-11-01,Gulf,Catfish,aquaculture,2.41,1474591.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-12-01,Gulf,Catfish,aquaculture,2.37,1537973.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-01-01,Gulf,Catfish,aquaculture,2.45,1601934.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-02-01,Gulf,Catfish,aquaculture,2.36,1504527.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-03-01,Gulf,Catfish,aquaculture,2.39,1488905.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-04-01,Gulf,Catfish,aquaculture,2.49,1502196.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-05-01,Gulf,Catfish,aquaculture,2.35,1518063.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-06-01,Gulf,Catfish,aquaculture,2.46,1543766.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-07-01,Gulf,Catfish,aquaculture,2.44,1529866.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-08-01,Gulf,Catfish,aquaculture,2.42,1472061.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-09-01,Gulf,Catfish,aquaculture,2.44,1589665.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-10-01,Gulf,Catfish,aquaculture,2.35,1551789.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-11-01,Gulf,Catfish,aquaculture,2.34,1534873.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-12-01,Gulf,Catfish,aquaculture,2.31,1496229.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-01-01,Gulf,Catfish,aquaculture,2.53,1510493.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-02-01,Gulf,Catfish,aquaculture,2.43,1583381.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-03-01,Gulf,Catfish,aquaculture,2.39,1514653.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-04-01,Gulf,Catfish,aquaculture,2.46,1487579.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-05-01,Gulf,Catfish,aquaculture,2.43,1517539.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-06-01,Gulf,Catfish,aquaculture,2.4,1467030.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-07-01,Gulf,Catfish,aquaculture,2.55,1553802.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-08-01,Gulf,Catfish,aquaculture,2.33,1488703.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-09-01,Gulf,Catfish,aquaculture,2.42,1520246.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-10-01,Gulf,Catfish,aquaculture,2.45,1497595.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-11-01,Gulf,Catfish,aquaculture,2.5,1574960.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-12-01,Gulf,Catfish,aquaculture,2.38,1450196.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-01-01,Gulf,Catfish,aquaculture,2.51,1549783.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-02-01,Gulf,Catfish,aquaculture,2.37,1484907.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-03-01,Gulf,Catfish,aquaculture,2.49,1445583.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-04-01,Gulf,Catfish,aquaculture,2.43,1504681.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-05-01,Gulf,Catfish,aquaculture,2.5,1427627.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-06-01,Gulf,Catfish,aquaculture,2.5,1595174.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-07-01,Gulf,Catfish,aquaculture,2.5,1565292.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-08-01,Gulf,Catfish,aquaculture,2.51,1529224.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-09-01,Gulf,Catfish,aquaculture,2.47,1565690.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-01-01,Southeast,Catfish,aquaculture,2.28,3375696.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-02-01,Southeast,Catfish,aquaculture,2.38,3222028.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-03-01,Southeast,Catfish,aquaculture,2.35,3343066.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-04-01,Southeast,Catfish,aquaculture,2.34,3399468.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-05-01,Southeast,Catfish,aquaculture,2.21,3070199.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-06-01,Southeast,Catfish,aquaculture,2.38,3023452.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-07-01,Southeast,Catfish,aquaculture,2.4,3174497.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-08-01,Southeast,Catfish,aquaculture,2.34,3300335.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-09-01,Southeast,Catfish,aquaculture,2.44,3283667.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-10-01,Southeast,Catfish,aquaculture,2.28,3402314.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-11-01,Southeast,Catfish,aquaculture,2.26,3325533.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-12-01,Southeast,Catfish,aquaculture,2.25,3228472.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-01-01,Southeast,Catfish,aquaculture,2.33,3208735.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-02-01,Southeast,Catfish,aquaculture,2.26,3330504.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-03-01,Southeast,Catfish,aquaculture,2.28,3180232.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-04-01,Southeast,Catfish,aquaculture,2.26,3145412.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-05-01,Southeast,Catfish,aquaculture,2.41,3041346.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-06-01,Southeast,Catfish,aquaculture,2.48,3396012.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-07-01,Southeast,Catfish,aquaculture,2.34,3374910.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-08-01,Southeast,Catfish,aquaculture,2.33,3120158.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-09-01,Southeast,Catfish,aquaculture,2.34,3338102.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-10-01,Southeast,Catfish,aquaculture,2.39,3164940.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-11-01,Southeast,Catfish,aquaculture,2.33,3489243.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-12-01,Southeast,Catfish,aquaculture,2.34,3228601.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-01-01,Southeast,Catfish,aquaculture,2.36,3247850.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-02-01,Southeast,Catfish,aquaculture,2.42,3195007.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-03-01,Southeast,Catfish,aquaculture,2.43,3159857.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-04-01,Southeast,Catfish,aquaculture,2.36,3272721.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-05-01,Southeast,Catfish,aquaculture,2.39,3394788.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-06-01,Southeast,Catfish,aquaculture,2.34,3205014.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-07-01,Southeast,Catfish,aquaculture,2.47,3146486.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-08-01,Southeast,Catfish,aquaculture,2.44,3192678.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-09-01,Southeast,Catfish,aquaculture,2.34,3110690.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-10-01,Southeast,Catfish,aquaculture,2.31,3174259.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-11-01,Southeast,Catfish,aquaculture,2.36,3354063.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-12-01,Southeast,Catfish,aquaculture,2.33,3304433.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-01-01,Southeast,Catfish,aquaculture,2.3,3192973.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-02-01,Southeast,Catfish,aquaculture,2.38,3249182.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-03-01,Southeast,Catfish,aquaculture,2.41,3168587.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-04-01,Southeast,Catfish,aquaculture,2.33,3046066.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-05-01,Southeast,Catfish,aquaculture,2.43,3102143.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-06-01,Southeast,Catfish,aquaculture,2.25,3157023.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-07-01,Southeast,Catfish,aquaculture,2.41,3259639.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-08-01,Southeast,Catfish,aquaculture,2.36,3217129.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-09-01,Southeast,Catfish,aquaculture,2.43,3149048.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-10-01,Southeast,Catfish,aquaculture,2.33,3186670.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-11-01,Southeast,Catfish,aquaculture,2.34,3285223.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-12-01,Southeast,Catfish,aquaculture,2.34,3185114.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-01-01,Southeast,Catfish,aquaculture,2.43,3242448.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-02-01,Southeast,Catfish,aquaculture,2.37,3180460.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-03-01,Southeast,Catfish,aquaculture,2.49,3301714.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-04-01,Southeast,Catfish,aquaculture,2.4,3112117.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-05-01,Southeast,Catfish,aquaculture,2.45,3285977.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-06-01,Southeast,Catfish,aquaculture,2.49,3274502.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-07-01,Southeast,Catfish,aquaculture,2.49,3082479.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-08-01,Southeast,Catfish,aquaculture,2.6,3385645.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-09-01,Southeast,Catfish,aquaculture,2.31,3182931.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-01-01,Gulf,Eastern oysters,aquaculture,2.6,2326636.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-02-01,Gulf,Eastern oysters,aquaculture,2.3,2170801.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-03-01,Gulf,Eastern oysters,aquaculture,2.33,1940556.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-04-01,Gulf,Eastern oysters,aquaculture,2.15,1434800.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-05-01,Gulf,Eastern oysters,aquaculture,2.05,81626.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-06-01,Gulf,Eastern oysters,aquaculture,2.13,75123.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-07-01,Gulf,Eastern oysters,aquaculture,2.03,78230.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-08-01,Gulf,Eastern oysters,aquaculture,2.19,79430.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-09-01,Gulf,Eastern oysters,aquaculture,2.27,1344813.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-10-01,Gulf,Eastern oysters,aquaculture,2.37,2058709.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-11-01,Gulf,Eastern oysters,aquaculture,2.71,2385384.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-12-01,Gulf,Eastern oysters,aquaculture,2.98,2378423.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-01-01,Gulf,Eastern oysters,aquaculture,2.66,2190491.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-02-01,Gulf,Eastern oysters,aquaculture,2.4,2103835.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-03-01,Gulf,Eastern oysters,aquaculture,2.37,1977861.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-04-01,Gulf,Eastern oysters,aquaculture,2.24,1426712.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-05-01,Gulf,Eastern oysters,aquaculture,2.2,78675.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-06-01,Gulf,Eastern oysters,aquaculture,2.12,82171.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-07-01,Gulf,Eastern oysters,aquaculture,2.13,85455.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-08-01,Gulf,Eastern oysters,aquaculture,2.11,83209.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-09-01,Gulf,Eastern oysters,aquaculture,2.23,1402438.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-10-01,Gulf,Eastern oysters,aquaculture,2.35,1999846.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-11-01,Gulf,Eastern oysters,aquaculture,2.91,2486450.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-12-01,Gulf,Eastern oysters,aquaculture,2.89,2449146.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-01-01,Gulf,Eastern oysters,aquaculture,2.78,2266468.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-02-01,Gulf,Eastern oysters,aquaculture,2.62,2101486.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-03-01,Gulf,Eastern oysters,aquaculture,2.49,2049517.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-04-01,Gulf,Eastern oysters,aquaculture,2.29,1427555.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-05-01,Gulf,Eastern oysters,aquaculture,2.18,80128.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-06-01,Gulf,Eastern oysters,aquaculture,2.18,80843.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-07-01,Gulf,Eastern oysters,aquaculture,2.12,77644.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-08-01,Gulf,Eastern oysters,aquaculture,2.29,80964.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-09-01,Gulf,Eastern oysters,aquaculture,2.35,1499618.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-10-01,Gulf,Eastern oysters,aquaculture,2.55,2226606.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-11-01,Gulf,Eastern oysters,aquaculture,2.85,2440596.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-12-01,Gulf,Eastern oysters,aquaculture,3.36,2262895.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-01-01,Gulf,Eastern oysters,aquaculture,2.77,2121739.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-02-01,Gulf,Eastern oysters,aquaculture,2.63,2378081.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-03-01,Gulf,Eastern oysters,aquaculture,2.45,1849361.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-04-01,Gulf,Eastern oysters,aquaculture,2.54,1315534.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-05-01,Gulf,Eastern oysters,aquaculture,2.3,77960.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-06-01,Gulf,Eastern oysters,aquaculture,2.32,81421.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-07-01,Gulf,Eastern oysters,aquaculture,2.23,78017.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-08-01,Gulf,Eastern oysters,aquaculture,2.35,80213.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-09-01,Gulf,Eastern oysters,aquaculture,2.37,1390630.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-10-01,Gulf,Eastern oysters,aquaculture,2.62,2147829.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-11-01,Gulf,Eastern oysters,aquaculture,2.96,2405896.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-12-01,Gulf,Eastern oysters,aquaculture,3.2,2491190.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-01-01,Gulf,Eastern oysters,aquaculture,2.86,2215998.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-02-01,Gulf,Eastern oysters,aquaculture,2.78,2313278.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-03-01,Gulf,Eastern oysters,aquaculture,2.57,1883608.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-04-01,Gulf,Eastern oysters,aquaculture,2.47,1414862.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-05-01,Gulf,Eastern oysters,aquaculture,2.35,82823.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-06-01,Gulf,Eastern oysters,aquaculture,2.31,79731.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-07-01,Gulf,Eastern oysters,aquaculture,2.34,79122.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-08-01,Gulf,Eastern oysters,aquaculture,2.4,77294.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-09-01,Gulf,Eastern oysters,aquaculture,2.63,1486139.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-01-01,Mid-Atlantic,Eastern oysters,aquaculture,2.75,1240216.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-02-01,Mid-Atlantic,Eastern oysters,aquaculture,2.57,1201743.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-03-01,Mid-Atlantic,Eastern oysters,aquaculture,2.47,1100655.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-04-01,Mid-Atlantic,Eastern oysters,aquaculture,2.34,819460.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-05-01,Mid-Atlantic,Eastern oysters,aquaculture,2.31,43806.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-06-01,Mid-Atlantic,Eastern oysters,aquaculture,2.22,43366.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-07-01,Mid-Atlantic,Eastern oysters,aquaculture,2.26,41724.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-08-01,Mid-Atlantic,Eastern oysters,aquaculture,2.22,42169.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-09-01,Mid-Atlantic,Eastern oysters,aquaculture,2.35,797575.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-10-01,Mid-Atlantic,Eastern oysters,aquaculture,2.5,1090317.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-11-01,Mid-Atlantic,Eastern oysters,aquaculture,2.79,1398028.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-12-01,Mid-Atlantic,Eastern oysters,aquaculture,3.18,1395229.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-01-01,Mid-Atlantic,Eastern oysters,aquaculture,2.9,1252074.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-02-01,Mid-Atlantic,Eastern oysters,aquaculture,2.63,1204201.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-03-01,Mid-Atlantic,Eastern oysters,aquaculture,2.57,1048933.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-04-01,Mid-Atlantic,Eastern oysters,aquaculture,2.45,771200.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-05-01,Mid-Atlantic,Eastern oysters,aquaculture,2.33,46763.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-06-01,Mid-Atlantic,Eastern oysters,aquaculture,2.27,44225.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-07-01,Mid-Atlantic,Eastern oysters,aquaculture,2.27,44777.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-08-01,Mid-Atlantic,Eastern oysters,aquaculture,2.35,43900.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-09-01,Mid-Atlantic,Eastern oysters,aquaculture,2.35,848827.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-10-01,Mid-Atlantic,Eastern oysters,aquaculture,2.67,1219836.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-11-01,Mid-Atlantic,Eastern oysters,aquaculture,3.06,1338424.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-12-01,Mid-Atlantic,Eastern oysters,aquaculture,3.38,1300639.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-01-01,Mid-Atlantic,Eastern oysters,aquaculture,2.78,1267433.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-02-01,Mid-Atlantic,Eastern oysters,aquaculture,2.82,1193980.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-03-01,Mid-Atlantic,Eastern oysters,aquaculture,2.52,1006802.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-04-01,Mid-Atlantic,Eastern oysters,aquaculture,2.52,755555.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-05-01,Mid-Atlantic,Eastern oysters,aquaculture,2.41,46292.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-06-01,Mid-Atlantic,Eastern oysters,aquaculture,2.34,43608.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-07-01,Mid-Atlantic,Eastern oysters,aquaculture,2.27,41966.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-08-01,Mid-Atlantic,Eastern oysters,aquaculture,2.39,44841.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-09-01,Mid-Atlantic,Eastern oysters,aquaculture,2.51,790736.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-10-01,Mid-Atlantic,Eastern oysters,aquaculture,2.85,1184885.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-11-01,Mid-Atlantic,Eastern oysters,aquaculture,2.99,1388422.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-12-01,Mid-Atlantic,Eastern oysters,aquaculture,3.38,1397653.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-01-01,Mid-Atlantic,Eastern oysters,aquaculture,2.96,1333721.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-02-01,Mid-Atlantic,Eastern oysters,aquaculture,2.71,1296342.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-03-01,Mid-Atlantic,Eastern oysters,aquaculture,2.83,1122486.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-04-01,Mid-Atlantic,Eastern oysters,aquaculture,2.52,828608.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-05-01,Mid-Atlantic,Eastern oysters,aquaculture,2.54,42953.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-06-01,Mid-Atlantic,Eastern oysters,aquaculture,2.36,50591.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-07-01,Mid-Atlantic,Eastern oysters,aquaculture,2.54,44721.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-08-01,Mid-Atlantic,Eastern oysters,aquaculture,2.4,43686.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-09-01,Mid-Atlantic,Eastern oysters,aquaculture,2.65,794937.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-10-01,Mid-Atlantic,Eastern oysters,aquaculture,2.9,1320008.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-11-01,Mid-Atlantic,Eastern oysters,aquaculture,3.18,1360601.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-12-01,Mid-Atlantic,Eastern oysters,aquaculture,3.48,1427478.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-01-01,Mid-Atlantic,Eastern oysters,aquaculture,3.0,1258445.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-02-01,Mid-Atlantic,Eastern oysters,aquaculture,2.88,1192135.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-03-01,Mid-Atlantic,Eastern oysters,aquaculture,2.77,1061170.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-04-01,Mid-Atlantic,Eastern oysters,aquaculture,2.82,810967.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-05-01,Mid-Atlantic,Eastern oysters,aquaculture,2.41,46386.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-06-01,Mid-Atlantic,Eastern oysters,aquaculture,2.51,45598.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-07-01,Mid-Atlantic,Eastern oysters,aquaculture,2.56,47921.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-08-01,Mid-Atlantic,Eastern oysters,aquaculture,2.62,44545.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-09-01,Mid-Atlantic,Eastern oysters,aquaculture,2.61,860998.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-01-01,Northeast,Eastern oysters,aquaculture,2.88,885006.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-02-01,Northeast,Eastern oysters,aquaculture,2.74,1030356.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-03-01,Northeast,Eastern oysters,aquaculture,2.49,824829.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-04-01,Northeast,Eastern oysters,aquaculture,2.43,694802.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-05-01,Northeast,Eastern oysters,aquaculture,2.3,34742.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-06-01,Northeast,Eastern oysters,aquaculture,2.24,35839.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-07-01,Northeast,Eastern oysters,aquaculture,2.34,35289.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-08-01,Northeast,Eastern oysters,aquaculture,2.29,33914.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-09-01,Northeast,Eastern oysters,aquaculture,2.39,659226.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-10-01,Northeast,Eastern oysters,aquaculture,2.56,914945.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-11-01,Northeast,Eastern oysters,aquaculture,3.0,1037130.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-12-01,Northeast,Eastern oysters,aquaculture,3.38,1024988.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-01-01,Northeast,Eastern oysters,aquaculture,2.76,970076.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-02-01,Northeast,Eastern oysters,aquaculture,2.78,915273.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-03-01,Northeast,Eastern oysters,aquaculture,2.44,788284.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-04-01,Northeast,Eastern oysters,aquaculture,2.39,633983.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-05-01,Northeast,Eastern oysters,aquaculture,2.46,33931.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-06-01,Northeast,Eastern oysters,aquaculture,2.31,32137.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-07-01,Northeast,Eastern oysters,aquaculture,2.34,34576.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-08-01,Northeast,Eastern oysters,aquaculture,2.35,37417.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-09-01,Northeast,Eastern oysters,aquaculture,2.52,644824.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-10-01,Northeast,Eastern oysters,aquaculture,2.73,894854.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-11-01,Northeast,Eastern oysters,aquaculture,2.95,1041121.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-12-01,Northeast,Eastern oysters,aquaculture,3.43,1020316.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-01-01,Northeast,Eastern oysters,aquaculture,3.1,1042659.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-02-01,Northeast,Eastern oysters,aquaculture,2.71,967861.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-03-01,Northeast,Eastern oysters,aquaculture,2.62,787764.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-04-01,Northeast,Eastern oysters,aquaculture,2.69,619894.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-05-01,Northeast,Eastern oysters,aquaculture,2.54,34479.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-06-01,Northeast,Eastern oysters,aquaculture,2.43,34062.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-07-01,Northeast,Eastern oysters,aquaculture,2.48,34311.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-08-01,Northeast,Eastern oysters,aquaculture,2.5,33366.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-09-01,Northeast,Eastern oysters,aquaculture,2.58,630601.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-10-01,Northeast,Eastern oysters,aquaculture,2.88,955665.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-11-01,Northeast,Eastern oysters,aquaculture,3.0,1063112.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-12-01,Northeast,Eastern oysters,aquaculture,3.46,1016078.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-01-01,Northeast,Eastern oysters,aquaculture,3.13,885650.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-02-01,Northeast,Eastern oysters,aquaculture,2.85,1079061.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-03-01,Northeast,Eastern oysters,aquaculture,2.77,862700.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-04-01,Northeast,Eastern oysters,aquaculture,2.52,648632.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-05-01,Northeast,Eastern oysters,aquaculture,2.43,35202.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-06-01,Northeast,Eastern oysters,aquaculture,2.56,35840.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-07-01,Northeast,Eastern oysters,aquaculture,2.59,33995.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-08-01,Northeast,Eastern oysters,aquaculture,2.62,36177.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-09-01,Northeast,Eastern oysters,aquaculture,2.58,691591.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-10-01,Northeast,Eastern oysters,aquaculture,2.92,974844.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-11-01,Northeast,Eastern oysters,aquaculture,3.22,987045.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-12-01,Northeast,Eastern oysters,aquaculture,3.58,1015197.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-01-01,Northeast,Eastern oysters,aquaculture,3.37,942233.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-02-01,Northeast,Eastern oysters,aquaculture,3.03,972457.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-03-01,Northeast,Eastern oysters,aquaculture,2.73,922415.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-04-01,Northeast,Eastern oysters,aquaculture,2.79,637386.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-05-01,Northeast,Eastern oysters,aquaculture,2.6,34260.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-06-01,Northeast,Eastern oysters,aquaculture,2.52,39249.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-07-01,Northeast,Eastern oysters,aquaculture,2.64,33385.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-08-01,Northeast,Eastern oysters,aquaculture,2.53,34048.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-09-01,Northeast,Eastern oysters,aquaculture,2.77,615107.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-01-01,Northeast,Farmed salmon,aquaculture,7.27,1841166.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-02-01,Northeast,Farmed salmon,aquaculture,6.77,1844449.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-03-01,Northeast,Farmed salmon,aquaculture,6.83,1794135.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-04-01,Northeast,Farmed salmon,aquaculture,6.58,1790382.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-05-01,Northeast,Farmed salmon,aquaculture,6.84,1787091.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-06-01,Northeast,Farmed salmon,aquaculture,6.84,1788104.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-07-01,Northeast,Farmed salmon,aquaculture,6.6,1876595.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-08-01,Northeast,Farmed salmon,aquaculture,6.91,1837482.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-09-01,Northeast,Farmed salmon,aquaculture,7.06,1805074.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-10-01,Northeast,Farmed salmon,aquaculture,6.84,1773806.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-11-01,Northeast,Farmed salmon,aquaculture,7.24,1832772.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-12-01,Northeast,Farmed salmon,aquaculture,7.12,1791996.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-01-01,Northeast,Farmed salmon,aquaculture,6.69,1764161.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-02-01,Northeast,Farmed salmon,aquaculture,7.04,1734372.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-03-01,Northeast,Farmed salmon,aquaculture,7.06,1840516.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-04-01,Northeast,Farmed salmon,aquaculture,7.0,1860345.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-05-01,Northeast,Farmed salmon,aquaculture,6.82,1775504.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-06-01,Northeast,Farmed salmon,aquaculture,6.94,1839263.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-07-01,Northeast,Farmed salmon,aquaculture,7.21,1727536.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-08-01,Northeast,Farmed salmon,aquaculture,6.89,1786487.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-09-01,Northeast,Farmed salmon,aquaculture,7.1,1937369.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-10-01,Northeast,Farmed salmon,aquaculture,7.33,1721110.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-11-01,Northeast,Farmed salmon,aquaculture,7.59,1818746.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-12-01,Northeast,Farmed salmon,aquaculture,7.6,1768961.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-01-01,Northeast,Farmed salmon,aquaculture,7.43,1815301.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-02-01,Northeast,Farmed salmon,aquaculture,7.22,1745341.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-03-01,Northeast,Farmed salmon,aquaculture,7.08,1855878.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-04-01,Northeast,Farmed salmon,aquaculture,6.91,1890227.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-05-01,Northeast,Farmed salmon,aquaculture,7.05,1866169.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-06-01,Northeast,Farmed salmon,aquaculture,7.08,1810815.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-07-01,Northeast,Farmed salmon,aquaculture,7.07,1715131.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-08-01,Northeast,Farmed salmon,aquaculture,7.24,1829313.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-09-01,Northeast,Farmed salmon,aquaculture,7.19,1799797.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-10-01,Northeast,Farmed salmon,aquaculture,7.48,1847460.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-11-01,Northeast,Farmed salmon,aquaculture,7.77,1790263.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-12-01,Northeast,Farmed salmon,aquaculture,7.42,1797217.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-01-01,Northeast,Farmed salmon,aquaculture,7.37,1762329.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-02-01,Northeast,Farmed salmon,aquaculture,7.5,1869758.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-03-01,Northeast,Farmed salmon,aquaculture,7.41,1847974.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-04-01,Northeast,Farmed salmon,aquaculture,7.44,1814018.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-05-01,Northeast,Farmed salmon,aquaculture,7.12,1826596.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-06-01,Northeast,Farmed salmon,aquaculture,7.14,1803964.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-07-01,Northeast,Farmed salmon,aquaculture,7.04,1848958.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-08-01,Northeast,Farmed salmon,aquaculture,6.99,1779833.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-09-01,Northeast,Farmed salmon,aquaculture,7.18,1801424.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-10-01,Northeast,Farmed salmon,aquaculture,7.44,1768452.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-11-01,Northeast,Farmed salmon,aquaculture,7.93,1855944.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-12-01,Northeast,Farmed salmon,aquaculture,8.06,1778231.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-01-01,Northeast,Farmed salmon,aquaculture,7.74,1720163.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-02-01,Northeast,Farmed salmon,aquaculture,7.5,1796184.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-03-01,Northeast,Farmed salmon,aquaculture,7.6,1873940.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-04-01,Northeast,Farmed salmon,aquaculture,7.77,1826412.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-05-01,Northeast,Farmed salmon,aquaculture,7.98,1879950.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-06-01,Northeast,Farmed salmon,aquaculture,7.46,1773277.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-07-01,Northeast,Farmed salmon,aquaculture,7.1,1866138.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-08-01,Northeast,Farmed salmon,aquaculture,7.53,1763212.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-09-01,Northeast,Farmed salmon,aquaculture,7.64,1807013.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-01-01,Pacific Northwest,Farmed salmon,aquaculture,6.39,2286102.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-02-01,Pacific Northwest,Farmed salmon,aquaculture,6.45,2199090.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-03-01,Pacific Northwest,Farmed salmon,aquaculture,6.4,2252449.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-04-01,Pacific Northwest,Farmed salmon,aquaculture,6.79,2191489.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-05-01,Pacific Northwest,Farmed salmon,aquaculture,6.67,2302977.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-06-01,Pacific Northwest,Farmed salmon,aquaculture,6.61,2315268.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-07-01,Pacific Northwest,Farmed salmon,aquaculture,6.66,2310399.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-08-01,Pacific Northwest,Farmed salmon,aquaculture,6.7,2196030.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-09-01,Pacific Northwest,Farmed salmon,aquaculture,7.01,2199101.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-10-01,Pacific Northwest,Farmed salmon,aquaculture,6.61,2138956.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-11-01,Pacific Northwest,Farmed salmon,aquaculture,6.77,2189708.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-12-01,Pacific Northwest,Farmed salmon,aquaculture,7.39,2167286.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-01-01,Pacific Northwest,Farmed salmon,aquaculture,7.04,2260813.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-02-01,Pacific Northwest,Farmed salmon,aquaculture,6.96,2115257.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-03-01,Pacific Northwest,Farmed salmon,aquaculture,6.52,2205347.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-04-01,Pacific Northwest,Farmed salmon,aquaculture,6.84,2249595.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-05-01,Pacific Northwest,Farmed salmon,aquaculture,6.77,2176323.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-06-01,Pacific Northwest,Farmed salmon,aquaculture,6.93,2233897.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-07-01,Pacific Northwest,Farmed salmon,aquaculture,7.0,2226818.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-08-01,Pacific Northwest,Farmed salmon,aquaculture,6.7,2154907.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-09-01,Pacific Northwest,Farmed salmon,aquaculture,6.9,2189114.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-10-01,Pacific Northwest,Farmed salmon,aquaculture,7.1,2115435.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-11-01,Pacific Northwest,Farmed salmon,aquaculture,7.46,2256954.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-12-01,Pacific Northwest,Farmed salmon,aquaculture,7.3,2287226.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-01-01,Pacific Northwest,Farmed salmon,aquaculture,7.22,2326726.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-02-01,Pacific Northwest,Farmed salmon,aquaculture,6.81,2349568.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-03-01,Pacific Northwest,Farmed salmon,aquaculture,6.85,2209183.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-04-01,Pacific Northwest,Farmed salmon,aquaculture,7.21,2188637.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-05-01,Pacific Northwest,Farmed salmon,aquaculture,7.22,2251973.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-06-01,Pacific Northwest,Farmed salmon,aquaculture,7.31,2151966.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-07-01,Pacific Northwest,Farmed salmon,aquaculture,6.82,2277244.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-08-01,Pacific Northwest,Farmed salmon,aquaculture,6.77,2301082.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-09-01,Pacific Northwest,Farmed salmon,aquaculture,7.1,2197191.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-10-01,Pacific Northwest,Farmed salmon,aquaculture,7.08,2262442.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-11-01,Pacific Northwest,Farmed salmon,aquaculture,7.64,2282792.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-12-01,Pacific Northwest,Farmed salmon,aquaculture,7.44,2196016.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-01-01,Pacific Northwest,Farmed salmon,aquaculture,6.93,2173509.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-02-01,Pacific Northwest,Farmed salmon,aquaculture,7.16,2192111.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-03-01,Pacific Northwest,Farmed salmon,aquaculture,7.3,2277376.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-04-01,Pacific Northwest,Farmed salmon,aquaculture,7.16,2324570.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-05-01,Pacific Northwest,Farmed salmon,aquaculture,7.11,2276728.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-06-01,Pacific Northwest,Farmed salmon,aquaculture,7.21,2227542.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-07-01,Pacific Northwest,Farmed salmon,aquaculture,7.01,2160913.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-08-01,Pacific Northwest,Farmed salmon,aquaculture,7.07,2171566.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-09-01,Pacific Northwest,Farmed salmon,aquaculture,7.08,2240987.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-10-01,Pacific Northwest,Farmed salmon,aquaculture,7.22,2130888.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-11-01,Pacific Northwest,Farmed salmon,aquaculture,7.56,2227940.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-12-01,Pacific Northwest,Farmed salmon,aquaculture,7.49,2328119.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-01-01,Pacific Northwest,Farmed salmon,aquaculture,7.6,2188717.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-02-01,Pacific Northwest,Farmed salmon,aquaculture,7.05,2117219.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-03-01,Pacific Northwest,Farmed salmon,aquaculture,7.27,2158577.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-04-01,Pacific Northwest,Farmed salmon,aquaculture,7.36,2157847.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-05-01,Pacific Northwest,Farmed salmon,aquaculture,7.4,2198611.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-06-01,Pacific Northwest,Farmed salmon,aquaculture,7.19,2185778.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-07-01,Pacific Northwest,Farmed salmon,aquaculture,7.16,2104016.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-08-01,Pacific Northwest,Farmed salmon,aquaculture,7.38,2205748.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-09-01,Pacific Northwest,Farmed salmon,aquaculture,7.51,2037462.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-01-01,Gulf,Farmed shrimp,aquaculture,3.73,454752.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-02-01,Gulf,Farmed shrimp,aquaculture,3.7,451611.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-03-01,Gulf,Farmed shrimp,aquaculture,3.73,519973.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-04-01,Gulf,Farmed shrimp,aquaculture,3.71,710601.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-05-01,Gulf,Farmed shrimp,aquaculture,3.84,897673.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-06-01,Gulf,Farmed shrimp,aquaculture,3.52,1072519.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-07-01,Gulf,Farmed shrimp,aquaculture,3.62,1268554.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-08-01,Gulf,Farmed shrimp,aquaculture,3.72,1356108.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-09-01,Gulf,Farmed shrimp,aquaculture,3.62,1368598.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-10-01,Gulf,Farmed shrimp,aquaculture,3.75,1302876.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-11-01,Gulf,Farmed shrimp,aquaculture,3.91,840785.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-12-01,Gulf,Farmed shrimp,aquaculture,3.91,526165.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-01-01,Gulf,Farmed shrimp,aquaculture,3.78,459913.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-02-01,Gulf,Farmed shrimp,aquaculture,3.6,518455.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-03-01,Gulf,Farmed shrimp,aquaculture,3.66,527475.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-04-01,Gulf,Farmed shrimp,aquaculture,3.61,745763.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-05-01,Gulf,Farmed shrimp,aquaculture,3.52,896869.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-06-01,Gulf,Farmed shrimp,aquaculture,3.47,1069217.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-07-01,Gulf,Farmed shrimp,aquaculture,3.4,1236352.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-08-01,Gulf,Farmed shrimp,aquaculture,3.66,1387964.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-09-01,Gulf,Farmed shrimp,aquaculture,3.48,1444491.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-10-01,Gulf,Farmed shrimp,aquaculture,3.62,1266858.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-11-01,Gulf,Farmed shrimp,aquaculture,3.56,993085.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-12-01,Gulf,Farmed shrimp,aquaculture,3.43,487972.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-01-01,Gulf,Farmed shrimp,aquaculture,3.62,450382.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-02-01,Gulf,Farmed shrimp,aquaculture,3.54,431393.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-03-01,Gulf,Farmed shrimp,aquaculture,3.61,525293.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-04-01,Gulf,Farmed shrimp,aquaculture,3.33,709026.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-05-01,Gulf,Farmed shrimp,aquaculture,3.43,933301.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-06-01,Gulf,Farmed shrimp,aquaculture,3.32,1078421.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-07-01,Gulf,Farmed shrimp,aquaculture,3.36,1214879.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-08-01,Gulf,Farmed shrimp,aquaculture,3.37,1456070.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-09-01,Gulf,Farmed shrimp,aquaculture,3.37,1434765.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-10-01,Gulf,Farmed shrimp,aquaculture,3.61,1219583.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-11-01,Gulf,Farmed shrimp,aquaculture,3.5,875014.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-12-01,Gulf,Farmed shrimp,aquaculture,3.57,535826.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-01-01,Gulf,Farmed shrimp,aquaculture,3.43,414131.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-02-01,Gulf,Farmed shrimp,aquaculture,3.52,476944.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-03-01,Gulf,Farmed shrimp,aquaculture,3.34,515919.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-04-01,Gulf,Farmed shrimp,aquaculture,3.44,683308.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-05-01,Gulf,Farmed shrimp,aquaculture,3.4,896959.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-06-01,Gulf,Farmed shrimp,aquaculture,3.46,1028019.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-07-01,Gulf,Farmed shrimp,aquaculture,3.43,1303600.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-08-01,Gulf,Farmed shrimp,aquaculture,3.32,1292504.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-09-01,Gulf,Farmed shrimp,aquaculture,3.28,1433944.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-10-01,Gulf,Farmed shrimp,aquaculture,3.24,1351488.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-11-01,Gulf,Farmed shrimp,aquaculture,3.48,857991.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-12-01,Gulf,Farmed shrimp,aquaculture,3.42,558080.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-01-01,Gulf,Farmed shrimp,aquaculture,3.42,446738.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-02-01,Gulf,Farmed shrimp,aquaculture,3.47,459151.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-03-01,Gulf,Farmed shrimp,aquaculture,3.33,545239.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-04-01,Gulf,Farmed shrimp,aquaculture,3.37,710091.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-05-01,Gulf,Farmed shrimp,aquaculture,3.22,922532.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-06-01,Gulf,Farmed shrimp,aquaculture,3.23,1033735.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-07-01,Gulf,Farmed shrimp,aquaculture,3.32,1303663.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-08-01,Gulf,Farmed shrimp,aquaculture,3.18,1300047.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-09-01,Gulf,Farmed shrimp,aquaculture,3.39,1420679.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-01-01,Southeast,Farmed shrimp,aquaculture,3.76,528438.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-02-01,Southeast,Farmed shrimp,aquaculture,3.69,602043.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-03-01,Southeast,Farmed shrimp,aquaculture,3.73,692695.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-04-01,Southeast,Farmed shrimp,aquaculture,3.46,940659.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-05-01,Southeast,Farmed shrimp,aquaculture,3.44,1057307.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-06-01,Southeast,Farmed shrimp,aquaculture,3.51,1304561.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-07-01,Southeast,Farmed shrimp,aquaculture,3.51,1627759.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-08-01,Southeast,Farmed shrimp,aquaculture,3.56,1648400.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-09-01,Southeast,Farmed shrimp,aquaculture,3.74,1705555.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-10-01,Southeast,Farmed shrimp,aquaculture,3.75,1532719.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-11-01,Southeast,Farmed shrimp,aquaculture,3.71,1090169.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-12-01,Southeast,Farmed shrimp,aquaculture,3.71,678502.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-01-01,Southeast,Farmed shrimp,aquaculture,3.7,582899.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-02-01,Southeast,Farmed shrimp,aquaculture,3.69,579245.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-03-01,Southeast,Farmed shrimp,aquaculture,3.5,718213.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-04-01,Southeast,Farmed shrimp,aquaculture,3.47,892788.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-05-01,Southeast,Farmed shrimp,aquaculture,3.6,1084506.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-06-01,Southeast,Farmed shrimp,aquaculture,3.49,1385146.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-07-01,Southeast,Farmed shrimp,aquaculture,3.18,1402917.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-08-01,Southeast,Farmed shrimp,aquaculture,3.46,1622418.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-09-01,Southeast,Farmed shrimp,aquaculture,3.52,1684063.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-10-01,Southeast,Farmed shrimp,aquaculture,3.53,1550818.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-11-01,Southeast,Farmed shrimp,aquaculture,3.59,1147679.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-12-01,Southeast,Farmed shrimp,aquaculture,3.79,669812.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-01-01,Southeast,Farmed shrimp,aquaculture,3.65,574709.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-02-01,Southeast,Farmed shrimp,aquaculture,3.51,565573.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-03-01,Southeast,Farmed shrimp,aquaculture,3.61,635796.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-04-01,Southeast,Farmed shrimp,aquaculture,3.4,838723.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-05-01,Southeast,Farmed shrimp,aquaculture,3.54,1101340.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-06-01,Southeast,Farmed shrimp,aquaculture,3.36,1371957.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-07-01,Southeast,Farmed shrimp,aquaculture,3.55,1621900.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-08-01,Southeast,Farmed shrimp,aquaculture,3.58,1595772.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-09-01,Southeast,Farmed shrimp,aquaculture,3.3,1753242.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-10-01,Southeast,Farmed shrimp,aquaculture,3.27,1549804.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-11-01,Southeast,Farmed shrimp,aquaculture,3.52,1057266.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-12-01,Southeast,Farmed shrimp,aquaculture,3.44,652757.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-01-01,Southeast,Farmed shrimp,aquaculture,3.65,523326.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-02-01,Southeast,Farmed shrimp,aquaculture,3.41,619276.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-03-01,Southeast,Farmed shrimp,aquaculture,3.32,676513.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-04-01,Southeast,Farmed shrimp,aquaculture,3.58,868222.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-05-01,Southeast,Farmed shrimp,aquaculture,3.1,1061786.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-06-01,Southeast,Farmed shrimp,aquaculture,3.4,1339354.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-07-01,Southeast,Farmed shrimp,aquaculture,3.39,1507631.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-08-01,Southeast,Farmed shrimp,aquaculture,3.44,1568779.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-09-01,Southeast,Farmed shrimp,aquaculture,3.44,1614362.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-10-01,Southeast,Farmed shrimp,aquaculture,3.47,1530160.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-11-01,Southeast,Farmed shrimp,aquaculture,3.3,1126708.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-12-01,Southeast,Farmed shrimp,aquaculture,3.52,633293.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-01-01,Southeast,Farmed shrimp,aquaculture,3.39,540136.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-02-01,Southeast,Farmed shrimp,aquaculture,3.27,511913.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-03-01,Southeast,Farmed shrimp,aquaculture,3.36,655978.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-04-01,Southeast,Farmed shrimp,aquaculture,3.19,898464.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-05-01,Southeast,Farmed shrimp,aquaculture,3.13,1073188.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-06-01,Southeast,Farmed shrimp,aquaculture,3.28,1352186.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-07-01,Southeast,Farmed shrimp,aquaculture,3.17,1507075.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-08-01,Southeast,Farmed shrimp,aquaculture,3.18,1638319.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-09-01,Southeast,Farmed shrimp,aquaculture,3.46,1720013.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-01-01,Mid-Atlantic,Hard clams,aquaculture,1.77,700818.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-02-01,Mid-Atlantic,Hard clams,aquaculture,1.75,711036.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-03-01,Mid-Atlantic,Hard clams,aquaculture,1.83,723289.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-04-01,Mid-Atlantic,Hard clams,aquaculture,1.77,733946.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-05-01,Mid-Atlantic,Hard clams,aquaculture,1.8,680357.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-06-01,Mid-Atlantic,Hard clams,aquaculture,1.78,678517.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-07-01,Mid-Atlantic,Hard clams,aquaculture,1.83,682417.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-08-01,Mid-Atlantic,Hard clams,aquaculture,1.9,742378.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-09-01,Mid-Atlantic,Hard clams,aquaculture,1.78,702830.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-10-01,Mid-Atlantic,Hard clams,aquaculture,1.75,679258.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-11-01,Mid-Atlantic,Hard clams,aquaculture,1.8,663552.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-12-01,Mid-Atlantic,Hard clams,aquaculture,1.77,714262.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-01-01,Mid-Atlantic,Hard clams,aquaculture,1.8,736922.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-02-01,Mid-Atlantic,Hard clams,aquaculture,1.7,681863.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-03-01,Mid-Atlantic,Hard clams,aquaculture,1.71,724037.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-04-01,Mid-Atlantic,Hard clams,aquaculture,1.76,681194.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-05-01,Mid-Atlantic,Hard clams,aquaculture,1.84,676921.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-06-01,Mid-Atlantic,Hard clams,aquaculture,1.83,727923.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-07-01,Mid-Atlantic,Hard clams,aquaculture,1.76,684537.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-08-01,Mid-Atlantic,Hard clams,aquaculture,1.75,705918.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-09-01,Mid-Atlantic,Hard clams,aquaculture,1.72,671308.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-10-01,Mid-Atlantic,Hard clams,aquaculture,1.73,727642.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-11-01,Mid-Atlantic,Hard clams,aquaculture,1.81,730168.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-12-01,Mid-Atlantic,Hard clams,aquaculture,1.7,730540.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-01-01,Mid-Atlantic,Hard clams,aquaculture,1.83,674873.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-02-01,Mid-Atlantic,Hard clams,aquaculture,1.64,668344.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-03-01,Mid-Atlantic,Hard clams,aquaculture,1.76,725696.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-04-01,Mid-Atlantic,Hard clams,aquaculture,1.78,744319.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-05-01,Mid-Atlantic,Hard clams,aquaculture,1.67,710433.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-06-01,Mid-Atlantic,Hard clams,aquaculture,1.83,694389.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-07-01,Mid-Atlantic,Hard clams,aquaculture,1.78,693355.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-08-01,Mid-Atlantic,Hard clams,aquaculture,1.79,680164.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-09-01,Mid-Atlantic,Hard clams,aquaculture,1.84,694829.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-10-01,Mid-Atlantic,Hard clams,aquaculture,1.71,717119.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-11-01,Mid-Atlantic,Hard clams,aquaculture,1.8,667723.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-12-01,Mid-Atlantic,Hard clams,aquaculture,1.78,698443.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-01-01,Mid-Atlantic,Hard clams,aquaculture,1.74,710711.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-02-01,Mid-Atlantic,Hard clams,aquaculture,1.79,682305.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-03-01,Mid-Atlantic,Hard clams,aquaculture,1.75,677733.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-04-01,Mid-Atlantic,Hard clams,aquaculture,1.76,674604.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-05-01,Mid-Atlantic,Hard clams,aquaculture,1.78,759712.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-06-01,Mid-Atlantic,Hard clams,aquaculture,1.65,702586.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-07-01,Mid-Atlantic,Hard clams,aquaculture,1.84,701302.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-08-01,Mid-Atlantic,Hard clams,aquaculture,1.77,736128.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-09-01,Mid-Atlantic,Hard clams,aquaculture,1.74,675265.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-10-01,Mid-Atlantic,Hard clams,aquaculture,1.8,671086.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-11-01,Mid-Atlantic,Hard clams,aquaculture,1.7,693226.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-12-01,Mid-Atlantic,Hard clams,aquaculture,1.73,674730.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-01-01,Mid-Atlantic,Hard clams,aquaculture,1.79,745506.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-02-01,Mid-Atlantic,Hard clams,aquaculture,1.72,720071.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-03-01,Mid-Atlantic,Hard clams,aquaculture,1.79,707575.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-04-01,Mid-Atlantic,Hard clams,aquaculture,1.71,670378.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-05-01,Mid-Atlantic,Hard clams,aquaculture,1.7,715518.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-06-01,Mid-Atlantic,Hard clams,aquaculture,1.71,716525.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-07-01,Mid-Atlantic,Hard clams,aquaculture,1.8,692979.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-08-01,Mid-Atlantic,Hard clams,aquaculture,1.81,711319.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-09-01,Mid-Atlantic,Hard clams,aquaculture,1.75,684380.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-01-01,Northeast,Hard clams,aquaculture,1.81,778680.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-02-01,Northeast,Hard clams,aquaculture,1.81,836959.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-03-01,Northeast,Hard clams,aquaculture,1.86,806204.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-04-01,Northeast,Hard clams,aquaculture,1.79,767689.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-05-01,Northeast,Hard clams,aquaculture,1.78,804385.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-06-01,Northeast,Hard clams,aquaculture,1.89,766044.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-07-01,Northeast,Hard clams,aquaculture,1.89,783405.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-08-01,Northeast,Hard clams,aquaculture,1.83,828259.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-09-01,Northeast,Hard clams,aquaculture,1.8,810271.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-10-01,Northeast,Hard clams,aquaculture,1.76,740315.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-11-01,Northeast,Hard clams,aquaculture,1.77,834871.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-12-01,Northeast,Hard clams,aquaculture,1.84,834607.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-01-01,Northeast,Hard clams,aquaculture,1.84,806441.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-02-01,Northeast,Hard clams,aquaculture,1.77,791886.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-03-01,Northeast,Hard clams,aquaculture,1.81,830997.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-04-01,Northeast,Hard clams,aquaculture,1.81,842446.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-05-01,Northeast,Hard clams,aquaculture,1.87,832573.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-06-01,Northeast,Hard clams,aquaculture,1.79,819047.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-07-01,Northeast,Hard clams,aquaculture,1.78,800798.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-08-01,Northeast,Hard clams,aquaculture,1.89,788329.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-09-01,Northeast,Hard clams,aquaculture,1.76,817033.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-10-01,Northeast,Hard clams,aquaculture,1.77,780514.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-11-01,Northeast,Hard clams,aquaculture,1.76,810022.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-12-01,Northeast,Hard clams,aquaculture,1.83,847690.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-01-01,Northeast,Hard clams,aquaculture,1.83,861582.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-02-01,Northeast,Hard clams,aquaculture,1.71,785159.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-03-01,Northeast,Hard clams,aquaculture,1.82,814884.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-04-01,Northeast,Hard clams,aquaculture,1.89,759434.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-05-01,Northeast,Hard clams,aquaculture,1.87,784026.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-06-01,Northeast,Hard clams,aquaculture,1.89,791761.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-07-01,Northeast,Hard clams,aquaculture,1.84,774471.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-08-01,Northeast,Hard clams,aquaculture,1.86,768713.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-09-01,Northeast,Hard clams,aquaculture,1.87,800151.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-10-01,Northeast,Hard clams,aquaculture,1.7,791192.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-11-01,Northeast,Hard clams,aquaculture,1.76,799425.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-12-01,Northeast,Hard clams,aquaculture,1.76,783546.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-01-01,Northeast,Hard clams,aquaculture,1.72,816808.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-02-01,Northeast,Hard clams,aquaculture,1.77,837409.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-03-01,Northeast,Hard clams,aquaculture,1.82,822379.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-04-01,Northeast,Hard clams,aquaculture,1.77,834067.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-05-01,Northeast,Hard clams,aquaculture,1.84,759853.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-06-01,Northeast,Hard clams,aquaculture,1.83,789279.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-07-01,Northeast,Hard clams,aquaculture,1.82,828063.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-08-01,Northeast,Hard clams,aquaculture,1.78,762979.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-09-01,Northeast,Hard clams,aquaculture,1.79,739760.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-10-01,Northeast,Hard clams,aquaculture,1.79,856043.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-11-01,Northeast,Hard clams,aquaculture,1.82,789576.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-12-01,Northeast,Hard clams,aquaculture,1.92,851744.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-01-01,Northeast,Hard clams,aquaculture,1.83,756472.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-02-01,Northeast,Hard clams,aquaculture,1.82,774835.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-03-01,Northeast,Hard clams,aquaculture,1.83,794783.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-04-01,Northeast,Hard clams,aquaculture,1.73,781632.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-05-01,Northeast,Hard clams,aquaculture,1.81,774913.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-06-01,Northeast,Hard clams,aquaculture,1.8,856210.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-07-01,Northeast,Hard clams,aquaculture,1.83,790555.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-08-01,Northeast,Hard clams,aquaculture,1.88,835795.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-09-01,Northeast,Hard clams,aquaculture,1.81,804092.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-01-01,Southeast,Hard clams,aquaculture,1.59,530493.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-02-01,Southeast,Hard clams,aquaculture,1.61,515073.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-03-01,Southeast,Hard clams,aquaculture,1.67,477016.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-04-01,Southeast,Hard clams,aquaculture,1.62,500369.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-05-01,Southeast,Hard clams,aquaculture,1.69,491706.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-06-01,Southeast,Hard clams,aquaculture,1.73,485180.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-07-01,Southeast,Hard clams,aquaculture,1.65,521155.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-08-01,Southeast,Hard clams,aquaculture,1.7,535046.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-09-01,Southeast,Hard clams,aquaculture,1.55,471103.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-10-01,Southeast,Hard clams,aquaculture,1.57,531791.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-11-01,Southeast,Hard clams,aquaculture,1.62,492672.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-12-01,Southeast,Hard clams,aquaculture,1.56,522342.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-01-01,Southeast,Hard clams,aquaculture,1.67,512309.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-02-01,Southeast,Hard clams,aquaculture,1.65,519522.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-03-01,Southeast,Hard clams,aquaculture,1.63,473046.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-04-01,Southeast,Hard clams,aquaculture,1.6,506525.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-05-01,Southeast,Hard clams,aquaculture,1.64,509224.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-06-01,Southeast,Hard clams,aquaculture,1.54,524741.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-07-01,Southeast,Hard clams,aquaculture,1.69,518159.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-08-01,Southeast,Hard clams,aquaculture,1.68,452152.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-09-01,Southeast,Hard clams,aquaculture,1.66,462626.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-10-01,Southeast,Hard clams,aquaculture,1.62,491013.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-11-01,Southeast,Hard clams,aquaculture,1.57,511777.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-12-01,Southeast,Hard clams,aquaculture,1.65,479383.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-01-01,Southeast,Hard clams,aquaculture,1.61,506350.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-02-01,Southeast,Hard clams,aquaculture,1.59,549181.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-03-01,Southeast,Hard clams,aquaculture,1.62,534870.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-04-01,Southeast,Hard clams,aquaculture,1.64,477844.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-05-01,Southeast,Hard clams,aquaculture,1.69,478626.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-06-01,Southeast,Hard clams,aquaculture,1.65,480378.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-07-01,Southeast,Hard clams,aquaculture,1.67,496441.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-08-01,Southeast,Hard clams,aquaculture,1.68,527119.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-09-01,Southeast,Hard clams,aquaculture,1.63,522225.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-10-01,Southeast,Hard clams,aquaculture,1.74,472847.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-11-01,Southeast,Hard clams,aquaculture,1.69,488752.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-12-01,Southeast,Hard clams,aquaculture,1.65,529085.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-01-01,Southeast,Hard clams,aquaculture,1.56,508548.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-02-01,Southeast,Hard clams,aquaculture,1.63,509087.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-03-01,Southeast,Hard clams,aquaculture,1.6,493415.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-04-01,Southeast,Hard clams,aquaculture,1.7,478897.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-05-01,Southeast,Hard clams,aquaculture,1.67,494708.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-06-01,Southeast,Hard clams,aquaculture,1.64,508410.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-07-01,Southeast,Hard clams,aquaculture,1.66,505558.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-08-01,Southeast,Hard clams,aquaculture,1.66,492946.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-09-01,Southeast,Hard clams,aquaculture,1.59,507677.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-10-01,Southeast,Hard clams,aquaculture,1.56,504460.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-11-01,Southeast,Hard clams,aquaculture,1.65,464928.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-12-01,Southeast,Hard clams,aquaculture,1.57,497124.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-01-01,Southeast,Hard clams,aquaculture,1.53,495456.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-02-01,Southeast,Hard clams,aquaculture,1.59,500753.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-03-01,Southeast,Hard clams,aquaculture,1.63,470046.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-04-01,Southeast,Hard clams,aquaculture,1.66,477640.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-05-01,Southeast,Hard clams,aquaculture,1.59,520424.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-06-01,Southeast,Hard clams,aquaculture,1.71,502284.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-07-01,Southeast,Hard clams,aquaculture,1.7,510279.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-08-01,Southeast,Hard clams,aquaculture,1.64,515833.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-09-01,Southeast,Hard clams,aquaculture,1.62,533784.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-01-01,Hawaii-Pacific,Pacific amberjack,aquaculture,11.34,117228.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-02-01,Hawaii-Pacific,Pacific amberjack,aquaculture,10.77,122827.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-03-01,Hawaii-Pacific,Pacific amberjack,aquaculture,11.0,125441.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-04-01,Hawaii-Pacific,Pacific amberjack,aquaculture,11.37,122373.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-05-01,Hawaii-Pacific,Pacific amberjack,aquaculture,10.96,115866.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-06-01,Hawaii-Pacific,Pacific amberjack,aquaculture,11.11,120517.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-07-01,Hawaii-Pacific,Pacific amberjack,aquaculture,10.77,114108.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-08-01,Hawaii-Pacific,Pacific amberjack,aquaculture,11.2,130977.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-09-01,Hawaii-Pacific,Pacific amberjack,aquaculture,11.28,126238.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-10-01,Hawaii-Pacific,Pacific amberjack,aquaculture,10.62,124161.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-11-01,Hawaii-Pacific,Pacific amberjack,aquaculture,11.79,115514.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-12-01,Hawaii-Pacific,Pacific amberjack,aquaculture,11.82,123272.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-01-01,Hawaii-Pacific,Pacific amberjack,aquaculture,11.35,118289.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-02-01,Hawaii-Pacific,Pacific amberjack,aquaculture,11.86,121369.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-03-01,Hawaii-Pacific,Pacific amberjack,aquaculture,11.59,123431.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-04-01,Hawaii-Pacific,Pacific amberjack,aquaculture,10.83,119512.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-05-01,Hawaii-Pacific,Pacific amberjack,aquaculture,11.45,115553.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-06-01,Hawaii-Pacific,Pacific amberjack,aquaculture,11.42,131939.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-07-01,Hawaii-Pacific,Pacific amberjack,aquaculture,12.19,114486.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-08-01,Hawaii-Pacific,Pacific amberjack,aquaculture,11.99,120571.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-09-01,Hawaii-Pacific,Pacific amberjack,aquaculture,11.63,124577.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-10-01,Hawaii-Pacific,Pacific amberjack,aquaculture,11.8,118834.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-11-01,Hawaii-Pacific,Pacific amberjack,aquaculture,12.0,120387.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-12-01,Hawaii-Pacific,Pacific amberjack,aquaculture,12.06,129346.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-01-01,Hawaii-Pacific,Pacific amberjack,aquaculture,11.38,118775.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-02-01,Hawaii-Pacific,Pacific amberjack,aquaculture,11.95,113671.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-03-01,Hawaii-Pacific,Pacific amberjack,aquaculture,12.21,116509.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-04-01,Hawaii-Pacific,Pacific amberjack,aquaculture,12.17,124493.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-05-01,Hawaii-Pacific,Pacific amberjack,aquaculture,12.22,114125.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-06-01,Hawaii-Pacific,Pacific amberjack,aquaculture,11.48,118487.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-07-01,Hawaii-Pacific,Pacific amberjack,aquaculture,11.71,125635.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-08-01,Hawaii-Pacific,Pacific amberjack,aquaculture,11.97,118880.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-09-01,Hawaii-Pacific,Pacific amberjack,aquaculture,11.87,115715.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-10-01,Hawaii-Pacific,Pacific amberjack,aquaculture,11.79,115622.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-11-01,Hawaii-Pacific,Pacific amberjack,aquaculture,12.59,130314.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-12-01,Hawaii-Pacific,Pacific amberjack,aquaculture,12.09,118416.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-01-01,Hawaii-Pacific,Pacific amberjack,aquaculture,12.59,123665.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-02-01,Hawaii-Pacific,Pacific amberjack,aquaculture,12.03,116977.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-03-01,Hawaii-Pacific,Pacific amberjack,aquaculture,11.4,124161.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-04-01,Hawaii-Pacific,Pacific amberjack,aquaculture,11.79,121326.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-05-01,Hawaii-Pacific,Pacific amberjack,aquaculture,12.0,123058.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-06-01,Hawaii-Pacific,Pacific amberjack,aquaculture,12.31,110140.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-07-01,Hawaii-Pacific,Pacific amberjack,aquaculture,11.67,119592.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-08-01,Hawaii-Pacific,Pacific amberjack,aquaculture,13.14,120163.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-09-01,Hawaii-Pacific,Pacific amberjack,aquaculture,12.48,125755.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-10-01,Hawaii-Pacific,Pacific amberjack,aquaculture,12.44,115956.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-11-01,Hawaii-Pacific,Pacific amberjack,aquaculture,12.61,122215.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-12-01,Hawaii-Pacific,Pacific amberjack,aquaculture,12.85,128559.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-01-01,Hawaii-Pacific,Pacific amberjack,aquaculture,11.89,114392.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-02-01,Hawaii-Pacific,Pacific amberjack,aquaculture,12.15,115862.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-03-01,Hawaii-Pacific,Pacific amberjack,aquaculture,12.44,125896.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-04-01,Hawaii-Pacific,Pacific amberjack,aquaculture,11.74,123265.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-05-01,Hawaii-Pacific,Pacific amberjack,aquaculture,12.61,125081.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-06-01,Hawaii-Pacific,Pacific amberjack,aquaculture,12.95,114479.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-07-01,Hawaii-Pacific,Pacific amberjack,aquaculture,13.08,119888.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-08-01,Hawaii-Pacific,Pacific amberjack,aquaculture,12.69,124279.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-09-01,Hawaii-Pacific,Pacific amberjack,aquaculture,12.86,112578.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-01-01,Alaska,Pacific oysters,aquaculture,2.09,274831.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-02-01,Alaska,Pacific oysters,aquaculture,2.11,266917.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-03-01,Alaska,Pacific oysters,aquaculture,2.05,237384.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-04-01,Alaska,Pacific oysters,aquaculture,1.85,176962.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-05-01,Alaska,Pacific oysters,aquaculture,1.93,9809.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-06-01,Alaska,Pacific oysters,aquaculture,1.86,9400.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-07-01,Alaska,Pacific oysters,aquaculture,1.89,9032.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-08-01,Alaska,Pacific oysters,aquaculture,1.97,10208.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-09-01,Alaska,Pacific oysters,aquaculture,2.04,193167.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-10-01,Alaska,Pacific oysters,aquaculture,2.25,261995.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-11-01,Alaska,Pacific oysters,aquaculture,2.58,309388.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-12-01,Alaska,Pacific oysters,aquaculture,2.49,305444.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-01-01,Alaska,Pacific oysters,aquaculture,2.21,255973.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-02-01,Alaska,Pacific oysters,aquaculture,2.2,276649.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-03-01,Alaska,Pacific oysters,aquaculture,1.93,243342.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-04-01,Alaska,Pacific oysters,aquaculture,2.04,184521.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-05-01,Alaska,Pacific oysters,aquaculture,1.97,10037.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-06-01,Alaska,Pacific oysters,aquaculture,2.04,10088.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-07-01,Alaska,Pacific oysters,aquaculture,2.04,9695.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-08-01,Alaska,Pacific oysters,aquaculture,1.99,9640.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-09-01,Alaska,Pacific oysters,aquaculture,2.11,187561.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-10-01,Alaska,Pacific oysters,aquaculture,2.21,269963.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-11-01,Alaska,Pacific oysters,aquaculture,2.63,304309.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-12-01,Alaska,Pacific oysters,aquaculture,2.5,307162.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-01-01,Alaska,Pacific oysters,aquaculture,2.29,295094.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-02-01,Alaska,Pacific oysters,aquaculture,2.19,282454.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-03-01,Alaska,Pacific oysters,aquaculture,2.09,244301.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-04-01,Alaska,Pacific oysters,aquaculture,2.02,176532.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-05-01,Alaska,Pacific oysters,aquaculture,1.97,10484.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-06-01,Alaska,Pacific oysters,aquaculture,1.96,9429.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-07-01,Alaska,Pacific oysters,aquaculture,1.92,9808.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-08-01,Alaska,Pacific oysters,aquaculture,2.01,10074.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-09-01,Alaska,Pacific oysters,aquaculture,2.09,179342.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-10-01,Alaska,Pacific oysters,aquaculture,2.31,279623.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-11-01,Alaska,Pacific oysters,aquaculture,2.7,286743.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-12-01,Alaska,Pacific oysters,aquaculture,2.51,292772.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-01-01,Alaska,Pacific oysters,aquaculture,2.46,272099.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-02-01,Alaska,Pacific oysters,aquaculture,2.17,284997.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-03-01,Alaska,Pacific oysters,aquaculture,2.1,232024.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-04-01,Alaska,Pacific oysters,aquaculture,2.08,178464.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-05-01,Alaska,Pacific oysters,aquaculture,2.09,10639.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-06-01,Alaska,Pacific oysters,aquaculture,2.0,9765.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-07-01,Alaska,Pacific oysters,aquaculture,2.0,9824.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-08-01,Alaska,Pacific oysters,aquaculture,2.03,9705.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-09-01,Alaska,Pacific oysters,aquaculture,2.13,175767.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-10-01,Alaska,Pacific oysters,aquaculture,2.34,257234.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-11-01,Alaska,Pacific oysters,aquaculture,2.7,297386.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-12-01,Alaska,Pacific oysters,aquaculture,2.56,318487.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-01-01,Alaska,Pacific oysters,aquaculture,2.22,284956.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-02-01,Alaska,Pacific oysters,aquaculture,2.21,282769.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-03-01,Alaska,Pacific oysters,aquaculture,2.17,236215.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-04-01,Alaska,Pacific oysters,aquaculture,2.06,174674.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-05-01,Alaska,Pacific oysters,aquaculture,2.09,10515.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-06-01,Alaska,Pacific oysters,aquaculture,2.11,9970.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-07-01,Alaska,Pacific oysters,aquaculture,2.11,9673.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-08-01,Alaska,Pacific oysters,aquaculture,2.05,9526.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-09-01,Alaska,Pacific oysters,aquaculture,2.21,176071.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-01-01,Pacific Northwest,Pacific oysters,aquaculture,2.31,1468759.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-02-01,Pacific Northwest,Pacific oysters,aquaculture,2.16,1573389.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-03-01,Pacific Northwest,Pacific oysters,aquaculture,2.0,1309421.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-04-01,Pacific Northwest,Pacific oysters,aquaculture,1.97,983122.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-05-01,Pacific Northwest,Pacific oysters,aquaculture,2.06,51864.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-06-01,Pacific Northwest,Pacific oysters,aquaculture,1.99,57227.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-07-01,Pacific Northwest,Pacific oysters,aquaculture,2.16,57050.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-08-01,Pacific Northwest,Pacific oysters,aquaculture,2.05,55415.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-09-01,Pacific Northwest,Pacific oysters,aquaculture,2.15,1035017.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-10-01,Pacific Northwest,Pacific oysters,aquaculture,2.32,1439772.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-11-01,Pacific Northwest,Pacific oysters,aquaculture,2.71,1609933.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-12-01,Pacific Northwest,Pacific oysters,aquaculture,2.66,1531895.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-01-01,Pacific Northwest,Pacific oysters,aquaculture,2.23,1445746.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-02-01,Pacific Northwest,Pacific oysters,aquaculture,2.26,1592777.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-03-01,Pacific Northwest,Pacific oysters,aquaculture,2.07,1271537.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-04-01,Pacific Northwest,Pacific oysters,aquaculture,2.09,1044635.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-05-01,Pacific Northwest,Pacific oysters,aquaculture,1.99,51911.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-06-01,Pacific Northwest,Pacific oysters,aquaculture,2.06,55355.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-07-01,Pacific Northwest,Pacific oysters,aquaculture,2.14,54721.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-08-01,Pacific Northwest,Pacific oysters,aquaculture,2.24,52661.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-09-01,Pacific Northwest,Pacific oysters,aquaculture,2.07,938531.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-10-01,Pacific Northwest,Pacific oysters,aquaculture,2.41,1372802.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-11-01,Pacific Northwest,Pacific oysters,aquaculture,2.85,1651752.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-12-01,Pacific Northwest,Pacific oysters,aquaculture,2.67,1697440.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-01-01,Pacific Northwest,Pacific oysters,aquaculture,2.46,1603632.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-02-01,Pacific Northwest,Pacific oysters,aquaculture,2.25,1574603.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-03-01,Pacific Northwest,Pacific oysters,aquaculture,2.15,1444616.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-04-01,Pacific Northwest,Pacific oysters,aquaculture,2.09,976933.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-05-01,Pacific Northwest,Pacific oysters,aquaculture,2.2,55093.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-06-01,Pacific Northwest,Pacific oysters,aquaculture,2.13,52786.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-07-01,Pacific Northwest,Pacific oysters,aquaculture,2.15,53702.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-08-01,Pacific Northwest,Pacific oysters,aquaculture,2.2,60038.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-09-01,Pacific Northwest,Pacific oysters,aquaculture,2.3,1034513.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-10-01,Pacific Northwest,Pacific oysters,aquaculture,2.55,1354385.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-11-01,Pacific Northwest,Pacific oysters,aquaculture,2.78,1545521.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-12-01,Pacific Northwest,Pacific oysters,aquaculture,2.72,1625068.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-01-01,Pacific Northwest,Pacific oysters,aquaculture,2.51,1561630.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-02-01,Pacific Northwest,Pacific oysters,aquaculture,2.24,1501988.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-03-01,Pacific Northwest,Pacific oysters,aquaculture,2.23,1311534.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-04-01,Pacific Northwest,Pacific oysters,aquaculture,2.1,1019268.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-05-01,Pacific Northwest,Pacific oysters,aquaculture,2.11,56299.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-06-01,Pacific Northwest,Pacific oysters,aquaculture,2.21,56334.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-07-01,Pacific Northwest,Pacific oysters,aquaculture,2.12,57300.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-08-01,Pacific Northwest,Pacific oysters,aquaculture,2.21,55503.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-09-01,Pacific Northwest,Pacific oysters,aquaculture,2.24,1071687.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-10-01,Pacific Northwest,Pacific oysters,aquaculture,2.54,1532616.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-11-01,Pacific Northwest,Pacific oysters,aquaculture,2.81,1624301.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-12-01,Pacific Northwest,Pacific oysters,aquaculture,2.73,1627648.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-01-01,Pacific Northwest,Pacific oysters,aquaculture,2.41,1471375.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-02-01,Pacific Northwest,Pacific oysters,aquaculture,2.31,1544957.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-03-01,Pacific Northwest,Pacific oysters,aquaculture,2.37,1305783.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-04-01,Pacific Northwest,Pacific oysters,aquaculture,2.18,962322.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-05-01,Pacific Northwest,Pacific oysters,aquaculture,2.17,56048.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-06-01,Pacific Northwest,Pacific oysters,aquaculture,2.17,56398.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-07-01,Pacific Northwest,Pacific oysters,aquaculture,2.24,55401.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-08-01,Pacific Northwest,Pacific oysters,aquaculture,2.34,58908.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-09-01,Pacific Northwest,Pacific oysters,aquaculture,2.55,975406.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-01-01,Great Lakes,Rainbow trout,aquaculture,2.92,805982.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-02-01,Great Lakes,Rainbow trout,aquaculture,2.84,820287.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-03-01,Great Lakes,Rainbow trout,aquaculture,2.88,790518.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-04-01,Great Lakes,Rainbow trout,aquaculture,2.99,825622.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-05-01,Great Lakes,Rainbow trout,aquaculture,2.9,772949.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-06-01,Great Lakes,Rainbow trout,aquaculture,2.8,767973.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-07-01,Great Lakes,Rainbow trout,aquaculture,2.97,772901.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-08-01,Great Lakes,Rainbow trout,aquaculture,2.99,827008.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-09-01,Great Lakes,Rainbow trout,aquaculture,3.08,850079.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-10-01,Great Lakes,Rainbow trout,aquaculture,2.84,808601.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-11-01,Great Lakes,Rainbow trout,aquaculture,3.13,842783.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-12-01,Great Lakes,Rainbow trout,aquaculture,2.93,840004.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-01-01,Great Lakes,Rainbow trout,aquaculture,3.05,768148.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-02-01,Great Lakes,Rainbow trout,aquaculture,2.95,792106.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-03-01,Great Lakes,Rainbow trout,aquaculture,2.99,760743.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-04-01,Great Lakes,Rainbow trout,aquaculture,2.9,795911.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-05-01,Great Lakes,Rainbow trout,aquaculture,2.97,793574.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-06-01,Great Lakes,Rainbow trout,aquaculture,3.02,872580.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-07-01,Great Lakes,Rainbow trout,aquaculture,3.13,856903.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-08-01,Great Lakes,Rainbow trout,aquaculture,2.88,771771.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-09-01,Great Lakes,Rainbow trout,aquaculture,3.12,791679.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-10-01,Great Lakes,Rainbow trout,aquaculture,2.95,824166.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-11-01,Great Lakes,Rainbow trout,aquaculture,3.07,784819.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-12-01,Great Lakes,Rainbow trout,aquaculture,2.99,828423.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-01-01,Great Lakes,Rainbow trout,aquaculture,3.03,846103.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-02-01,Great Lakes,Rainbow trout,aquaculture,2.75,798956.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-03-01,Great Lakes,Rainbow trout,aquaculture,2.97,834543.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-04-01,Great Lakes,Rainbow trout,aquaculture,2.95,831925.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-05-01,Great Lakes,Rainbow trout,aquaculture,2.99,819981.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-06-01,Great Lakes,Rainbow trout,aquaculture,3.06,799911.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-07-01,Great Lakes,Rainbow trout,aquaculture,2.92,833447.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-08-01,Great Lakes,Rainbow trout,aquaculture,2.94,773344.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-09-01,Great Lakes,Rainbow trout,aquaculture,2.94,757809.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-10-01,Great Lakes,Rainbow trout,aquaculture,2.9,767696.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-11-01,Great Lakes,Rainbow trout,aquaculture,3.02,836399.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-12-01,Great Lakes,Rainbow trout,aquaculture,2.97,824181.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-01-01,Great Lakes,Rainbow trout,aquaculture,2.92,782426.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-02-01,Great Lakes,Rainbow trout,aquaculture,2.93,778052.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-03-01,Great Lakes,Rainbow trout,aquaculture,2.98,847073.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-04-01,Great Lakes,Rainbow trout,aquaculture,3.31,846128.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-05-01,Great Lakes,Rainbow trout,aquaculture,3.15,779259.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-06-01,Great Lakes,Rainbow trout,aquaculture,3.18,825186.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-07-01,Great Lakes,Rainbow trout,aquaculture,2.99,811799.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-08-01,Great Lakes,Rainbow trout,aquaculture,3.02,762209.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-09-01,Great Lakes,Rainbow trout,aquaculture,3.07,828369.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-10-01,Great Lakes,Rainbow trout,aquaculture,3.03,821937.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-11-01,Great Lakes,Rainbow trout,aquaculture,2.93,782236.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-12-01,Great Lakes,Rainbow trout,aquaculture,2.99,785933.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-01-01,Great Lakes,Rainbow trout,aquaculture,3.07,797313.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-02-01,Great Lakes,Rainbow trout,aquaculture,2.92,802120.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-03-01,Great Lakes,Rainbow trout,aquaculture,2.99,784590.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-04-01,Great Lakes,Rainbow trout,aquaculture,3.0,781936.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-05-01,Great Lakes,Rainbow trout,aquaculture,2.99,856016.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-06-01,Great Lakes,Rainbow trout,aquaculture,3.04,813566.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-07-01,Great Lakes,Rainbow trout,aquaculture,3.03,781723.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-08-01,Great Lakes,Rainbow trout,aquaculture,2.96,768104.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-09-01,Great Lakes,Rainbow trout,aquaculture,3.06,857027.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-01-01,Pacific Northwest,Rainbow trout,aquaculture,3.01,1121818.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-02-01,Pacific Northwest,Rainbow trout,aquaculture,3.07,1187111.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-03-01,Pacific Northwest,Rainbow trout,aquaculture,3.16,1243432.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-04-01,Pacific Northwest,Rainbow trout,aquaculture,2.83,1290623.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-05-01,Pacific Northwest,Rainbow trout,aquaculture,2.97,1290638.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-06-01,Pacific Northwest,Rainbow trout,aquaculture,3.12,1274260.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-07-01,Pacific Northwest,Rainbow trout,aquaculture,3.3,1154347.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-08-01,Pacific Northwest,Rainbow trout,aquaculture,3.01,1153152.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-09-01,Pacific Northwest,Rainbow trout,aquaculture,3.15,1238226.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-10-01,Pacific Northwest,Rainbow trout,aquaculture,3.01,1217969.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-11-01,Pacific Northwest,Rainbow trout,aquaculture,3.04,1182671.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-12-01,Pacific Northwest,Rainbow trout,aquaculture,2.97,1205146.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-01-01,Pacific Northwest,Rainbow trout,aquaculture,3.09,1152912.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-02-01,Pacific Northwest,Rainbow trout,aquaculture,2.96,1254412.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-03-01,Pacific Northwest,Rainbow trout,aquaculture,2.97,1143016.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-04-01,Pacific Northwest,Rainbow trout,aquaculture,2.91,1253388.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-05-01,Pacific Northwest,Rainbow trout,aquaculture,3.16,1127781.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-06-01,Pacific Northwest,Rainbow trout,aquaculture,3.18,1246197.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-07-01,Pacific Northwest,Rainbow trout,aquaculture,3.24,1179545.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-08-01,Pacific Northwest,Rainbow trout,aquaculture,3.05,1223775.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-09-01,Pacific Northwest,Rainbow trout,aquaculture,3.09,1292668.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-10-01,Pacific Northwest,Rainbow trout,aquaculture,3.12,1217365.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-11-01,Pacific Northwest,Rainbow trout,aquaculture,3.12,1199267.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-12-01,Pacific Northwest,Rainbow trout,aquaculture,3.12,1214936.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-01-01,Pacific Northwest,Rainbow trout,aquaculture,3.16,1232218.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-02-01,Pacific Northwest,Rainbow trout,aquaculture,3.1,1245083.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-03-01,Pacific Northwest,Rainbow trout,aquaculture,3.04,1187627.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-04-01,Pacific Northwest,Rainbow trout,aquaculture,3.08,1264288.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-05-01,Pacific Northwest,Rainbow trout,aquaculture,2.99,1148702.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-06-01,Pacific Northwest,Rainbow trout,aquaculture,3.23,1103121.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-07-01,Pacific Northwest,Rainbow trout,aquaculture,3.1,1185388.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-08-01,Pacific Northwest,Rainbow trout,aquaculture,3.07,1196015.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-09-01,Pacific Northwest,Rainbow trout,aquaculture,3.03,1269456.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-10-01,Pacific Northwest,Rainbow trout,aquaculture,3.01,1187445.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-11-01,Pacific Northwest,Rainbow trout,aquaculture,3.12,1230676.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-12-01,Pacific Northwest,Rainbow trout,aquaculture,3.08,1245866.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-01-01,Pacific Northwest,Rainbow trout,aquaculture,3.27,1229214.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-02-01,Pacific Northwest,Rainbow trout,aquaculture,3.04,1173858.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-03-01,Pacific Northwest,Rainbow trout,aquaculture,3.14,1155756.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-04-01,Pacific Northwest,Rainbow trout,aquaculture,3.0,1156398.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-05-01,Pacific Northwest,Rainbow trout,aquaculture,3.28,1142954.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-06-01,Pacific Northwest,Rainbow trout,aquaculture,3.08,1124295.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-07-01,Pacific Northwest,Rainbow trout,aquaculture,3.22,1165536.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-08-01,Pacific Northwest,Rainbow trout,aquaculture,3.2,1235376.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-09-01,Pacific Northwest,Rainbow trout,aquaculture,3.05,1151891.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-10-01,Pacific Northwest,Rainbow trout,aquaculture,3.13,1147841.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-11-01,Pacific Northwest,Rainbow trout,aquaculture,3.08,1144512.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-12-01,Pacific Northwest,Rainbow trout,aquaculture,3.08,1192600.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-01-01,Pacific Northwest,Rainbow trout,aquaculture,3.26,1190196.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-02-01,Pacific Northwest,Rainbow trout,aquaculture,3.24,1205875.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-03-01,Pacific Northwest,Rainbow trout,aquaculture,3.25,1186798.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-04-01,Pacific Northwest,Rainbow trout,aquaculture,3.12,1206327.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-05-01,Pacific Northwest,Rainbow trout,aquaculture,3.09,1234590.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-06-01,Pacific Northwest,Rainbow trout,aquaculture,3.23,1229458.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-07-01,Pacific Northwest,Rainbow trout,aquaculture,2.99,1204789.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-08-01,Pacific Northwest,Rainbow trout,aquaculture,3.02,1229077.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-09-01,Pacific Northwest,Rainbow trout,aquaculture,3.06,1126649.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-01-01,Pacific Northwest,Sturgeon caviar,aquaculture,848.78,3700.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-02-01,Pacific Northwest,Sturgeon caviar,aquaculture,880.37,3523.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-03-01,Pacific Northwest,Sturgeon caviar,aquaculture,783.93,3485.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-04-01,Pacific Northwest,Sturgeon caviar,aquaculture,798.79,4002.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-05-01,Pacific Northwest,Sturgeon caviar,aquaculture,739.76,4205.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-06-01,Pacific Northwest,Sturgeon caviar,aquaculture,764.13,3954.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-07-01,Pacific Northwest,Sturgeon caviar,aquaculture,727.57,4077.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-08-01,Pacific Northwest,Sturgeon caviar,aquaculture,738.83,4112.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-09-01,Pacific Northwest,Sturgeon caviar,aquaculture,754.94,4512.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-10-01,Pacific Northwest,Sturgeon caviar,aquaculture,814.16,4585.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-11-01,Pacific Northwest,Sturgeon caviar,aquaculture,914.94,4790.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-12-01,Pacific Northwest,Sturgeon caviar,aquaculture,1116.55,4014.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-01-01,Pacific Northwest,Sturgeon caviar,aquaculture,895.3,3575.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-02-01,Pacific Northwest,Sturgeon caviar,aquaculture,949.23,3774.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-03-01,Pacific Northwest,Sturgeon caviar,aquaculture,877.73,3548.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-04-01,Pacific Northwest,Sturgeon caviar,aquaculture,789.48,4212.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-05-01,Pacific Northwest,Sturgeon caviar,aquaculture,762.99,4099.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-06-01,Pacific Northwest,Sturgeon caviar,aquaculture,773.38,3950.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-07-01,Pacific Northwest,Sturgeon caviar,aquaculture,757.29,4253.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-08-01,Pacific Northwest,Sturgeon caviar,aquaculture,782.06,4105.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-09-01,Pacific Northwest,Sturgeon caviar,aquaculture,803.09,4278.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-10-01,Pacific Northwest,Sturgeon caviar,aquaculture,853.61,4597.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-11-01,Pacific Northwest,Sturgeon caviar,aquaculture,974.51,4975.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-12-01,Pacific Northwest,Sturgeon caviar,aquaculture,1183.72,3850.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-01-01,Pacific Northwest,Sturgeon caviar,aquaculture,910.0,3358.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-02-01,Pacific Northwest,Sturgeon caviar,aquaculture,983.98,3468.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-03-01,Pacific Northwest,Sturgeon caviar,aquaculture,904.23,3678.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-04-01,Pacific Northwest,Sturgeon caviar,aquaculture,859.9,4322.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-05-01,Pacific Northwest,Sturgeon caviar,aquaculture,842.15,4124.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-06-01,Pacific Northwest,Sturgeon caviar,aquaculture,825.17,4111.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-07-01,Pacific Northwest,Sturgeon caviar,aquaculture,841.49,4039.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-08-01,Pacific Northwest,Sturgeon caviar,aquaculture,837.18,3905.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-09-01,Pacific Northwest,Sturgeon caviar,aquaculture,906.11,4576.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-10-01,Pacific Northwest,Sturgeon caviar,aquaculture,894.96,4817.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-11-01,Pacific Northwest,Sturgeon caviar,aquaculture,975.41,5030.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-12-01,Pacific Northwest,Sturgeon caviar,aquaculture,1236.48,3784.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-01-01,Pacific Northwest,Sturgeon caviar,aquaculture,936.79,3658.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-02-01,Pacific Northwest,Sturgeon caviar,aquaculture,988.68,3621.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-03-01,Pacific Northwest,Sturgeon caviar,aquaculture,942.25,3572.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-04-01,Pacific Northwest,Sturgeon caviar,aquaculture,879.6,3968.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-05-01,Pacific Northwest,Sturgeon caviar,aquaculture,862.22,3919.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-06-01,Pacific Northwest,Sturgeon caviar,aquaculture,855.41,4239.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-07-01,Pacific Northwest,Sturgeon caviar,aquaculture,804.98,3922.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-08-01,Pacific Northwest,Sturgeon caviar,aquaculture,860.63,4041.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-09-01,Pacific Northwest,Sturgeon caviar,aquaculture,863.53,4607.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-10-01,Pacific Northwest,Sturgeon caviar,aquaculture,967.55,4931.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-11-01,Pacific Northwest,Sturgeon caviar,aquaculture,1026.11,4743.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-12-01,Pacific Northwest,Sturgeon caviar,aquaculture,1248.82,3958.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-01-01,Pacific Northwest,Sturgeon caviar,aquaculture,994.73,3525.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-02-01,Pacific Northwest,Sturgeon caviar,aquaculture,1053.87,3494.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-03-01,Pacific Northwest,Sturgeon caviar,aquaculture,954.0,3523.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-04-01,Pacific Northwest,Sturgeon caviar,aquaculture,911.82,4102.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-05-01,Pacific Northwest,Sturgeon caviar,aquaculture,904.06,4017.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-06-01,Pacific Northwest,Sturgeon caviar,aquaculture,861.13,4034.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-07-01,Pacific Northwest,Sturgeon caviar,aquaculture,885.28,3877.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-08-01,Pacific Northwest,Sturgeon caviar,aquaculture,899.61,3958.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-09-01,Pacific Northwest,Sturgeon caviar,aquaculture,928.8,4476.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-01-01,Southeast,Sturgeon caviar,aquaculture,769.43,2578.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-02-01,Southeast,Sturgeon caviar,aquaculture,792.76,2582.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-03-01,Southeast,Sturgeon caviar,aquaculture,725.98,2666.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-04-01,Southeast,Sturgeon caviar,aquaculture,718.34,2951.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-05-01,Southeast,Sturgeon caviar,aquaculture,726.49,2829.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-06-01,Southeast,Sturgeon caviar,aquaculture,674.86,3071.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-07-01,Southeast,Sturgeon caviar,aquaculture,677.96,3178.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-08-01,Southeast,Sturgeon caviar,aquaculture,685.95,2912.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-09-01,Southeast,Sturgeon caviar,aquaculture,748.72,3322.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-10-01,Southeast,Sturgeon caviar,aquaculture,776.92,3571.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-11-01,Southeast,Sturgeon caviar,aquaculture,866.35,3496.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-12-01,Southeast,Sturgeon caviar,aquaculture,1080.7,2930.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-01-01,Southeast,Sturgeon caviar,aquaculture,801.28,2755.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-02-01,Southeast,Sturgeon caviar,aquaculture,846.27,2681.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-03-01,Southeast,Sturgeon caviar,aquaculture,788.11,2821.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-04-01,Southeast,Sturgeon caviar,aquaculture,737.51,2880.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-05-01,Southeast,Sturgeon caviar,aquaculture,743.4,2971.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-06-01,Southeast,Sturgeon caviar,aquaculture,720.59,3288.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-07-01,Southeast,Sturgeon caviar,aquaculture,714.41,3070.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-08-01,Southeast,Sturgeon caviar,aquaculture,692.78,2961.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-09-01,Southeast,Sturgeon caviar,aquaculture,760.81,3232.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-10-01,Southeast,Sturgeon caviar,aquaculture,788.86,3648.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-11-01,Southeast,Sturgeon caviar,aquaculture,865.47,3702.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-12-01,Southeast,Sturgeon caviar,aquaculture,1101.97,3098.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-01-01,Southeast,Sturgeon caviar,aquaculture,841.47,2586.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-02-01,Southeast,Sturgeon caviar,aquaculture,893.64,2787.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-03-01,Southeast,Sturgeon caviar,aquaculture,813.64,2796.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-04-01,Southeast,Sturgeon caviar,aquaculture,814.99,2934.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-05-01,Southeast,Sturgeon caviar,aquaculture,760.73,2922.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-06-01,Southeast,Sturgeon caviar,aquaculture,770.92,3042.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-07-01,Southeast,Sturgeon caviar,aquaculture,731.49,2944.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-08-01,Southeast,Sturgeon caviar,aquaculture,797.06,3126.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-09-01,Southeast,Sturgeon caviar,aquaculture,773.22,3536.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-10-01,Southeast,Sturgeon caviar,aquaculture,842.56,3733.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-11-01,Southeast,Sturgeon caviar,aquaculture,870.11,3385.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-12-01,Southeast,Sturgeon caviar,aquaculture,1143.33,3004.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-01-01,Southeast,Sturgeon caviar,aquaculture,872.46,2726.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-02-01,Southeast,Sturgeon caviar,aquaculture,939.39,2661.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-03-01,Southeast,Sturgeon caviar,aquaculture,887.08,2673.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-04-01,Southeast,Sturgeon caviar,aquaculture,817.89,2975.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-05-01,Southeast,Sturgeon caviar,aquaculture,794.78,2984.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-06-01,Southeast,Sturgeon caviar,aquaculture,768.19,2916.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-07-01,Southeast,Sturgeon caviar,aquaculture,768.03,2991.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-08-01,Southeast,Sturgeon caviar,aquaculture,806.69,3013.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-09-01,Southeast,Sturgeon caviar,aquaculture,818.83,3368.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-10-01,Southeast,Sturgeon caviar,aquaculture,887.29,3603.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-11-01,Southeast,Sturgeon caviar,aquaculture,1003.2,3433.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-12-01,Southeast,Sturgeon caviar,aquaculture,1186.28,2970.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-01-01,Southeast,Sturgeon caviar,aquaculture,963.72,2692.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-02-01,Southeast,Sturgeon caviar,aquaculture,942.82,2687.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-03-01,Southeast,Sturgeon caviar,aquaculture,885.65,2781.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-04-01,Southeast,Sturgeon caviar,aquaculture,824.42,3019.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-05-01,Southeast,Sturgeon caviar,aquaculture,830.82,3000.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-06-01,Southeast,Sturgeon caviar,aquaculture,804.63,3056.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-07-01,Southeast,Sturgeon caviar,aquaculture,834.47,2803.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-08-01,Southeast,Sturgeon caviar,aquaculture,804.97,3132.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-09-01,Southeast,Sturgeon caviar,aquaculture,901.72,3197.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-01-01,Alaska,Sugar kelp,aquaculture,0.64,20335.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-02-01,Alaska,Sugar kelp,aquaculture,0.69,20972.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-03-01,Alaska,Sugar kelp,aquaculture,0.64,639161.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-04-01,Alaska,Sugar kelp,aquaculture,0.66,1227459.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-05-01,Alaska,Sugar kelp,aquaculture,0.67,936057.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-06-01,Alaska,Sugar kelp,aquaculture,0.64,400178.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-07-01,Alaska,Sugar kelp,aquaculture,0.61,19268.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-08-01,Alaska,Sugar kelp,aquaculture,0.65,21032.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-09-01,Alaska,Sugar kelp,aquaculture,0.63,19437.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-10-01,Alaska,Sugar kelp,aquaculture,0.63,18839.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-11-01,Alaska,Sugar kelp,aquaculture,0.67,18492.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-12-01,Alaska,Sugar kelp,aquaculture,0.63,21658.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-01-01,Alaska,Sugar kelp,aquaculture,0.68,20684.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-02-01,Alaska,Sugar kelp,aquaculture,0.67,23099.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-03-01,Alaska,Sugar kelp,aquaculture,0.67,697291.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-04-01,Alaska,Sugar kelp,aquaculture,0.65,1130613.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-05-01,Alaska,Sugar kelp,aquaculture,0.65,1001162.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-06-01,Alaska,Sugar kelp,aquaculture,0.65,352218.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-07-01,Alaska,Sugar kelp,aquaculture,0.67,19338.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-08-01,Alaska,Sugar kelp,aquaculture,0.67,18047.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-09-01,Alaska,Sugar kelp,aquaculture,0.67,20538.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-10-01,Alaska,Sugar kelp,aquaculture,0.69,17941.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-11-01,Alaska,Sugar kelp,aquaculture,0.69,19699.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-12-01,Alaska,Sugar kelp,aquaculture,0.66,19469.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-01-01,Alaska,Sugar kelp,aquaculture,0.65,19367.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-02-01,Alaska,Sugar kelp,aquaculture,0.68,20208.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-03-01,Alaska,Sugar kelp,aquaculture,0.68,717265.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-04-01,Alaska,Sugar kelp,aquaculture,0.68,1219652.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-05-01,Alaska,Sugar kelp,aquaculture,0.68,960754.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-06-01,Alaska,Sugar kelp,aquaculture,0.66,411793.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-07-01,Alaska,Sugar kelp,aquaculture,0.69,20157.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-08-01,Alaska,Sugar kelp,aquaculture,0.71,19865.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-09-01,Alaska,Sugar kelp,aquaculture,0.69,20879.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-10-01,Alaska,Sugar kelp,aquaculture,0.72,18289.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-11-01,Alaska,Sugar kelp,aquaculture,0.72,19847.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-12-01,Alaska,Sugar kelp,aquaculture,0.68,19936.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-01-01,Alaska,Sugar kelp,aquaculture,0.71,19161.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-02-01,Alaska,Sugar kelp,aquaculture,0.7,19030.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-03-01,Alaska,Sugar kelp,aquaculture,0.7,769819.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-04-01,Alaska,Sugar kelp,aquaculture,0.69,1122052.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-05-01,Alaska,Sugar kelp,aquaculture,0.67,1000569.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-06-01,Alaska,Sugar kelp,aquaculture,0.68,327383.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-07-01,Alaska,Sugar kelp,aquaculture,0.72,19813.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-08-01,Alaska,Sugar kelp,aquaculture,0.73,22131.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-09-01,Alaska,Sugar kelp,aquaculture,0.75,21365.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-10-01,Alaska,Sugar kelp,aquaculture,0.73,20132.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-11-01,Alaska,Sugar kelp,aquaculture,0.75,21126.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-12-01,Alaska,Sugar kelp,aquaculture,0.71,20179.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-01-01,Alaska,Sugar kelp,aquaculture,0.73,20599.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-02-01,Alaska,Sugar kelp,aquaculture,0.71,21273.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-03-01,Alaska,Sugar kelp,aquaculture,0.73,682772.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-04-01,Alaska,Sugar kelp,aquaculture,0.73,1166932.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-05-01,Alaska,Sugar kelp,aquaculture,0.73,1019766.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-06-01,Alaska,Sugar kelp,aquaculture,0.75,358974.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-07-01,Alaska,Sugar kelp,aquaculture,0.76,20276.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-08-01,Alaska,Sugar kelp,aquaculture,0.74,20325.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-09-01,Alaska,Sugar kelp,aquaculture,0.76,19660.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-01-01,Northeast,Sugar kelp,aquaculture,0.66,59699.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-02-01,Northeast,Sugar kelp,aquaculture,0.72,60495.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-03-01,Northeast,Sugar kelp,aquaculture,0.69,2187952.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-04-01,Northeast,Sugar kelp,aquaculture,0.71,3772464.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-05-01,Northeast,Sugar kelp,aquaculture,0.72,2621960.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-06-01,Northeast,Sugar kelp,aquaculture,0.7,1083837.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-07-01,Northeast,Sugar kelp,aquaculture,0.67,58340.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-08-01,Northeast,Sugar kelp,aquaculture,0.71,58266.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-09-01,Northeast,Sugar kelp,aquaculture,0.67,57515.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-10-01,Northeast,Sugar kelp,aquaculture,0.71,61523.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-11-01,Northeast,Sugar kelp,aquaculture,0.71,64496.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-12-01,Northeast,Sugar kelp,aquaculture,0.71,64285.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-01-01,Northeast,Sugar kelp,aquaculture,0.7,53347.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-02-01,Northeast,Sugar kelp,aquaculture,0.69,64968.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-03-01,Northeast,Sugar kelp,aquaculture,0.73,2303416.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-04-01,Northeast,Sugar kelp,aquaculture,0.71,3612959.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-05-01,Northeast,Sugar kelp,aquaculture,0.72,2973479.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-06-01,Northeast,Sugar kelp,aquaculture,0.75,1007592.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-07-01,Northeast,Sugar kelp,aquaculture,0.73,57527.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-08-01,Northeast,Sugar kelp,aquaculture,0.77,58340.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-09-01,Northeast,Sugar kelp,aquaculture,0.74,53941.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-10-01,Northeast,Sugar kelp,aquaculture,0.74,62035.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-11-01,Northeast,Sugar kelp,aquaculture,0.73,60958.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-12-01,Northeast,Sugar kelp,aquaculture,0.73,64330.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-01-01,Northeast,Sugar kelp,aquaculture,0.71,62231.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-02-01,Northeast,Sugar kelp,aquaculture,0.73,62523.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-03-01,Northeast,Sugar kelp,aquaculture,0.74,2287785.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-04-01,Northeast,Sugar kelp,aquaculture,0.74,4231017.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-05-01,Northeast,Sugar kelp,aquaculture,0.74,2984933.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-06-01,Northeast,Sugar kelp,aquaculture,0.74,1232761.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-07-01,Northeast,Sugar kelp,aquaculture,0.77,65581.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-08-01,Northeast,Sugar kelp,aquaculture,0.76,60948.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-09-01,Northeast,Sugar kelp,aquaculture,0.73,57524.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-10-01,Northeast,Sugar kelp,aquaculture,0.77,60229.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-11-01,Northeast,Sugar kelp,aquaculture,0.77,54231.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-12-01,Northeast,Sugar kelp,aquaculture,0.72,63183.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-01-01,Northeast,Sugar kelp,aquaculture,0.8,62133.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-02-01,Northeast,Sugar kelp,aquaculture,0.73,56560.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-03-01,Northeast,Sugar kelp,aquaculture,0.75,2320773.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-04-01,Northeast,Sugar kelp,aquaculture,0.77,3497504.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-05-01,Northeast,Sugar kelp,aquaculture,0.72,2889708.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-06-01,Northeast,Sugar kelp,aquaculture,0.76,964339.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-07-01,Northeast,Sugar kelp,aquaculture,0.8,63355.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-08-01,Northeast,Sugar kelp,aquaculture,0.8,57458.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-09-01,Northeast,Sugar kelp,aquaculture,0.79,62310.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-10-01,Northeast,Sugar kelp,aquaculture,0.75,67880.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-11-01,Northeast,Sugar kelp,aquaculture,0.78,53270.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-12-01,Northeast,Sugar kelp,aquaculture,0.78,53352.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-01-01,Northeast,Sugar kelp,aquaculture,0.77,60597.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-02-01,Northeast,Sugar kelp,aquaculture,0.78,60418.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-03-01,Northeast,Sugar kelp,aquaculture,0.77,2149601.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-04-01,Northeast,Sugar kelp,aquaculture,0.81,3209360.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-05-01,Northeast,Sugar kelp,aquaculture,0.74,2752414.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-06-01,Northeast,Sugar kelp,aquaculture,0.8,1003287.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-07-01,Northeast,Sugar kelp,aquaculture,0.79,59289.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-08-01,Northeast,Sugar kelp,aquaculture,0.79,65274.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-09-01,Northeast,Sugar kelp,aquaculture,0.79,61406.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-01-01,Gulf,Tilapia,aquaculture,1.95,795295.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-02-01,Gulf,Tilapia,aquaculture,1.86,823232.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-03-01,Gulf,Tilapia,aquaculture,1.99,735600.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-04-01,Gulf,Tilapia,aquaculture,1.92,854458.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-05-01,Gulf,Tilapia,aquaculture,1.85,794692.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-06-01,Gulf,Tilapia,aquaculture,1.88,750709.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-07-01,Gulf,Tilapia,aquaculture,1.89,770043.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-08-01,Gulf,Tilapia,aquaculture,1.81,799222.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-09-01,Gulf,Tilapia,aquaculture,1.93,806214.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-10-01,Gulf,Tilapia,aquaculture,1.88,812183.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-11-01,Gulf,Tilapia,aquaculture,1.91,780434.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-12-01,Gulf,Tilapia,aquaculture,1.92,796865.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-01-01,Gulf,Tilapia,aquaculture,1.97,791224.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-02-01,Gulf,Tilapia,aquaculture,1.93,781450.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-03-01,Gulf,Tilapia,aquaculture,1.87,802067.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-04-01,Gulf,Tilapia,aquaculture,1.83,798153.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-05-01,Gulf,Tilapia,aquaculture,1.97,839042.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-06-01,Gulf,Tilapia,aquaculture,1.85,751459.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-07-01,Gulf,Tilapia,aquaculture,1.9,848654.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-08-01,Gulf,Tilapia,aquaculture,1.93,810974.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-09-01,Gulf,Tilapia,aquaculture,1.78,824865.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-10-01,Gulf,Tilapia,aquaculture,1.87,769442.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-11-01,Gulf,Tilapia,aquaculture,1.82,804383.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-12-01,Gulf,Tilapia,aquaculture,1.84,802627.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-01-01,Gulf,Tilapia,aquaculture,1.82,778565.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-02-01,Gulf,Tilapia,aquaculture,1.88,815785.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-03-01,Gulf,Tilapia,aquaculture,1.89,867405.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-04-01,Gulf,Tilapia,aquaculture,1.86,779745.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-05-01,Gulf,Tilapia,aquaculture,1.83,787357.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-06-01,Gulf,Tilapia,aquaculture,1.83,832481.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-07-01,Gulf,Tilapia,aquaculture,1.9,834740.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-08-01,Gulf,Tilapia,aquaculture,1.89,818512.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-09-01,Gulf,Tilapia,aquaculture,1.86,848343.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-10-01,Gulf,Tilapia,aquaculture,1.85,794236.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-11-01,Gulf,Tilapia,aquaculture,1.84,803118.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-12-01,Gulf,Tilapia,aquaculture,1.71,765557.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-01-01,Gulf,Tilapia,aquaculture,1.86,790974.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-02-01,Gulf,Tilapia,aquaculture,1.76,817916.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-03-01,Gulf,Tilapia,aquaculture,1.8,789828.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-04-01,Gulf,Tilapia,aquaculture,1.84,860327.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-05-01,Gulf,Tilapia,aquaculture,1.75,784486.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-06-01,Gulf,Tilapia,aquaculture,1.86,793810.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-07-01,Gulf,Tilapia,aquaculture,1.81,753521.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-08-01,Gulf,Tilapia,aquaculture,1.82,813754.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-09-01,Gulf,Tilapia,aquaculture,1.71,817335.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-10-01,Gulf,Tilapia,aquaculture,1.8,764784.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-11-01,Gulf,Tilapia,aquaculture,1.81,804046.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-12-01,Gulf,Tilapia,aquaculture,1.8,785597.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-01-01,Gulf,Tilapia,aquaculture,1.74,809751.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-02-01,Gulf,Tilapia,aquaculture,1.9,787819.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-03-01,Gulf,Tilapia,aquaculture,1.83,807686.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-04-01,Gulf,Tilapia,aquaculture,1.78,768855.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-05-01,Gulf,Tilapia,aquaculture,1.72,804776.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-06-01,Gulf,Tilapia,aquaculture,1.81,742447.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-07-01,Gulf,Tilapia,aquaculture,1.78,846154.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-08-01,Gulf,Tilapia,aquaculture,1.69,835756.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-09-01,Gulf,Tilapia,aquaculture,1.68,818800.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-01-01,Southeast,Tilapia,aquaculture,1.91,1369131.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-02-01,Southeast,Tilapia,aquaculture,1.86,1443649.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-03-01,Southeast,Tilapia,aquaculture,1.92,1417461.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-04-01,Southeast,Tilapia,aquaculture,1.94,1349912.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-05-01,Southeast,Tilapia,aquaculture,1.95,1441881.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-06-01,Southeast,Tilapia,aquaculture,2.0,1387385.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-07-01,Southeast,Tilapia,aquaculture,1.86,1424048.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-08-01,Southeast,Tilapia,aquaculture,1.93,1353035.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-09-01,Southeast,Tilapia,aquaculture,1.77,1431710.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-10-01,Southeast,Tilapia,aquaculture,1.9,1395574.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-11-01,Southeast,Tilapia,aquaculture,1.82,1425916.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2022-12-01,Southeast,Tilapia,aquaculture,1.83,1410999.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-01-01,Southeast,Tilapia,aquaculture,1.84,1434341.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-02-01,Southeast,Tilapia,aquaculture,1.93,1370390.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-03-01,Southeast,Tilapia,aquaculture,1.92,1426117.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-04-01,Southeast,Tilapia,aquaculture,1.99,1372091.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-05-01,Southeast,Tilapia,aquaculture,1.95,1421098.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-06-01,Southeast,Tilapia,aquaculture,1.91,1476541.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-07-01,Southeast,Tilapia,aquaculture,1.86,1375170.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-08-01,Southeast,Tilapia,aquaculture,1.88,1350963.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-09-01,Southeast,Tilapia,aquaculture,1.8,1389141.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-10-01,Southeast,Tilapia,aquaculture,1.91,1427425.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-11-01,Southeast,Tilapia,aquaculture,1.76,1353483.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2023-12-01,Southeast,Tilapia,aquaculture,1.83,1460311.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-01-01,Southeast,Tilapia,aquaculture,1.85,1383152.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-02-01,Southeast,Tilapia,aquaculture,1.75,1429634.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-03-01,Southeast,Tilapia,aquaculture,1.87,1332278.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-04-01,Southeast,Tilapia,aquaculture,1.8,1431065.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-05-01,Southeast,Tilapia,aquaculture,1.83,1441062.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-06-01,Southeast,Tilapia,aquaculture,1.84,1339643.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-07-01,Southeast,Tilapia,aquaculture,1.82,1402351.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-08-01,Southeast,Tilapia,aquaculture,1.88,1470853.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-09-01,Southeast,Tilapia,aquaculture,1.79,1340413.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-10-01,Southeast,Tilapia,aquaculture,1.78,1411617.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-11-01,Southeast,Tilapia,aquaculture,1.81,1444723.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2024-12-01,Southeast,Tilapia,aquaculture,1.81,1479046.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-01-01,Southeast,Tilapia,aquaculture,1.92,1388519.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-02-01,Southeast,Tilapia,aquaculture,1.81,1317131.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-03-01,Southeast,Tilapia,aquaculture,1.84,1407783.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-04-01,Southeast,Tilapia,aquaculture,1.79,1428888.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-05-01,Southeast,Tilapia,aquaculture,1.76,1387704.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-06-01,Southeast,Tilapia,aquaculture,1.8,1432450.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-07-01,Southeast,Tilapia,aquaculture,1.82,1435687.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-08-01,Southeast,Tilapia,aquaculture,1.7,1317591.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-09-01,Southeast,Tilapia,aquaculture,1.73,1475317.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-10-01,Southeast,Tilapia,aquaculture,1.78,1394928.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-11-01,Southeast,Tilapia,aquaculture,1.77,1336864.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2025-12-01,Southeast,Tilapia,aquaculture,1.79,1448155.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-01-01,Southeast,Tilapia,aquaculture,1.76,1427658.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-02-01,Southeast,Tilapia,aquaculture,1.72,1401970.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-03-01,Southeast,Tilapia,aquaculture,1.7,1362941.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-04-01,Southeast,Tilapia,aquaculture,1.72,1365112.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-05-01,Southeast,Tilapia,aquaculture,1.76,1410382.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-06-01,Southeast,Tilapia,aquaculture,1.8,1441711.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-07-01,Southeast,Tilapia,aquaculture,1.77,1428317.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-08-01,Southeast,Tilapia,aquaculture,1.68,1390490.0,lb,farm_gate,SRC-GOV-02,2026-10-02
+2026-09-01,Southeast,Tilapia,aquaculture,1.71,1314151.0,lb,farm_gate,SRC-GOV-02,2026-10-02

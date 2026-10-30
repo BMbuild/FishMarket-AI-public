@@ -1,0 +1,65 @@
+from_region,to_region,chilled_usd_per_lb,frozen_usd_per_lb,transit_days_chilled
+Northeast,Northeast,0.03,0.018,1
+Northeast,Mid-Atlantic,0.1,0.06,1
+Northeast,Southeast,0.15,0.09,2
+Northeast,Gulf,0.21,0.126,2
+Northeast,Great Lakes,0.15,0.09,2
+Northeast,Pacific Northwest,0.34,0.204,4
+Northeast,Alaska,0.38,0.228,4
+Northeast,Hawaii-Pacific,0.39,0.234,4
+Mid-Atlantic,Northeast,0.1,0.06,1
+Mid-Atlantic,Mid-Atlantic,0.03,0.018,1
+Mid-Atlantic,Southeast,0.12,0.072,2
+Mid-Atlantic,Gulf,0.17,0.102,2
+Mid-Atlantic,Great Lakes,0.13,0.078,2
+Mid-Atlantic,Pacific Northwest,0.33,0.198,4
+Mid-Atlantic,Alaska,0.37,0.222,4
+Mid-Atlantic,Hawaii-Pacific,0.36,0.216,4
+Southeast,Northeast,0.15,0.09,2
+Southeast,Mid-Atlantic,0.12,0.072,2
+Southeast,Southeast,0.03,0.018,1
+Southeast,Gulf,0.12,0.072,2
+Southeast,Great Lakes,0.15,0.09,2
+Southeast,Pacific Northwest,0.33,0.198,4
+Southeast,Alaska,0.39,0.234,4
+Southeast,Hawaii-Pacific,0.32,0.192,3
+Gulf,Northeast,0.21,0.126,2
+Gulf,Mid-Atlantic,0.17,0.102,2
+Gulf,Southeast,0.12,0.072,2
+Gulf,Gulf,0.03,0.018,1
+Gulf,Great Lakes,0.17,0.102,2
+Gulf,Pacific Northwest,0.3,0.18,3
+Gulf,Alaska,0.37,0.222,4
+Gulf,Hawaii-Pacific,0.26,0.156,3
+Great Lakes,Northeast,0.15,0.09,2
+Great Lakes,Mid-Atlantic,0.13,0.078,2
+Great Lakes,Southeast,0.15,0.09,2
+Great Lakes,Gulf,0.17,0.102,2
+Great Lakes,Great Lakes,0.03,0.018,1
+Great Lakes,Pacific Northwest,0.26,0.156,3
+Great Lakes,Alaska,0.3,0.18,3
+Great Lakes,Hawaii-Pacific,0.31,0.186,3
+Pacific Northwest,Northeast,0.34,0.204,4
+Pacific Northwest,Mid-Atlantic,0.33,0.198,4
+Pacific Northwest,Southeast,0.33,0.198,4
+Pacific Northwest,Gulf,0.3,0.18,3
+Pacific Northwest,Great Lakes,0.26,0.156,3
+Pacific Northwest,Pacific Northwest,0.03,0.018,1
+Pacific Northwest,Alaska,0.15,0.09,2
+Pacific Northwest,Hawaii-Pacific,0.25,0.15,3
+Alaska,Northeast,0.38,0.228,4
+Alaska,Mid-Atlantic,0.37,0.222,4
+Alaska,Southeast,0.39,0.234,4
+Alaska,Gulf,0.37,0.222,4
+Alaska,Great Lakes,0.3,0.18,3
+Alaska,Pacific Northwest,0.15,0.09,2
+Alaska,Alaska,0.03,0.018,1
+Alaska,Hawaii-Pacific,0.34,0.204,4
+Hawaii-Pacific,Northeast,0.39,0.234,4
+Hawaii-Pacific,Mid-Atlantic,0.36,0.216,4
+Hawaii-Pacific,Southeast,0.32,0.192,3
+Hawaii-Pacific,Gulf,0.26,0.156,3
+Hawaii-Pacific,Great Lakes,0.31,0.186,3
+Hawaii-Pacific,Pacific Northwest,0.25,0.15,3
+Hawaii-Pacific,Alaska,0.34,0.204,4
+Hawaii-Pacific,Hawaii-Pacific,0.03,0.018,1

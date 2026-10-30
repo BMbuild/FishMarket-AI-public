@@ -1,0 +1,318 @@
+[
+ {
+  "id": "G01",
+  "name": "Gulf Coast shrimp boat, mainstream buyers",
+  "profile": {
+   "region": "Gulf",
+   "species": [
+    "Gulf shrimp"
+   ],
+   "customer_segment": "mainstream",
+   "volume_lb_per_month": 40000,
+   "as_of": "2026-10-15",
+   "operation_type": "wild_catch",
+   "question_type": "sell_or_hold",
+   "free_text": ""
+  },
+  "planted_cases": []
+ },
+ {
+  "id": "G02",
+  "name": "New England lobster fisher, premium restaurants",
+  "profile": {
+   "region": "Northeast",
+   "species": [
+    "American lobster"
+   ],
+   "customer_segment": "premium",
+   "volume_lb_per_month": 25000,
+   "as_of": "2026-10-15",
+   "operation_type": "wild_catch",
+   "question_type": "sell_or_hold",
+   "free_text": ""
+  },
+  "planted_cases": []
+ },
+ {
+  "id": "G03",
+  "name": "Pacific Northwest salmon cooperative, mixed buyers",
+  "profile": {
+   "region": "Pacific Northwest",
+   "species": [
+    "Wild salmon"
+   ],
+   "customer_segment": "mainstream",
+   "volume_lb_per_month": 120000,
+   "as_of": "2026-10-15",
+   "operation_type": "cooperative",
+   "question_type": "sell_or_hold",
+   "free_text": ""
+  },
+  "planted_cases": []
+ },
+ {
+  "id": "G04",
+  "name": "Southeastern catfish farm, price-sensitive buyers",
+  "profile": {
+   "region": "Southeast",
+   "species": [
+    "Catfish"
+   ],
+   "customer_segment": "price_sensitive",
+   "volume_lb_per_month": 90000,
+   "as_of": "2026-10-15",
+   "operation_type": "aquaculture",
+   "question_type": "sell_or_hold",
+   "free_text": ""
+  },
+  "planted_cases": []
+ },
+ {
+  "id": "G05",
+  "name": "Pacific Northwest sturgeon farm, luxury caviar buyers",
+  "profile": {
+   "region": "Pacific Northwest",
+   "species": [
+    "Sturgeon caviar"
+   ],
+   "customer_segment": "premium",
+   "volume_lb_per_month": 300,
+   "as_of": "2026-10-15",
+   "operation_type": "aquaculture",
+   "question_type": "sell_or_hold",
+   "free_text": ""
+  },
+  "planted_cases": []
+ },
+ {
+  "id": "G06",
+  "name": "Gulf Coast shrimp boat with planted data problems",
+  "profile": {
+   "region": "Gulf",
+   "species": [
+    "Gulf shrimp"
+   ],
+   "customer_segment": "mainstream",
+   "volume_lb_per_month": 40000,
+   "as_of": "2026-10-15",
+   "operation_type": "wild_catch",
+   "question_type": "sell_or_hold",
+   "free_text": ""
+  },
+  "planted_cases": [
+   "PP-CONFLICT",
+   "PP-STALE"
+  ]
+ },
+ {
+  "id": "G13",
+  "name": "Alaska pot-trap fisher, king crab, premium, frozen storage",
+  "profile": {
+   "region": "Alaska",
+   "operation_type": "pot_trap_fisher",
+   "species": [
+    "King crab"
+   ],
+   "customer_segment": "premium",
+   "volume_lb_per_month": 30000,
+   "as_of": "2026-10-15",
+   "question_type": "sell_or_hold",
+   "free_text": "Third-generation crabber out of Dutch Harbor. I have freezer space for about two months of catch.",
+   "storage": "frozen"
+  },
+  "planted_cases": []
+ },
+ {
+  "id": "G14",
+  "name": "Hawaii inshore boat, bigeye tuna, premium, chilled",
+  "profile": {
+   "region": "Hawaii-Pacific",
+   "operation_type": "inshore_boat",
+   "species": [
+    "Bigeye tuna"
+   ],
+   "customer_segment": "premium",
+   "volume_lb_per_month": 8000,
+   "as_of": "2026-10-15",
+   "question_type": "sell_or_hold",
+   "free_text": "Small day boat, two crew. Sells to sushi restaurants; no freezer on board.",
+   "storage": "chilled"
+  },
+  "planted_cases": []
+ },
+ {
+  "id": "G15",
+  "name": "Great Lakes inshore boat, walleye, mainstream",
+  "profile": {
+   "region": "Great Lakes",
+   "operation_type": "inshore_boat",
+   "species": [
+    "Walleye"
+   ],
+   "customer_segment": "mainstream",
+   "volume_lb_per_month": 12000,
+   "as_of": "2026-10-15",
+   "question_type": "sell_or_hold",
+   "free_text": "",
+   "storage": "chilled"
+  },
+  "planted_cases": []
+ },
+ {
+  "id": "G16",
+  "name": "Mid-Atlantic shellfish farm, Eastern oysters, premium",
+  "profile": {
+   "region": "Mid-Atlantic",
+   "operation_type": "shellfish_farm",
+   "species": [
+    "Eastern oysters"
+   ],
+   "customer_segment": "premium",
+   "volume_lb_per_month": 15000,
+   "as_of": "2026-10-15",
+   "question_type": "sell_or_hold",
+   "free_text": "Small oyster lease, three employees, selling to raw bars.",
+   "storage": "chilled"
+  },
+  "planted_cases": []
+ },
+ {
+  "id": "G18",
+  "name": "Northeast cooperative, cod, mainstream, no storage given",
+  "profile": {
+   "region": "Northeast",
+   "operation_type": "cooperative",
+   "species": [
+    "Cod"
+   ],
+   "customer_segment": "mainstream",
+   "volume_lb_per_month": 90000,
+   "as_of": "2026-10-15",
+   "question_type": "sell_or_hold",
+   "free_text": "We are a 14-boat co-op. Members voted to sell together this quarter."
+  },
+  "planted_cases": []
+ },
+ {
+  "id": "G20",
+  "name": "Pacific Northwest direct-to-consumer seller, Dungeness crab (retail prices)",
+  "profile": {
+   "region": "Pacific Northwest",
+   "operation_type": "direct_to_consumer",
+   "species": [
+    "Dungeness crab"
+   ],
+   "customer_segment": "mainstream",
+   "volume_lb_per_month": 3000,
+   "as_of": "2026-10-15",
+   "question_type": "sell_or_hold",
+   "free_text": "I sell at two farmers markets and a weekly subscription box.",
+   "storage": "chilled"
+  },
+  "planted_cases": []
+ },
+ {
+  "id": "G21",
+  "name": "Southeast processor sells at wholesale, Blue crab",
+  "profile": {
+   "region": "Southeast",
+   "operation_type": "processor",
+   "species": [
+    "Blue crab"
+   ],
+   "customer_segment": "mainstream",
+   "volume_lb_per_month": 120000,
+   "as_of": "2026-10-15",
+   "question_type": "sell_or_hold",
+   "free_text": "",
+   "storage": "frozen"
+  },
+  "planted_cases": []
+ },
+ {
+  "id": "G26",
+  "name": "Alaska pink salmon, best months to fish",
+  "profile": {
+   "region": "Alaska",
+   "operation_type": "inshore_boat",
+   "species": [
+    "Pink salmon"
+   ],
+   "customer_segment": "mainstream",
+   "volume_lb_per_month": 50000,
+   "as_of": "2026-10-15",
+   "question_type": "best_months",
+   "free_text": ""
+  },
+  "planted_cases": []
+ },
+ {
+  "id": "G31",
+  "name": "Northeast lobster markets",
+  "profile": {
+   "region": "Northeast",
+   "operation_type": "pot_trap_fisher",
+   "species": [
+    "American lobster"
+   ],
+   "customer_segment": "premium",
+   "volume_lb_per_month": 25000,
+   "as_of": "2026-10-15",
+   "question_type": "compare_markets",
+   "free_text": ""
+  },
+  "planted_cases": []
+ },
+ {
+  "id": "G36",
+  "name": "Alaska sockeye, export-oriented, large volume",
+  "profile": {
+   "region": "Alaska",
+   "operation_type": "offshore_vessel",
+   "species": [
+    "Sockeye salmon"
+   ],
+   "customer_segment": "export",
+   "volume_lb_per_month": 300000,
+   "as_of": "2026-10-15",
+   "question_type": "best_buyer_type",
+   "free_text": ""
+  },
+  "planted_cases": []
+ },
+ {
+  "id": "G41",
+  "name": "Northeast restaurant buying lobster (wholesale prices)",
+  "profile": {
+   "region": "Northeast",
+   "operation_type": "restaurant_buyer",
+   "species": [
+    "American lobster"
+   ],
+   "customer_segment": "premium",
+   "volume_lb_per_month": 1500,
+   "as_of": "2026-10-15",
+   "question_type": "buy_now_or_wait",
+   "free_text": "Seafood restaurant, six tables, lobster roll is the menu anchor."
+  },
+  "planted_cases": []
+ },
+ {
+  "id": "G46",
+  "name": "Southeast catfish farm: feed-cost squeeze",
+  "profile": {
+   "region": "Southeast",
+   "operation_type": "finfish_farm",
+   "species": [
+    "Catfish"
+   ],
+   "customer_segment": "mainstream",
+   "volume_lb_per_month": 90000,
+   "as_of": "2026-10-15",
+   "question_type": "sell_or_hold",
+   "free_text": "",
+   "storage": "chilled"
+  },
+  "planted_cases": []
+ }
+]

@@ -1,0 +1,2 @@
+input_name,gbif_key,gbif_scientific_name,gbif_occurrences,fishbase_records,gbif_file,fishbase_file
+Callinectes sapidus,2225646,"Callinectes sapidus Rathbun, 1896",300,0,external_data\gbif_Callinectes_sapidus.csv,

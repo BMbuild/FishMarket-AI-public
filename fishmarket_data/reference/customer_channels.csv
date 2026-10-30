@@ -1,0 +1,10 @@
+buyer_type,label,segment_fit,mult_premium_species,mult_mainstream_species,mult_price_sensitive_species,fee_pct,payment_days,min_order_lb,min_grade,applies_to,note
+five_star_restaurant,Five-star restaurants,premium,1.55,1.3,1.1,4.0,30,50,A,any,Pay the most for top grade and provenance.
+hotel_banquet,Hotels and banquet kitchens,premium;export,1.45,1.25,1.05,3.0,45,200,A,any,"Larger orders than restaurants, slower to pay."
+specialty_retail,Specialty fish shops,premium;mainstream,1.35,1.2,1.05,5.0,21,25,B,any,"Small regular orders, good margins."
+grocery_chain,Grocery chains,mainstream,1.1,1.12,1.06,2.0,60,5000,B,any,Large steady orders at near-wholesale prices.
+wholesale_broker,Wholesale brokers,mainstream;price_sensitive,1.04,1.05,1.05,1.5,14,500,C,any,"Fast, flexible, modest prices."
+processor_buyer,Processors,price_sensitive;mainstream,0.98,1.0,1.02,0.0,10,2000,C,any,Reliable volume buyer for anything that meets basic grade.
+export_buyer,Export buyers,export;premium,1.22,1.1,1.02,3.0,60,10000,A,any,Pay for bulk of high grade; long payment terms.
+institutional_buyer,"Institutions (schools, hospitals)",institutional;price_sensitive,0.95,0.98,1.03,1.0,45,1000,C,any,"Low price, steady volume."
+direct_to_consumer,Direct to shoppers,premium;mainstream,1.4,1.3,1.2,7.0,0,5,B,any,Best price per pound but small volumes and selling time.

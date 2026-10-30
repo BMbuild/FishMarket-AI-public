@@ -1,0 +1,36 @@
+species,category,source_type,regions
+American lobster,premium,wild_catch,Northeast
+Sea scallops,premium,wild_catch,Northeast
+Wild salmon,mainstream,wild_catch,Pacific Northwest
+Farmed salmon,mainstream,aquaculture,Northeast;Pacific Northwest
+Gulf shrimp,mainstream,wild_catch,Gulf;Southeast
+Cod,mainstream,wild_catch,Northeast;Pacific Northwest
+Yellowfin tuna,price_sensitive,wild_catch,Gulf;Southeast
+Catfish,price_sensitive,aquaculture,Gulf;Southeast
+Tilapia,price_sensitive,aquaculture,Gulf;Southeast
+Sturgeon caviar,premium,aquaculture,Pacific Northwest;Southeast
+Pink salmon,mainstream,wild_catch,Alaska
+Sockeye salmon,premium,wild_catch,Alaska;Pacific Northwest
+King crab,premium,wild_catch,Alaska
+Pacific halibut,premium,wild_catch,Alaska;Pacific Northwest
+Alaska pollock,price_sensitive,wild_catch,Alaska;Pacific Northwest
+Dungeness crab,mainstream,wild_catch,Pacific Northwest
+Blue crab,mainstream,wild_catch,Gulf;Mid-Atlantic;Southeast
+Summer flounder,mainstream,wild_catch,Mid-Atlantic;Northeast
+Striped bass,mainstream,wild_catch,Mid-Atlantic;Northeast
+Red snapper,premium,wild_catch,Gulf;Southeast
+Mahi-mahi,mainstream,wild_catch,Gulf;Hawaii-Pacific;Southeast
+Bigeye tuna,premium,wild_catch,Hawaii-Pacific
+Swordfish,mainstream,wild_catch,Hawaii-Pacific;Northeast;Southeast
+Walleye,mainstream,wild_catch,Great Lakes
+Yellow perch,mainstream,wild_catch,Great Lakes
+Lake whitefish,mainstream,wild_catch,Great Lakes
+Eastern oysters,premium,aquaculture,Gulf;Mid-Atlantic;Northeast
+Pacific oysters,premium,aquaculture,Alaska;Pacific Northwest
+Hard clams,mainstream,aquaculture,Mid-Atlantic;Northeast;Southeast
+Blue mussels,price_sensitive,aquaculture,Northeast;Pacific Northwest
+Rainbow trout,mainstream,aquaculture,Great Lakes;Pacific Northwest
+Farmed shrimp,mainstream,aquaculture,Gulf;Southeast
+Barramundi,mainstream,aquaculture,Hawaii-Pacific;Southeast
+Sugar kelp,price_sensitive,aquaculture,Alaska;Northeast
+Pacific amberjack,premium,aquaculture,Hawaii-Pacific

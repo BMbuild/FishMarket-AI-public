@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="150" viewBox="0 0 760 150" role="img" aria-labelledby="title desc">
+  <title id="title">FishMarket AI</title>
+  <desc id="desc">A fish-shaped data network and the FishMarket AI name.</desc>
+  <g transform="translate(22 20)">
+    <path d="M0 55 L-15 39 L-9 55 L-15 71 Z" fill="#28b7a6"/>
+    <path d="M0 55 C28 15 91 12 132 55 C91 98 28 95 0 55 Z" fill="#0c2632" stroke="#4c8b91" stroke-width="2"/>
+    <path d="M17 55 C41 29 76 27 104 55 C76 83 41 81 17 55 Z" fill="#174454"/>
+    <path d="M36 55 L56 38 L77 55 L56 72 Z M56 38 L79 31 M56 38 L56 72 M77 55 L98 47 M77 55 L98 64 M56 72 L79 79"
+          fill="none" stroke="#54b9aa" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="36" cy="55" r="4" fill="#ef9960"/>
+    <circle cx="56" cy="38" r="4" fill="#ef9960"/>
+    <circle cx="56" cy="72" r="4" fill="#ef9960"/>
+    <circle cx="77" cy="55" r="7" fill="#ef9960"/>
+    <circle cx="79" cy="31" r="4" fill="#ef9960"/>
+    <circle cx="79" cy="79" r="4" fill="#ef9960"/>
+    <circle cx="98" cy="47" r="4" fill="#ef9960"/>
+    <circle cx="98" cy="64" r="4" fill="#ef9960"/>
+    <circle cx="110" cy="49" r="3.5" fill="#d6e6df"/>
+    <circle cx="110" cy="61" r="3.5" fill="#d6e6df"/>
+    <path d="M4 107 C29 94 48 119 74 106 S115 95 137 107" fill="none" stroke="#54b9aa" stroke-width="6" stroke-linecap="round"/>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="190" y="76" font-size="51" font-weight="700" letter-spacing="-1.6">
+      <tspan fill="#e1e9e6">Fish</tspan><tspan fill="#54b9aa">Market</tspan><tspan fill="#ef9960"> AI</tspan>
+    </text>
+    <text x="193" y="113" fill="#a8bfbe" font-size="15" font-weight="600" letter-spacing="3.2">
+      FROM CATCH TO GLOBAL MARKET
+    </text>
+  </g>
+</svg>

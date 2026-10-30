@@ -1,0 +1,14 @@
+operation_id,gears,note
+wild_catch,pot_trap;trawl;line;net;seine;dredge;dive,any wild gear
+aquaculture,farm_finfish;farm_shellfish;farm_seaweed,any farm
+inshore_boat,pot_trap;line;net;dive;dredge,small boats close to shore
+offshore_vessel,trawl;line;seine;dredge;pot_trap,larger vessels on longer trips
+pot_trap_fisher,pot_trap,pots and traps
+finfish_farm,farm_finfish,finfish farms
+shellfish_farm,farm_shellfish;farm_seaweed,shellfish and seaweed farms
+cooperative,any,any
+processor,any,any
+distributor,any,any
+fishmonger_retailer,any,any
+restaurant_buyer,any,any
+direct_to_consumer,any,any

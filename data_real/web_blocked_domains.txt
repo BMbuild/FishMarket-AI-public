@@ -1,0 +1,16 @@
+# Sites the web researcher never uses, even on the open web: user-posted content, social media,
+# paste sites and AI-written answer farms, where a quote can't be traced to an accountable publisher.
+reddit.com
+quora.com
+x.com
+twitter.com
+facebook.com
+instagram.com
+tiktok.com
+pinterest.com
+youtube.com
+linkedin.com
+medium.com
+pastebin.com
+answers.com
+fandom.com

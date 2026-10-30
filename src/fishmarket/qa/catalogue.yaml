@@ -1,0 +1,341 @@
+# Question catalogue. Each entry: what it needs, which tool answers it, and how it is judged.
+# kind: real_only | real_plus_fill | needs_fill_data.   data: noaa | gbif | both | fallback
+- id: price_history
+  category: Price history
+  kind: real_only
+  data: noaa
+  tool: price_history
+  needs_species: 1
+  keywords: [price, prices, priced, fetch, fetched, worth, paid, pay, dockside, ex-vessel, per pound, sells for, sell for, cost per, value per]
+  examples:
+    - "What has Maine lobster fetched at the dock over 20 years?"
+    - "What is the dockside price of {species}?"
+    - "How much does {species} sell for per pound?"
+    - "Show me the price history for {species}"
+    - "What did {species} fetch in {region}?"
+  caveats: Annual dockside prices only. Not wholesale or retail.
+- id: price_vs_inflation
+  category: Price vs inflation
+  kind: real_only
+  data: noaa
+  tool: price_vs_inflation
+  needs_species: 1
+  strong: [inflation, cpi, inflation-adjusted]
+  keywords: [inflation, adjusted, real terms, real price, cpi, purchasing power, really more expensive, just inflation, kept up with inflation, price rise is inflation]
+  examples:
+    - "Is {species} really more expensive or is it just inflation?"
+    - "What is the inflation-adjusted price of {species}?"
+    - "Has the price of {species} kept up with inflation?"
+    - "{species} price in real terms"
+    - "How much of the {species} price rise is inflation?"
+  caveats: Uses annual US CPI-U for all items.
+- id: landings_trend
+  category: Landings trend
+  kind: real_only
+  data: noaa
+  tool: landings_trend
+  needs_species: 1
+  keywords: [landings, landed, catch, harvest, volume, pounds, falling, declining, rising, increasing, decreasing]
+  examples:
+    - "Are {species} landings falling?"
+    - "How many pounds of {species} were landed in {region}?"
+    - "Has the {species} harvest grown?"
+    - "What is the landings trend for {species}?"
+    - "Are {species} catches declining?"
+  caveats: Annual commercial landings in pounds, by region.
+- id: best_region_price
+  category: Which region pays most
+  kind: real_only
+  data: noaa
+  tool: best_region_price
+  needs_species: 1
+  strong: [sell for the most, sells for the most, highest price, pays the most]
+  keywords: [which region, where does, where do, highest price, pays the most, pay the most, best price, most for, which state pays]
+  examples:
+    - "Where does {species} sell for the most?"
+    - "Which region pays the most for {species}?"
+    - "Where is the highest price for {species}?"
+    - "Which region has the best price for {species}?"
+    - "Which state pays the most for {species}?"
+  caveats: Latest year; regions with under 1% of landings are left out.
+- id: concentration
+  category: Concentration
+  kind: real_only
+  data: noaa
+  tool: concentration
+  needs_species: 1
+  strong: [states land, top state, one state, few states, spread out]
+  keywords: [depend, dependent, concentrated, concentration, share of landings, which state lands, how much comes from, spread out, one state, land the most, states land, top state, comes from the top, supply spread]
+  examples:
+    - "How dependent is {species} on one state?"
+    - "Is {species} landing concentrated in a few states?"
+    - "Which states land the most {species}?"
+    - "How much of {species} comes from the top state?"
+    - "Is {species} supply spread out?"
+  caveats: Landings by state, latest year.
+- id: rec_vs_commercial
+  category: Recreational vs commercial
+  kind: real_only
+  data: noaa
+  tool: rec_vs_commercial
+  needs_species: 1
+  strong: [recreationally, recreational versus, recreational vs, recreational share]
+  keywords: [recreational, anglers, anglers catch, sport fishing, recreation, commercial or recreational, boats catch, mrip]
+  examples:
+    - "Do anglers or commercial boats catch more {species}?"
+    - "What share of {species} is caught recreationally?"
+    - "Recreational versus commercial catch of {species}"
+    - "How much {species} do anglers take?"
+    - "Is {species} mostly a recreational fish?"
+  caveats: Recreational catch is a survey estimate (MRIP) with no price; 1980 onward.
+- id: biggest_movers
+  category: Biggest movers
+  kind: real_only
+  data: noaa
+  tool: biggest_movers
+  needs_species: 0
+  keywords: [rose most, fell most, biggest mover, biggest movers, biggest price, risen the most, dropped the most, top movers, which species rose, which species fell, which species rose most, price jump, price drop]
+  examples:
+    - "Which species rose most in price last year?"
+    - "What were the biggest price movers?"
+    - "Which species fell the most in price?"
+    - "Which fish had the biggest price jump?"
+    - "Which species dropped the most in price?"
+  caveats: Species with at least 5 million dollars of landed value in both years.
+- id: compare_species
+  category: Compare species
+  kind: real_only
+  data: noaa
+  tool: compare_species
+  needs_species: 2
+  keywords: [compare, versus, vs, difference between, which is more expensive, cheaper than, more expensive than]
+  examples:
+    - "Compare {species} and {species2} prices"
+    - "Is {species} more expensive than {species2}?"
+    - "{species} versus {species2}"
+    - "What is the price difference between {species} and {species2}?"
+    - "Which is cheaper, {species} or {species2}?"
+  caveats: Latest-year dockside price for each species, all regions.
+- id: data_quality
+  category: Data quality
+  kind: real_only
+  data: noaa
+  tool: data_quality
+  needs_species: 1
+  keywords: [trust, reliable, data quality, missing data, can i trust, how good is the data, rejected, validation]
+  examples:
+    - "Can I trust the {species} numbers?"
+    - "How good is the data for {species}?"
+    - "Is there missing data for {species}?"
+    - "What did the validation gate say about {species}?"
+    - "How reliable are the {species} figures?"
+  caveats: Describes the gate's treatment of every NOAA row for the species.
+- id: where_found
+  category: Where is it found
+  kind: real_only
+  data: gbif
+  tool: where_found
+  needs_species: 1
+  keywords: [where has, where is, where was, found, recorded, sighted, sightings, occur, range, distribution, seen]
+  examples:
+    - "Where has {species} been recorded?"
+    - "Where is {species} found?"
+    - "What is the range of {species}?"
+    - "Where are {species} sightings?"
+    - "Where has {species} been seen?"
+  caveats: GBIF records show where people recorded the species, not how many exist.
+- id: range_shift
+  category: Range shift
+  kind: real_only
+  data: gbif
+  tool: range_shift
+  needs_species: 1
+  strong: [moving north, shifted, moved north, shifting, moving, moved, northward, shift, now compared, where is spx now]
+  keywords: [moving north, moving, shifting, shift, northward, range shift, moved north, migrating, moving poleward, moved, where is spx now]
+  examples:
+    - "Is {species} moving north?"
+    - "Has the range of {species} shifted?"
+    - "Is {species} shifting northward over time?"
+    - "Where is {species} now compared with 1990?"
+    - "Has {species} moved?"
+  caveats: Record counts depend on observer effort; read the shift together with the record counts.
+- id: seasonal_presence
+  category: Seasonal presence
+  kind: real_only
+  data: gbif
+  tool: seasonal_presence
+  needs_species: 1
+  keywords: [which months, what months, what time of year, season, seasonal, when is, when are, months is, in season]
+  examples:
+    - "In which months is {species} recorded?"
+    - "When is {species} in season?"
+    - "What time of year is {species} seen?"
+    - "Which months is {species} recorded off {region}?"
+    - "Is {species} seasonal?"
+  caveats: Month of record, not abundance; observers are more active in some months.
+- id: species_background
+  category: Species background
+  kind: real_only
+  data: gbif
+  tool: species_background
+  needs_species: 1
+  keywords: [background, family, scientific name, latin name, other names, taxonomy, what is spx, tell me about spx, background on]
+  examples:
+    - "What is {species}?"
+    - "What is the scientific name of {species}?"
+    - "Tell me about {species}"
+    - "What family is {species} in?"
+    - "Give me background on {species}"
+  caveats: Names come from the GBIF data loaded in this app.
+- id: landings_vs_sightings
+  category: Landings vs sightings
+  kind: real_only
+  data: both
+  tool: landings_vs_sightings
+  needs_species: 1
+  keywords: [landings and sightings, landings follow, sightings and landings, landed where, caught where it is recorded, landings versus records, landings with sightings, landings line up with records, landings follow, landed where]
+  examples:
+    - "Do {species} landings follow where it is recorded?"
+    - "Compare {species} landings with sightings by region"
+    - "Is {species} landed where it is seen?"
+    - "Landings versus sightings of {species}"
+    - "How do {species} landings line up with records?"
+  caveats: Descriptive only. Landings reflect fishing effort and rules; records reflect observer effort. No cause is implied.
+- id: recent_sightings_in_region
+  category: Recent sightings near a place
+  kind: real_only
+  data: both
+  tool: recent_sightings_in_region
+  needs_species: 0
+  needs_region: true
+  strong: [recorded in, records]
+  keywords: [recorded near, recorded off, recorded in, species recorded, which species were, what commercial species, sighted near, seen off, seen in, show up in, were seen, species were, show up]
+  examples:
+    - "What commercial species were recorded in {region} in 2023?"
+    - "Which species are recorded off {region}?"
+    - "What species were seen in {region} recently?"
+    - "Which commercial species show up in {region} records?"
+    - "What was recorded near {region}?"
+  caveats: Records by approximate region box, counted per species; effort-biased.
+- id: monthly_timing
+  category: Monthly timing
+  kind: needs_fill_data
+  data: fallback
+  tool: monthly_timing
+  needs_species: 1
+  strong: [best month, best months, which month, when should i sell, monthly]
+  keywords: [best month, best months, which month, when to sell, when should i sell, month to sell, monthly price, time of year to sell, seasonal price, cheapest month, monthly, monthly price pattern]
+  examples:
+    - "Which month is best to sell {species}?"
+    - "What are the best months to sell {species}?"
+    - "When should I sell {species}?"
+    - "Which month are {species} prices highest?"
+    - "What is the monthly price pattern for {species}?"
+  caveats: NOAA has no monthly prices; the pattern is generated and illustrative.
+- id: market_compare
+  category: Compare markets
+  kind: needs_fill_data
+  data: fallback
+  tool: market_compare
+  needs_species: 1
+  strong: [market, markets, buyer, buyers]
+  keywords: [which market, compare markets, market pays, buyers, wholesale, retail, auction, which buyer, market, markets, best market, what do markets pay]
+  examples:
+    - "Which market pays most for {species}?"
+    - "Compare markets for {species}"
+    - "Which buyer type is best for {species}?"
+    - "Where is the best market to sell {species}?"
+    - "What do markets pay for {species}?"
+  caveats: NOAA and GBIF have no market prices; only the fictional demo dataset does.
+- id: costs_quality_storage
+  category: Costs, quality, storage
+  kind: needs_fill_data
+  data: fallback
+  tool: cost_profile
+  needs_species: 0
+  strong: [my costs, fuel, bait, profit, freezing, storage, quality grade, margin]
+  keywords: [my costs, fuel cost, bait cost, labor, storage cost, quality grade, freshness, margin, profit, break even, cost to hold, freezer, freezing, worth freezing, profit margin, my catch]
+  examples:
+    - "What are my fuel and bait costs?"
+    - "Is it worth freezing my catch?"
+    - "What quality grade is my {species}?"
+    - "What is my profit margin on {species}?"
+    - "What does storage cost?"
+  caveats: Needs data NOAA and GBIF do not contain, so the answer is a fictional, generated illustration.
+- id: wiki_lookup
+  category: Fishing background (mini-wiki)
+  kind: real_only
+  data: wiki
+  tool: wiki_lookup
+  needs_species: 0
+  strong: [ex-vessel, overfishing, overfished, catch share, catch shares, bycatch, mrip, msy, histamine, seafood list, market name, fishing gear]
+  keywords: [what does, mean, meaning, definition, define, explain, difference between, how cold, keep cold, stock status, rebuilding, fishing year, season, gear, trawl, longline, gillnet, quota, label, labeling, imported, imports, per capita, status of]
+  examples:
+    - "What does ex-vessel price mean?"
+    - "What is the difference between overfishing and overfished?"
+    - "Is {species} overfished?"
+    - "What is a catch share?"
+    - "How cold should tuna be kept?"
+    - "How is recreational catch estimated?"
+    - "What fishing gear is used to catch fish?"
+  caveats: Short background notes from public NOAA and FDA pages; check the source link for the latest rules.
+- id: seafood_trade
+  category: Seafood imports and exports
+  kind: real_plus_fill
+  data: live
+  tool: seafood_trade
+  needs_species: 0
+  strong: [imports, exports, imported, exported, trade deficit, import, export]
+  keywords: [import, imports, imported, export, exports, exported, trade, trade deficit, from other countries, which countries, customs, shipped abroad]
+  examples:
+    - "How much {species} does the US import?"
+    - "Which countries export shrimp to the US?"
+    - "How much seafood does the US export?"
+    - "Where do imported {species} come from?"
+    - "What is the US seafood trade deficit?"
+  caveats: Live Census trade data when switched on; otherwise a sourced note or a labelled generated illustration.
+- id: obis_profile
+  category: Marine records (OBIS)
+  kind: real_only
+  data: live
+  tool: obis_profile
+  needs_species: 1
+  strong: [obis, ocean biodiversity, marine records, records by decade, by decade]
+  keywords: [obis, ocean biodiversity, marine records, how many records, records by decade, ocean records]
+  examples:
+    - "How many OBIS records does {species} have?"
+    - "What does OBIS show for {species}?"
+    - "How many marine records exist for {species} by decade?"
+    - "Show the OBIS record counts for {species}"
+    - "What do ocean biodiversity records say about {species}?"
+  caveats: Needs the free OBIS API switched on (FISHMARKET_LIVE=1). Counts reflect survey effort, not abundance.
+- id: aquaculture_production
+  category: Farmed production (OECD)
+  kind: real_only
+  data: live
+  tool: aquaculture_production
+  needs_species: 1
+  strong: [farm the most, produce the most, aquaculture production, farmed production, production, produce, growing]
+  keywords: [farm, farmed, farming, aquaculture, produce, production, grown, growing, raised]
+  examples:
+    - "How much {species} does the US farm?"
+    - "Which countries farm the most {species}?"
+    - "How much {species} does Norway farm?"
+    - "Is farmed {species} production growing?"
+    - "What is the aquaculture production of {species} in Canada?"
+  caveats: Needs the free OECD API switched on (FISHMARKET_LIVE=1). National farmed totals, not farm-level data.
+- id: farming_profile
+  category: How a species is farmed (FishWatch)
+  kind: real_only
+  data: live
+  tool: farming_profile
+  needs_species: 1
+  strong: [how is spx farmed, how are spx farmed, farmed, what do farmed, farming methods, fed to, feed, eat, diseases, environmental effects]
+  keywords: [farmed, farming, feed, feeds, eat, diet, disease, health, environmental, raised, pens, net pens]
+  examples:
+    - "How is {species} farmed?"
+    - "What do farmed {species} eat?"
+    - "What feed is used for farmed {species}?"
+    - "How are diseases prevented in farmed {species}?"
+    - "What are the environmental effects of farming {species}?"
+  caveats: Needs the NOAA FishWatch API switched on (FISHMARKET_LIVE=1). Quoted profile text; can be several years old.

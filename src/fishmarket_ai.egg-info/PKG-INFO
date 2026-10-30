@@ -1,0 +1,10 @@
+Metadata-Version: 2.4
+Name: fishmarket-ai
+Version: 0.1.0
+Summary: FishMarket AI: multi-agent seafood marketing assistant demo (fictional data)
+Requires-Python: >=3.11
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: pydantic
+Requires-Dist: anthropic
+Requires-Dist: streamlit

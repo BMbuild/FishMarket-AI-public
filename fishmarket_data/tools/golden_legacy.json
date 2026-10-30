@@ -1,0 +1,509 @@
+[
+  {
+    "case_id": "G01",
+    "kind": "preset",
+    "name": "Gulf Coast shrimp boat, mainstream buyers",
+    "profile": {
+      "region": "Gulf",
+      "business_type": "wild_catch",
+      "species": [
+        "Gulf shrimp"
+      ],
+      "customer_segment": "mainstream",
+      "volume_lb_per_month": 40000,
+      "as_of": "2026-10-15",
+      "question": "Should I sell now or hold over the next 3 months?"
+    },
+    "planted_cases": [],
+    "expected": {
+      "direction": "hold",
+      "direction_rule": "hold if the best of the next 3 months' seasonal price index is at least 1.10 times this month's index, otherwise sell_now",
+      "best_next3_vs_now_ratio": 1.199,
+      "seasonality_strength": "strong",
+      "peak_month": "March",
+      "expected_trust": "high",
+      "required_gate_flags": [],
+      "required_driver_tags": [
+        "seasonal_peak_ahead"
+      ],
+      "forbidden_driver_tags": [
+        "rising_trend",
+        "declining_trend"
+      ],
+      "required_stat_kinds": [
+        "seasonal_price_index",
+        "yoy_price_change",
+        "supply_yoy_change"
+      ],
+      "min_cited_stats": 3,
+      "forbidden": [
+        "any number that is not in the statistics table"
+      ]
+    }
+  },
+  {
+    "case_id": "G02",
+    "kind": "preset",
+    "name": "New England lobster fisher, premium restaurants",
+    "profile": {
+      "region": "Northeast",
+      "business_type": "wild_catch",
+      "species": [
+        "American lobster"
+      ],
+      "customer_segment": "premium",
+      "volume_lb_per_month": 25000,
+      "as_of": "2026-10-15",
+      "question": "Should I sell now or hold over the next 3 months?"
+    },
+    "planted_cases": [],
+    "expected": {
+      "direction": "hold",
+      "direction_rule": "hold if the best of the next 3 months' seasonal price index is at least 1.10 times this month's index, otherwise sell_now",
+      "best_next3_vs_now_ratio": 1.362,
+      "seasonality_strength": "strong",
+      "peak_month": "December",
+      "expected_trust": "high",
+      "required_gate_flags": [],
+      "required_driver_tags": [
+        "seasonal_peak_ahead"
+      ],
+      "forbidden_driver_tags": [],
+      "required_stat_kinds": [
+        "seasonal_price_index",
+        "yoy_price_change",
+        "supply_yoy_change"
+      ],
+      "min_cited_stats": 3,
+      "forbidden": [
+        "any number that is not in the statistics table"
+      ]
+    }
+  },
+  {
+    "case_id": "G03",
+    "kind": "preset",
+    "name": "Pacific Northwest salmon cooperative, mixed buyers",
+    "profile": {
+      "region": "Pacific Northwest",
+      "business_type": "cooperative",
+      "species": [
+        "Wild salmon"
+      ],
+      "customer_segment": "mainstream",
+      "volume_lb_per_month": 120000,
+      "as_of": "2026-10-15",
+      "question": "Should I sell now or hold over the next 3 months?"
+    },
+    "planted_cases": [],
+    "expected": {
+      "direction": "hold",
+      "direction_rule": "hold if the best of the next 3 months' seasonal price index is at least 1.10 times this month's index, otherwise sell_now",
+      "best_next3_vs_now_ratio": 1.162,
+      "seasonality_strength": "strong",
+      "peak_month": "February",
+      "expected_trust": "medium",
+      "required_gate_flags": [
+        "single_source"
+      ],
+      "required_driver_tags": [
+        "seasonal_peak_ahead",
+        "rising_trend"
+      ],
+      "forbidden_driver_tags": [
+        "declining_trend"
+      ],
+      "required_stat_kinds": [
+        "seasonal_price_index",
+        "yoy_price_change",
+        "supply_yoy_change"
+      ],
+      "min_cited_stats": 3,
+      "forbidden": [
+        "any number that is not in the statistics table"
+      ]
+    }
+  },
+  {
+    "case_id": "G04",
+    "kind": "preset",
+    "name": "Southeastern catfish farm, price-sensitive buyers",
+    "profile": {
+      "region": "Southeast",
+      "business_type": "aquaculture",
+      "species": [
+        "Catfish"
+      ],
+      "customer_segment": "price_sensitive",
+      "volume_lb_per_month": 90000,
+      "as_of": "2026-10-15",
+      "question": "Should I sell now or hold over the next 3 months?"
+    },
+    "planted_cases": [],
+    "expected": {
+      "direction": "sell_now",
+      "direction_rule": "hold if the best of the next 3 months' seasonal price index is at least 1.10 times this month's index, otherwise sell_now",
+      "best_next3_vs_now_ratio": 0.998,
+      "seasonality_strength": "flat",
+      "peak_month": null,
+      "expected_trust": "high",
+      "required_gate_flags": [],
+      "required_driver_tags": [
+        "rising_trend"
+      ],
+      "forbidden_driver_tags": [
+        "seasonal_peak_ahead",
+        "declining_trend"
+      ],
+      "required_stat_kinds": [
+        "seasonal_price_index",
+        "yoy_price_change",
+        "supply_yoy_change"
+      ],
+      "min_cited_stats": 3,
+      "forbidden": [
+        "any number that is not in the statistics table"
+      ]
+    }
+  },
+  {
+    "case_id": "G05",
+    "kind": "preset",
+    "name": "Pacific Northwest sturgeon farm, luxury caviar buyers",
+    "profile": {
+      "region": "Pacific Northwest",
+      "business_type": "aquaculture",
+      "species": [
+        "Sturgeon caviar"
+      ],
+      "customer_segment": "premium",
+      "volume_lb_per_month": 300,
+      "as_of": "2026-10-15",
+      "question": "Should I sell now or hold over the next 3 months?"
+    },
+    "planted_cases": [],
+    "expected": {
+      "direction": "hold",
+      "direction_rule": "hold if the best of the next 3 months' seasonal price index is at least 1.10 times this month's index, otherwise sell_now",
+      "best_next3_vs_now_ratio": 1.357,
+      "seasonality_strength": "strong",
+      "peak_month": "December",
+      "expected_trust": "high",
+      "required_gate_flags": [],
+      "required_driver_tags": [
+        "seasonal_peak_ahead",
+        "rising_trend"
+      ],
+      "forbidden_driver_tags": [
+        "declining_trend"
+      ],
+      "required_stat_kinds": [
+        "seasonal_price_index",
+        "yoy_price_change",
+        "supply_yoy_change"
+      ],
+      "min_cited_stats": 3,
+      "forbidden": [
+        "any number that is not in the statistics table"
+      ]
+    }
+  },
+  {
+    "case_id": "G06",
+    "kind": "preset",
+    "name": "Gulf Coast shrimp boat with planted data problems",
+    "profile": {
+      "region": "Gulf",
+      "business_type": "wild_catch",
+      "species": [
+        "Gulf shrimp"
+      ],
+      "customer_segment": "mainstream",
+      "volume_lb_per_month": 40000,
+      "as_of": "2026-10-15",
+      "question": "Should I sell now or hold over the next 3 months?"
+    },
+    "planted_cases": [
+      "PP-CONFLICT",
+      "PP-STALE"
+    ],
+    "expected": {
+      "direction": "hold",
+      "direction_rule": "hold if the best of the next 3 months' seasonal price index is at least 1.10 times this month's index, otherwise sell_now",
+      "best_next3_vs_now_ratio": 1.199,
+      "seasonality_strength": "strong",
+      "peak_month": "March",
+      "expected_trust": "low",
+      "required_gate_flags": [
+        "source_disagreement",
+        "stale_data"
+      ],
+      "required_driver_tags": [
+        "seasonal_peak_ahead"
+      ],
+      "forbidden_driver_tags": [
+        "rising_trend",
+        "declining_trend"
+      ],
+      "required_stat_kinds": [
+        "seasonal_price_index",
+        "yoy_price_change",
+        "supply_yoy_change"
+      ],
+      "min_cited_stats": 3,
+      "forbidden": [
+        "any number that is not in the statistics table"
+      ]
+    }
+  },
+  {
+    "case_id": "G07",
+    "kind": "variant",
+    "name": "Northeast scallop distributor, premium restaurants",
+    "profile": {
+      "region": "Northeast",
+      "business_type": "distributor",
+      "species": [
+        "Sea scallops"
+      ],
+      "customer_segment": "premium",
+      "volume_lb_per_month": 15000,
+      "as_of": "2026-10-15",
+      "question": "Should I sell now or hold over the next 3 months?"
+    },
+    "planted_cases": [],
+    "expected": {
+      "direction": "hold",
+      "direction_rule": "hold if the best of the next 3 months' seasonal price index is at least 1.10 times this month's index, otherwise sell_now",
+      "best_next3_vs_now_ratio": 1.204,
+      "seasonality_strength": "strong",
+      "peak_month": "December",
+      "expected_trust": "high",
+      "required_gate_flags": [],
+      "required_driver_tags": [
+        "seasonal_peak_ahead"
+      ],
+      "forbidden_driver_tags": [
+        "rising_trend",
+        "declining_trend"
+      ],
+      "required_stat_kinds": [
+        "seasonal_price_index",
+        "yoy_price_change",
+        "supply_yoy_change"
+      ],
+      "min_cited_stats": 3,
+      "forbidden": [
+        "any number that is not in the statistics table"
+      ]
+    }
+  },
+  {
+    "case_id": "G08",
+    "kind": "variant",
+    "name": "Southeastern tilapia farm, price-sensitive buyers",
+    "profile": {
+      "region": "Southeast",
+      "business_type": "aquaculture",
+      "species": [
+        "Tilapia"
+      ],
+      "customer_segment": "price_sensitive",
+      "volume_lb_per_month": 70000,
+      "as_of": "2026-10-15",
+      "question": "Should I sell now or hold over the next 3 months?"
+    },
+    "planted_cases": [],
+    "expected": {
+      "direction": "sell_now",
+      "direction_rule": "hold if the best of the next 3 months' seasonal price index is at least 1.10 times this month's index, otherwise sell_now",
+      "best_next3_vs_now_ratio": 1.021,
+      "seasonality_strength": "flat",
+      "peak_month": null,
+      "expected_trust": "high",
+      "required_gate_flags": [],
+      "required_driver_tags": [
+        "declining_trend"
+      ],
+      "forbidden_driver_tags": [
+        "seasonal_peak_ahead",
+        "rising_trend"
+      ],
+      "required_stat_kinds": [
+        "seasonal_price_index",
+        "yoy_price_change",
+        "supply_yoy_change"
+      ],
+      "min_cited_stats": 3,
+      "forbidden": [
+        "any number that is not in the statistics table"
+      ]
+    }
+  },
+  {
+    "case_id": "G09",
+    "kind": "variant",
+    "name": "Gulf tuna distributor, price-sensitive buyers",
+    "profile": {
+      "region": "Gulf",
+      "business_type": "distributor",
+      "species": [
+        "Yellowfin tuna"
+      ],
+      "customer_segment": "price_sensitive",
+      "volume_lb_per_month": 60000,
+      "as_of": "2026-10-15",
+      "question": "Should I sell now or hold over the next 3 months?"
+    },
+    "planted_cases": [],
+    "expected": {
+      "direction": "sell_now",
+      "direction_rule": "hold if the best of the next 3 months' seasonal price index is at least 1.10 times this month's index, otherwise sell_now",
+      "best_next3_vs_now_ratio": 1.007,
+      "seasonality_strength": "flat",
+      "peak_month": null,
+      "expected_trust": "high",
+      "required_gate_flags": [],
+      "required_driver_tags": [],
+      "forbidden_driver_tags": [
+        "seasonal_peak_ahead",
+        "rising_trend",
+        "declining_trend"
+      ],
+      "required_stat_kinds": [
+        "seasonal_price_index",
+        "yoy_price_change",
+        "supply_yoy_change"
+      ],
+      "min_cited_stats": 3,
+      "forbidden": [
+        "any number that is not in the statistics table"
+      ]
+    }
+  },
+  {
+    "case_id": "G10",
+    "kind": "variant",
+    "name": "Northeast cod fisher, mainstream buyers",
+    "profile": {
+      "region": "Northeast",
+      "business_type": "wild_catch",
+      "species": [
+        "Cod"
+      ],
+      "customer_segment": "mainstream",
+      "volume_lb_per_month": 30000,
+      "as_of": "2026-10-15",
+      "question": "Should I sell now or hold over the next 3 months?"
+    },
+    "planted_cases": [],
+    "expected": {
+      "direction": "hold",
+      "direction_rule": "hold if the best of the next 3 months' seasonal price index is at least 1.10 times this month's index, otherwise sell_now",
+      "best_next3_vs_now_ratio": 1.174,
+      "seasonality_strength": "strong",
+      "peak_month": "February",
+      "expected_trust": "high",
+      "required_gate_flags": [],
+      "required_driver_tags": [
+        "seasonal_peak_ahead",
+        "declining_trend"
+      ],
+      "forbidden_driver_tags": [
+        "rising_trend"
+      ],
+      "required_stat_kinds": [
+        "seasonal_price_index",
+        "yoy_price_change",
+        "supply_yoy_change"
+      ],
+      "min_cited_stats": 3,
+      "forbidden": [
+        "any number that is not in the statistics table"
+      ]
+    }
+  },
+  {
+    "case_id": "G11",
+    "kind": "variant",
+    "name": "Pacific Northwest farmed-salmon cooperative, mainstream buyers",
+    "profile": {
+      "region": "Pacific Northwest",
+      "business_type": "cooperative",
+      "species": [
+        "Farmed salmon"
+      ],
+      "customer_segment": "mainstream",
+      "volume_lb_per_month": 110000,
+      "as_of": "2026-10-15",
+      "question": "Should I sell now or hold over the next 3 months?"
+    },
+    "planted_cases": [],
+    "expected": {
+      "direction": "sell_now",
+      "direction_rule": "hold if the best of the next 3 months' seasonal price index is at least 1.10 times this month's index, otherwise sell_now",
+      "best_next3_vs_now_ratio": 1.058,
+      "seasonality_strength": "mild",
+      "peak_month": null,
+      "expected_trust": "high",
+      "required_gate_flags": [],
+      "required_driver_tags": [],
+      "forbidden_driver_tags": [
+        "seasonal_peak_ahead"
+      ],
+      "required_stat_kinds": [
+        "seasonal_price_index",
+        "yoy_price_change",
+        "supply_yoy_change"
+      ],
+      "min_cited_stats": 3,
+      "forbidden": [
+        "any number that is not in the statistics table"
+      ]
+    }
+  },
+  {
+    "case_id": "G12",
+    "kind": "variant",
+    "name": "Southeastern sturgeon farm, luxury caviar buyers",
+    "profile": {
+      "region": "Southeast",
+      "business_type": "aquaculture",
+      "species": [
+        "Sturgeon caviar"
+      ],
+      "customer_segment": "premium",
+      "volume_lb_per_month": 200,
+      "as_of": "2026-10-15",
+      "question": "Should I sell now or hold over the next 3 months?"
+    },
+    "planted_cases": [],
+    "expected": {
+      "direction": "hold",
+      "direction_rule": "hold if the best of the next 3 months' seasonal price index is at least 1.10 times this month's index, otherwise sell_now",
+      "best_next3_vs_now_ratio": 1.37,
+      "seasonality_strength": "strong",
+      "peak_month": "December",
+      "expected_trust": "medium",
+      "required_gate_flags": [
+        "single_source"
+      ],
+      "required_driver_tags": [
+        "seasonal_peak_ahead",
+        "rising_trend"
+      ],
+      "forbidden_driver_tags": [
+        "declining_trend"
+      ],
+      "required_stat_kinds": [
+        "seasonal_price_index",
+        "yoy_price_change",
+        "supply_yoy_change"
+      ],
+      "min_cited_stats": 3,
+      "forbidden": [
+        "any number that is not in the statistics table"
+      ]
+    }
+  }
+]

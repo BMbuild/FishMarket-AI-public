@@ -1,0 +1,11 @@
+storage_kind,form,max_shelf_days,carrying_cost_pct_per_month,shrink_pct_per_month
+crustacean,chilled,14,3.0,6.0
+crustacean,frozen,240,1.6,0.8
+finfish,chilled,8,3.0,6.0
+finfish,frozen,365,1.6,0.8
+shellfish,chilled,8,3.0,6.0
+shellfish,frozen,365,1.6,0.8
+cephalopod,chilled,6,3.0,6.0
+cephalopod,frozen,365,1.6,0.8
+seaweed,chilled,7,3.0,6.0
+seaweed,frozen,365,1.6,0.8

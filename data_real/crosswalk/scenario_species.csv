@@ -1,0 +1,36 @@
+scenario_species,noaa_species,oecd_scientific,note
+American lobster,American lobster,,
+Sea scallops,Sea scallop,,
+Wild salmon,,,a group of several salmon species; no single NOAA series
+Farmed salmon,,Salmo salar,farmed: NOAA landings are wild catch only
+Gulf shrimp,Brown shrimp;Northern white shrimp,,Gulf shrimp is mostly brown and white shrimp
+Cod,Atlantic cod@Northeast;Pacific cod@Pacific Northwest,,which cod depends on the region
+Yellowfin tuna,Yellowfin tuna,,
+Catfish,,Ictalurus punctatus,farmed channel catfish; NOAA wild catfish is a different market
+Tilapia,,Oreochromis niloticus,farmed
+Sturgeon caviar,,Acipenser transmontanus,farmed; wild sturgeon landings are a different product
+Pink salmon,Pink salmon,,
+Sockeye salmon,Sockeye salmon,,
+King crab,King crab,,
+Pacific halibut,Pacific halibut,,
+Alaska pollock,Walleye pollock,,
+Dungeness crab,Dungeness crab,,
+Blue crab,Blue crab,,
+Summer flounder,Summer flounder,,
+Striped bass,Striped bass,,
+Red snapper,Red snapper,,
+Mahi-mahi,Dolphinfish,,
+Bigeye tuna,Bigeye tuna,,
+Swordfish,Swordfish,,
+Walleye,,,freshwater walleye is not in the NOAA marine landings file
+Yellow perch,Yellow perch,,
+Lake whitefish,Lake whitefish,,
+Eastern oysters,Eastern oyster,Crassostrea virginica,
+Pacific oysters,Pacific oyster,Crassostrea gigas,
+Hard clams,"Quahog, northern clam",Mercenaria mercenaria,
+Blue mussels,Sea mussel,Mytilus edulis,
+Rainbow trout,,Oncorhynchus mykiss,farmed
+Farmed shrimp,,Penaeus vannamei,farmed whiteleg shrimp
+Barramundi,,Lates calcarifer,farmed
+Sugar kelp,,Saccharina latissima,farmed seaweed
+Pacific amberjack,,,no matching NOAA or OECD series

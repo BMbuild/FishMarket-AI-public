@@ -1,0 +1,7 @@
+source_id,category,expected_markup_vs_first_sale
+SRC-RTL-01,premium,2.1
+SRC-IND-01,premium,1.15
+SRC-RTL-01,mainstream,1.75
+SRC-IND-01,mainstream,1.15
+SRC-RTL-01,price_sensitive,1.5
+SRC-IND-01,price_sensitive,1.15

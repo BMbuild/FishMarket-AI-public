@@ -1,0 +1,31 @@
+# What the scenario reads out of the user's note. Each line: field,value,pattern. The pattern (a case-insensitive regular expression) is everything after the second comma, so it may contain commas.
+# First match wins within a field, except constraints and asks, where every match counts. Rows are checked top to bottom.
+field,value,pattern
+storage,none,\b(no|without|don't have|do not have|lack)( a| any)? (freezer|cold storage|storage|cooler|fridge)
+storage,frozen,\b(freezer|frozen|freeze|blast[- ]freez|cold storage)
+storage,chilled,\b(live tank|live well|holding tank|chilled|chill|on ice|ice room|cooler|refrigerat|keep them alive|live hold)
+segment,premium,\b(sushi|fine dining|white tablecloth|chefs?|high[- ]end|raw bars?|oyster bars?|specialty shops?|hotels?)\b
+segment,export,\b(export|overseas|japan|china|korea|abroad)\b
+segment,institutional,\b(schools?|hospitals?|cafeterias?|universit(y|ies)|prisons?|military)\b
+segment,price_sensitive,\b(discount|bargain|budget|cheapest|low[- ]cost)\b
+segment,mainstream,\b(grocery|groceries|supermarkets?|casual restaurants?|chain restaurants?|fish markets?)\b
+goal,steady income,\b(steady|consistent|reliable|stable)\b.{0,20}\b(income|cash|money|supply|sales|pay)
+goal,maximize price,\b(top dollar|best price|highest price|maximi[sz]e|most money|premium price)
+goal,reduce risk,\b(risk|safe|play it safe|protect|downside|volatil)
+goal,grow volume,\b(grow|expand|scale up|more boats|second boat|bigger|increase (my )?(volume|catch|sales))
+experience,new,\b(first (season|year)|new to|just (started|getting started)|beginner|never (done|sold))
+experience,experienced,\b(generation|decades|for \d{2,} years|for (twenty|thirty|forty) years|veteran|lifelong)
+experience,some,\b(a few (seasons|years)|couple of (seasons|years)|some experience)
+constraints,cash needed soon,\b(need (the )?(cash|money)|bills|pay (off|back)|loan payment|tight on (cash|money)|cash flow)
+constraints,limited storage,\b(small|little|limited|tiny|not much) (freezer|storage|cooler|tank|space)|\bno (freezer|cold storage|storage)
+constraints,seasonal workers,\b(seasonal (crew|workers?|staff|help)|crew (only|leaves|goes home))
+constraints,no boat access,\b(no boat|without a boat|boat is (down|broken|in the yard))
+constraints,small crew,\b(two[- ]?crew|small crew|one deckhand|by myself|alone|just me|short[- ]handed)
+constraints,single buyer,\b(one buyer|single buyer|only (one|a single) (buyer|customer|processor))
+asks,loans or financing,\b(loans?|financ|credit|grants?|borrow)
+asks,insurance,\binsur
+asks,tax,\btax(es)?\b
+asks,hiring,\b(hire|hiring|crew wages|deckhand pay)
+asks,permits and rules,\b(permit|licen[cs]e|quota|regulation|rules?|limits?)\b
+asks,buying a boat or gear,\b(buy(ing)? (a |another |more |new )?(boat|vessel|pots|traps|gear|engine)|second boat|new (boat|engine|pots|traps|gear))
+asks,marketing,\b(market(ing)? (my|our)|sell online|website|social media|brand)

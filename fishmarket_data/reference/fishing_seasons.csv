@@ -1,0 +1,65 @@
+species,region,open_months,method,note
+American lobster,Northeast,1;2;3;4;5;6;7;8;9;10;11;12,licensed fishery window,open all year
+Sea scallops,Northeast,1;2;3;4;5;6;7;8;9;10;11;12,licensed fishery window,open all year
+Wild salmon,Pacific Northwest,6;7;8;9;10,licensed fishery window,fishery windows
+Farmed salmon,Northeast,1;2;3;4;5;6;7;8;9;10;11;12,farm harvest window,open all year
+Farmed salmon,Pacific Northwest,1;2;3;4;5;6;7;8;9;10;11;12,farm harvest window,open all year
+Gulf shrimp,Gulf,1;2;3;4;5;6;7;8;9;10;11;12,licensed fishery window,open all year
+Gulf shrimp,Southeast,1;2;3;4;5;6;7;8;9;10;11;12,licensed fishery window,open all year
+Cod,Northeast,1;2;3;4;5;6;7;8;9;10;11;12,licensed fishery window,open all year
+Cod,Pacific Northwest,1;2;3;4;5;6;7;8;9;10;11;12,licensed fishery window,open all year
+Yellowfin tuna,Gulf,1;2;3;4;5;6;7;8;9;10;11;12,licensed fishery window,open all year
+Yellowfin tuna,Southeast,1;2;3;4;5;6;7;8;9;10;11;12,licensed fishery window,open all year
+Catfish,Southeast,1;2;3;4;5;6;7;8;9;10;11;12,farm harvest window,open all year
+Catfish,Gulf,1;2;3;4;5;6;7;8;9;10;11;12,farm harvest window,open all year
+Tilapia,Southeast,1;2;3;4;5;6;7;8;9;10;11;12,farm harvest window,open all year
+Tilapia,Gulf,1;2;3;4;5;6;7;8;9;10;11;12,farm harvest window,open all year
+Sturgeon caviar,Pacific Northwest,1;2;3;4;5;6;7;8;9;10;11;12,farm harvest window,open all year
+Sturgeon caviar,Southeast,1;2;3;4;5;6;7;8;9;10;11;12,farm harvest window,open all year
+Pink salmon,Alaska,6;7;8;9,licensed fishery window,seasonal window
+Sockeye salmon,Alaska,6;7;8,licensed fishery window,seasonal window
+Sockeye salmon,Pacific Northwest,6;7;8,licensed fishery window,seasonal window
+King crab,Alaska,10;11;12;1,licensed fishery window,short derby-style season
+Pacific halibut,Alaska,3;4;5;6;7;8;9;10;11,licensed fishery window,seasonal window
+Pacific halibut,Pacific Northwest,3;4;5;6;7;8;9;10;11,licensed fishery window,seasonal window
+Alaska pollock,Alaska,1;2;3;6;7;8;9;10,licensed fishery window,seasonal window
+Alaska pollock,Pacific Northwest,1;2;3;6;7;8;9;10,licensed fishery window,seasonal window
+Dungeness crab,Pacific Northwest,12;1;2;3;4;5;6;7;8;9,licensed fishery window,seasonal window
+Blue crab,Mid-Atlantic,3;4;5;6;7;8;9;10;11,licensed fishery window,seasonal window
+Blue crab,Gulf,3;4;5;6;7;8;9;10;11,licensed fishery window,seasonal window
+Blue crab,Southeast,3;4;5;6;7;8;9;10;11,licensed fishery window,seasonal window
+Summer flounder,Mid-Atlantic,1;2;3;4;5;6;7;8;9;10;11;12,licensed fishery window,open all year
+Summer flounder,Northeast,1;2;3;4;5;6;7;8;9;10;11;12,licensed fishery window,open all year
+Striped bass,Mid-Atlantic,5;6;7;8;9;10;11,licensed fishery window,seasonal window
+Striped bass,Northeast,5;6;7;8;9;10;11,licensed fishery window,seasonal window
+Red snapper,Gulf,6;7;8;9;10,licensed fishery window,short summer season
+Red snapper,Southeast,6;7;8;9;10,licensed fishery window,short summer season
+Mahi-mahi,Hawaii-Pacific,1;2;3;4;5;6;7;8;9;10;11;12,licensed fishery window,open all year
+Mahi-mahi,Southeast,1;2;3;4;5;6;7;8;9;10;11;12,licensed fishery window,open all year
+Mahi-mahi,Gulf,1;2;3;4;5;6;7;8;9;10;11;12,licensed fishery window,open all year
+Bigeye tuna,Hawaii-Pacific,1;2;3;4;5;6;7;8;9;10;11;12,licensed fishery window,open all year
+Swordfish,Northeast,1;2;3;4;5;6;7;8;9;10;11;12,licensed fishery window,open all year
+Swordfish,Hawaii-Pacific,1;2;3;4;5;6;7;8;9;10;11;12,licensed fishery window,open all year
+Swordfish,Southeast,1;2;3;4;5;6;7;8;9;10;11;12,licensed fishery window,open all year
+Walleye,Great Lakes,1;2;3;6;7;8;9;10;11;12,licensed fishery window,seasonal window
+Yellow perch,Great Lakes,1;2;3;4;7;8;9;10;11;12,licensed fishery window,seasonal window
+Lake whitefish,Great Lakes,8;9;10;11;12,licensed fishery window,seasonal window
+Eastern oysters,Mid-Atlantic,9;10;11;12;1;2;3;4,farm harvest window,cool-month harvest
+Eastern oysters,Gulf,9;10;11;12;1;2;3;4,farm harvest window,cool-month harvest
+Eastern oysters,Northeast,9;10;11;12;1;2;3;4,farm harvest window,cool-month harvest
+Pacific oysters,Pacific Northwest,9;10;11;12;1;2;3;4,farm harvest window,cool-month harvest
+Pacific oysters,Alaska,9;10;11;12;1;2;3;4,farm harvest window,cool-month harvest
+Hard clams,Northeast,1;2;3;4;5;6;7;8;9;10;11;12,farm harvest window,open all year
+Hard clams,Mid-Atlantic,1;2;3;4;5;6;7;8;9;10;11;12,farm harvest window,open all year
+Hard clams,Southeast,1;2;3;4;5;6;7;8;9;10;11;12,farm harvest window,open all year
+Blue mussels,Northeast,1;2;3;4;5;6;7;8;9;10;11;12,farm harvest window,open all year
+Blue mussels,Pacific Northwest,1;2;3;4;5;6;7;8;9;10;11;12,farm harvest window,open all year
+Rainbow trout,Great Lakes,1;2;3;4;5;6;7;8;9;10;11;12,farm harvest window,open all year
+Rainbow trout,Pacific Northwest,1;2;3;4;5;6;7;8;9;10;11;12,farm harvest window,open all year
+Farmed shrimp,Southeast,1;2;3;4;5;6;7;8;9;10;11;12,farm harvest window,open all year
+Farmed shrimp,Gulf,1;2;3;4;5;6;7;8;9;10;11;12,farm harvest window,open all year
+Barramundi,Hawaii-Pacific,1;2;3;4;5;6;7;8;9;10;11;12,farm harvest window,open all year
+Barramundi,Southeast,1;2;3;4;5;6;7;8;9;10;11;12,farm harvest window,open all year
+Sugar kelp,Northeast,3;4;5;6,farm harvest window,spring harvest
+Sugar kelp,Alaska,3;4;5;6,farm harvest window,spring harvest
+Pacific amberjack,Hawaii-Pacific,1;2;3;4;5;6;7;8;9;10;11;12,farm harvest window,open all year

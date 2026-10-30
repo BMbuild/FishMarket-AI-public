@@ -1,0 +1,21 @@
+[project]
+name = "fishmarket-ai"
+version = "0.1.0"
+description = "FishMarket AI: multi-agent seafood marketing assistant demo (fictional data)"
+requires-python = ">=3.11"
+dependencies = ["pandas", "numpy", "pydantic", "anthropic", "streamlit", "pyyaml"]
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+fishmarket = ["agents/prompts/*.md"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src", "."]
+testpaths = ["tests"]
+addopts = "-q"

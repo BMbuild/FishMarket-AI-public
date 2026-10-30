@@ -1,0 +1,396 @@
+scenario_region,species,last_year,price_usd_per_lb,monthly_lb,value_5y_usd,price_trend
+Alaska,Pacific cod,2024,0.28,31148246,722612944,-0.05
+Alaska,Sablefish,2024,1.61,4274364,485900784,-0.0422
+Alaska,Snow crab,2022,7.16,456345,390638415,0.05
+Alaska,Chum salmon,2024,0.5,7560822,274527070,0.0366
+Alaska,Yellowfin sole,2024,0.16,16455756,210819165,0.0286
+Alaska,Atka mackerel,2024,0.25,13195474,165002755,0.0321
+Alaska,Southern tanner crab,2024,3.62,599970,115715410,-0.0178
+Alaska,Pacific ocean perch rockfish,2024,0.16,11251724,106693749,0.05
+Alaska,Coho salmon,2024,1.28,849672,89634587,-0.0145
+Alaska,Chinook salmon,2024,5.39,201865,81324584,0.0362
+Alaska,Pacific herring,2024,0.17,2698491,46131736,-0.05
+Alaska,Rock sole,2024,0.17,5470018,45059910,-0.0189
+Alaska,Sea cucumbers,2024,4.94,165075,43060694,0.05
+Alaska,Flatfishes,2024,0.17,2772235,35595108,0.0405
+Alaska,Rockfishes,2024,0.2,2549912,29406669,0.05
+Alaska,Arrowtooth flounder,2024,0.13,4798686,26119891,0.05
+Alaska,Flathead sole,2024,0.17,2415284,19617558,0.05
+Alaska,Pacific geoduck clam,2024,8.91,28099,19400944,0.05
+Alaska,Penaeid shrimps,2024,4.21,65693,14365771,0.05
+Alaska,Greenland halibut,2024,0.61,137613,8639832,0.05
+Alaska,Weathervane scallop,2024,8.12,1609,5061238,-0.05
+Alaska,Rex sole,2024,0.27,346208,4654087,0.0273
+Alaska,Lingcod,2024,1.08,43787,3041388,0.0071
+Alaska,Octopuses,2024,0.56,40222,835377,0.05
+Alaska,Butter sole,2024,0.09,33655,308661,-0.05
+Alaska,English sole,2024,0.07,69121,202405,-0.05
+Great Lakes,Lake trout,2018,0.78,86923,4056102,0.0383
+Great Lakes,Lake or cisco herring,2018,0.57,76472,2759095,-0.0413
+Great Lakes,White bass,2018,1.06,24796,2546625,0.05
+Great Lakes,White perch,2018,0.46,67586,1921343,-0.0082
+Great Lakes,Chubs,2018,2.2,5025,1519796,-0.0463
+Great Lakes,Channel catfish,2018,0.42,37137,1124333,-0.0035
+Great Lakes,Chinook salmon,2018,1.63,7579,921754,0.05
+Great Lakes,Freshwater drum,2018,0.27,48868,854815,0.0085
+Great Lakes,Buffalofishes,2018,0.5,9098,696743,-0.0135
+Great Lakes,Walleye,2018,2.72,4116,623205,0.0188
+Great Lakes,Common carp,2018,0.29,6233,347625,0.0172
+Great Lakes,Goldfish,2018,0.74,3839,319230,-0.0256
+Great Lakes,Quillback,2018,0.35,8220,257252,0.0395
+Great Lakes,Rainbow smelt,2018,1.76,3678,232257,0.05
+Gulf,Menhadens,2024,0.21,68239021,649909669,0.05
+Gulf,Stone crabs,2024,19.03,184952,198605425,0.05
+Gulf,Caribbean spiny lobster,2024,7.89,331248,172161429,0.0283
+Gulf,Northern pink shrimp,2024,1.72,718143,135929741,-0.05
+Gulf,Red grouper,2024,6.02,225388,74435296,0.05
+Gulf,Yellowtail snapper,2024,4.42,108461,29406178,0.05
+Gulf,King mackerel,2024,2.86,143531,24206687,0.05
+Gulf,Striped mullet,2024,0.86,396290,22196580,0.05
+Gulf,Black drum,2024,1.3,246209,17464825,0.0176
+Gulf,Yellowedge grouper,2024,6.49,32467,16516515,0.05
+Gulf,Vermilion snapper,2024,3.66,93991,16474024,0.0444
+Gulf,Gag grouper,2024,7.19,12599,14033126,0.05
+Gulf,Blue catfish,2024,0.58,267773,9848755,0.0246
+Gulf,Marine shrimp,2024,0.84,51449,7522844,0.05
+Gulf,Penaeoid shrimps,2024,4.74,10242,6080877,0.0177
+Gulf,Ladyfish,2024,0.92,80910,5548728,0.0143
+Gulf,Buffalofishes,2024,0.3,233689,3854776,0.05
+Gulf,Golden tilefish,2024,4.13,9447,3808902,0.05
+Gulf,Greater amberjack,2024,2.37,13784,3695348,0.05
+Gulf,Scamp,2024,6.81,7115,3669516,0.05
+Gulf,Herrings,2024,0.33,177788,3192089,0.0338
+Gulf,Snowy grouper,2024,6.24,7713,3143025,0.05
+Gulf,Ballyhoos,2024,0.96,54110,2995018,0.05
+Gulf,Sheepshead,2024,1.04,47061,2957312,0.05
+Gulf,Alligator gar,2024,1.13,27274,2906024,0.05
+Gulf,Gray snapper,2024,3.95,12586,2755736,0.05
+Gulf,Black grouper,2024,7.18,7350,2685250,0.05
+Gulf,Jawed vertebrates,2024,0.59,72228,2563776,0.0093
+Gulf,Spanish mackerel,2024,1.36,34235,2536782,0.05
+Gulf,Mullets,2024,3.1,13598,2327767,0.0387
+Gulf,Florida pompano,2024,5.07,6445,2246253,0.05
+Gulf,Sheepswool sponges,2024,5.91,4764,2159259,0.05
+Gulf,Channel catfish,2024,0.88,45328,2104961,0.05
+Gulf,Mutton snapper,2024,4.25,9343,2010916,0.05
+Gulf,"Quahog, southern clam",2024,18.33,1195,1987052,0.05
+Gulf,Gizzard shad,2024,0.25,76351,1962784,0.0432
+Gulf,Atlantic thread herring,2024,0.24,152068,1767287,0.0019
+Gulf,Round scad,2024,1.39,22242,1573689,0.0404
+Gulf,Royal red shrimp,2021,3.98,18025,1528129,0.0
+Gulf,Pinfish,2024,5.12,3633,1447676,0.05
+Gulf,Rock shrimps,2024,2.12,4843,1385716,0.05
+Gulf,Turban snails,2024,0.12,147073,1297874,-0.0426
+Gulf,Peppermint shrimp,2024,0.36,42119,1188557,-0.0025
+Gulf,Blueline tilefish,2024,3.01,4867,1178137,0.05
+Gulf,Mojarras,2024,1.47,11701,1101145,0.05
+Gulf,Red porgy,2024,2.0,8467,1088811,0.05
+Gulf,Crevalle jack,2024,1.01,5170,1051177,0.05
+Gulf,Speckled hind,2024,5.75,2981,999915,0.05
+Gulf,Green clinging crab,2024,0.64,22619,920978,0.0389
+Gulf,Silk snapper,2024,4.99,3435,907852,0.05
+Gulf,Blacktip shark,2024,0.9,8201,899832,0.05
+Gulf,Yellow sponge,2024,2.2,5881,872422,0.05
+Gulf,Keyhole sand dollars,2024,0.25,95940,858316,0.05
+Gulf,Paralichthys flounders,2024,3.88,4119,848011,0.0325
+Gulf,Bowfin,2024,1.05,2991,845722,0.0366
+Gulf,Speckled anemone,2024,8.31,516,770031,0.05
+Gulf,Flathead catfish,2024,0.6,14003,732565,0.0426
+Gulf,Spanish sardine,2024,0.44,32839,704984,0.05
+Gulf,Blackfin tuna,2024,1.82,8647,704341,0.05
+Gulf,Gray triggerfish,2024,3.03,4481,689731,0.05
+Gulf,Minnows,2024,0.45,25950,632553,-0.05
+Gulf,White mullet,2024,0.99,12765,613717,-0.0398
+Gulf,Spotted seatrout,2024,3.81,3716,592792,0.0284
+Gulf,Scaled sardine,2024,3.77,2384,589766,0.05
+Gulf,Red drum,2024,2.99,2735,589320,0.038
+Gulf,Cobia,2024,4.1,1516,552368,0.0332
+Gulf,Butterfish,2024,0.57,3156,548983,0.05
+Gulf,Atlanic seabob shrimp,2024,0.59,2882,538560,0.0008
+Gulf,Tilapias,2024,1.09,2761,514358,0.05
+Gulf,Gulf flounder,2024,4.48,1738,487816,0.05
+Gulf,Grass sponge,2024,1.66,6889,453426,0.0317
+Gulf,Bull shark,2023,0.62,18154,451909,0.0421
+Gulf,Lane snapper,2024,3.82,2514,404140,0.05
+Gulf,Brachyura crabs,2024,2.15,3744,392962,0.05
+Gulf,Little tunny tuna,2024,0.93,6352,377276,0.05
+Gulf,Snails,2024,1.61,871,341640,-0.05
+Gulf,Silver carp,2024,0.22,27497,327702,0.05
+Gulf,Blue runner,2024,1.05,4304,320137,0.05
+Gulf,Almaco jack,2024,2.01,2432,318153,0.05
+Gulf,Freshwater drum,2024,0.21,20926,298574,0.05
+Gulf,Black sea bass,2024,1.61,1037,282688,0.028
+Gulf,Bar jack,2024,1.28,1666,269202,0.0111
+Gulf,Atlantic croaker,2024,0.65,7047,262263,0.0386
+Gulf,Atlantic menhaden,2024,0.45,7675,242391,0.0142
+Gulf,Jolthead porgy,2024,1.62,2346,225808,-0.0428
+Gulf,Bluefish,2024,0.65,5630,219021,0.05
+Hawaii-Pacific,Wahoo,2024,2.53,100421,14685656,0.0335
+Hawaii-Pacific,Pomfrets,2024,5.02,33905,10129739,0.05
+Hawaii-Pacific,Blue marlin,2024,1.09,108410,9127507,0.0248
+Hawaii-Pacific,Striped marlin,2024,0.83,105628,7492845,-0.05
+Hawaii-Pacific,Bigeye scad,2024,4.19,17338,4614153,0.05
+Hawaii-Pacific,Albacore tuna,2024,1.52,49786,3281747,-0.0351
+Hawaii-Pacific,Skipjack tuna,2024,1.9,22232,3266335,-0.0243
+Hawaii-Pacific,Pink snapper,2024,9.99,5131,3262828,0.05
+Hawaii-Pacific,Shortbill spearfish,2024,1.1,29642,2431033,0.05
+Hawaii-Pacific,Longtailed red snapper,2024,11.77,3332,2186508,0.05
+Hawaii-Pacific,Opah,2021,3.87,38757,1798295,0.0
+Hawaii-Pacific,Green /uku jobfish,2024,7.54,2682,1379349,0.05
+Hawaii-Pacific,Mackerel scad,2024,4.02,6752,1285468,0.05
+Hawaii-Pacific,Blacktipped soldierfish,2024,6.14,2476,1079134,0.0453
+Hawaii-Pacific,Oilfish,2023,1.54,12344,694614,0.05
+Hawaii-Pacific,Parrotfishes,2024,6.25,2229,587113,0.05
+Hawaii-Pacific,Bluestripe snapper,2024,2.81,2586,416328,0.05
+Hawaii-Pacific,Eyestriped surgeonfish,2024,3.07,1771,309381,0.05
+Mid-Atlantic,Menhadens,2024,0.23,30350318,368039107,-0.05
+Mid-Atlantic,"Surf, atlantic clam",2024,1.17,1198069,69016076,0.05
+Mid-Atlantic,Longfin loligo squid,2024,1.33,723615,54402621,0.0046
+Mid-Atlantic,Black sea bass,2024,2.55,217079,36486841,0.0181
+Mid-Atlantic,Golden tilefish,2024,3.99,136652,30302421,0.0357
+Mid-Atlantic,Scup,2024,0.79,592900,27611156,0.0132
+Mid-Atlantic,Blue catfish,2024,0.71,591389,18132390,0.05
+Mid-Atlantic,"Quahog, ocean clam",2021,1.12,957785,12868001,0.0
+Mid-Atlantic,Shortfin illex squid,2024,1.64,33,10844806,0.05
+Mid-Atlantic,Spot,2024,1.13,83707,10632618,-0.05
+Mid-Atlantic,"Dogfish, spiny shark",2024,0.2,524538,6837981,0.0306
+Mid-Atlantic,Conchs,2024,2.71,33017,6632647,-0.01
+Mid-Atlantic,Silver hake,2024,1.0,93774,6010499,0.0029
+Mid-Atlantic,Tautog,2024,4.1,10221,5598586,0.0314
+Mid-Atlantic,Jonah crab,2024,0.93,94369,5525350,0.02
+Mid-Atlantic,Goosefish,2024,1.02,44261,5051961,0.05
+Mid-Atlantic,Knobbed whelk,2024,2.58,3862,4066488,-0.05
+Mid-Atlantic,Channeled whelk,2024,5.32,13252,3898550,-0.05
+Mid-Atlantic,Bluefish,2024,1.42,50289,3668711,0.05
+Mid-Atlantic,American eel,2024,1.72,4061,3521580,-0.05
+Mid-Atlantic,Butterfish,2024,1.19,43061,3201461,0.0224
+Mid-Atlantic,"Dogfish, smooth shark",2024,0.61,77900,2977803,0.0062
+Mid-Atlantic,Winter skate,2024,0.45,156124,2846154,0.05
+Mid-Atlantic,Horseshoe crab,2024,0.65,54304,2694941,0.0278
+Mid-Atlantic,Bluefin tuna,2024,4.2,18022,2273078,0.05
+Mid-Atlantic,Spanish mackerel,2024,1.75,32784,2054393,0.0031
+Mid-Atlantic,Atlantic croaker,2024,1.04,27090,1648443,-0.0477
+Mid-Atlantic,Atlantic mackerel,2024,0.5,9772,1617817,0.05
+Mid-Atlantic,Channel catfish,2024,0.31,28,1346219,-0.05
+Mid-Atlantic,Soft clam,2024,5.59,4324,1154308,0.0349
+Mid-Atlantic,Weakfish,2024,2.44,5605,1138936,0.05
+Mid-Atlantic,Penaeid shrimps,2024,2.5,6938,1120773,-0.0
+Mid-Atlantic,Spotted seatrout,2024,2.4,8070,912102,-0.0254
+Mid-Atlantic,Gizzard shad,2024,0.16,95304,862949,0.0084
+Mid-Atlantic,Catfishes,2024,0.87,5955,809632,-0.05
+Mid-Atlantic,Cobia,2024,3.9,3383,684493,0.0359
+Mid-Atlantic,Black drum,2024,2.66,5259,520200,0.05
+Mid-Atlantic,Smooth skate,2024,0.4,16380,512188,0.05
+Mid-Atlantic,Ribbonfishes,2024,1.3,6165,486476,0.05
+Mid-Atlantic,White perch,2024,1.73,2393,465226,0.05
+Mid-Atlantic,Whelks,2024,1.74,24,455780,-0.05
+Mid-Atlantic,Little skate,2024,0.14,93072,439706,0.05
+Mid-Atlantic,Red hake,2024,0.62,8052,426566,0.05
+Mid-Atlantic,Jawed vertebrates,2024,0.68,5283,407309,-0.041
+Mid-Atlantic,Blueline tilefish,2024,3.29,1743,356125,0.0045
+Mid-Atlantic,Atlantic silverside,2024,0.94,5804,324238,-0.05
+Mid-Atlantic,Kingfishes,2024,1.56,2668,301666,-0.0493
+Mid-Atlantic,Albacore tuna,2024,0.37,7637,266840,-0.05
+Mid-Atlantic,Red drum,2024,2.28,4342,262213,-0.05
+Mid-Atlantic,Northern puffer,2024,1.65,2495,218208,-0.05
+Northeast,Longfin loligo squid,2024,1.04,1689497,136683308,-0.0363
+Northeast,Soft clam,2024,12.89,145447,126439365,0.0314
+Northeast,Haddock,2024,1.34,603082,83197774,0.05
+Northeast,Jonah crab,2024,0.85,808541,63102752,0.0136
+Northeast,"Surf, atlantic clam",2024,1.47,566720,54667941,0.05
+Northeast,Shortfin illex squid,2024,0.83,579718,51386293,0.05
+Northeast,Menhadens,2024,0.37,2388223,49690957,-0.05
+Northeast,Goosefish,2024,0.67,1044362,48124397,0.05
+Northeast,Bluefin tuna,2024,4.73,154504,43712764,0.0497
+Northeast,Silver hake,2024,0.68,877871,41408953,-0.05
+Northeast,Pollock,2024,0.98,507186,39716804,0.0409
+Northeast,"Quahog, ocean clam",2023,0.67,1033299,38955356,-0.0449
+Northeast,Acadian redfish,2024,0.61,1072089,32689325,0.0285
+Northeast,Atlantic herring,2024,0.38,1820811,30217451,0.0347
+Northeast,White hake,2024,1.37,303867,24950956,0.05
+Northeast,Black sea bass,2024,2.62,164104,23653393,0.0167
+Northeast,Channeled whelk,2024,8.39,26213,23214239,-0.0381
+Northeast,Scup,2024,0.69,602775,21061029,0.0264
+Northeast,Winter skate,2024,0.35,1255459,18821760,0.05
+Northeast,Bloodworms polychaete,2023,24.25,18873,16220274,0.05
+Northeast,American plaice flounder,2024,1.67,250962,16004543,0.0095
+Northeast,Witch flounder,2024,1.43,192253,15151663,-0.0301
+Northeast,Atlantic mackerel,2024,0.48,165694,12420724,0.05
+Northeast,Winter flounder,2024,1.97,157612,11589593,-0.0085
+Northeast,Butterfish,2024,0.69,276633,10784458,0.0072
+Northeast,Bay scallop,2024,18.33,8655,7813817,0.048
+Northeast,Sandworms polychaete,2023,11.23,13660,7803365,0.05
+Northeast,"Razor, atlantic clam",2024,16.81,8015,7544037,0.05
+Northeast,Little skate,2024,0.26,431048,6310033,0.05
+Northeast,"Dogfish, spiny shark",2024,0.25,165128,4584951,0.0374
+Northeast,Atlantic rock crab,2024,0.49,115513,4452581,-0.046
+Northeast,Horseshoe crab,2024,1.27,73418,4172849,0.05
+Northeast,Conchs,2024,0.48,19211,4146453,-0.05
+Northeast,Yellowtail flounder,2024,0.77,46354,3786108,-0.0364
+Northeast,Rockweed seaweed,2024,0.05,1400156,3608588,-0.05
+Northeast,Bluefish,2024,1.74,22230,3093471,0.05
+Northeast,Tautog,2024,4.57,12412,2913319,0.05
+Northeast,Periwinkles,2023,3.9,10988,2570424,0.05
+Northeast,Atlantic halibut,2024,6.26,6421,2380927,0.0499
+Northeast,Alewife,2023,0.49,267332,1565998,0.0
+Northeast,Mantis shrimps,2024,9.03,900,1392764,0.006
+Northeast,"Kelp, sugar seaweed",2024,0.72,103511,1262490,0.05
+Northeast,Knobbed whelk,2024,0.83,12632,933961,-0.05
+Northeast,Red hake,2024,0.4,35727,926037,-0.0251
+Northeast,"Ark, blood clam",2024,3.0,2571,509995,0.05
+Northeast,Smooth skate,2024,0.78,14053,491725,0.05
+Northeast,Atlantic menhaden,2022,0.48,84370,484212,0.0
+Northeast,Green crab,2024,0.61,14262,424552,0.0062
+Northeast,Barndoor skate,2024,0.35,35840,384731,0.05
+Northeast,Albacore tuna,2024,0.95,5295,341776,0.05
+Northeast,"Dogfish, smooth shark",2024,0.53,6664,321373,0.0108
+Northeast,Buckler dory,2024,1.18,4418,276233,0.05
+Northeast,Weakfish,2024,1.97,1407,236033,0.05
+Pacific Northwest,Geoduck clam,2024,40.04,106941,304266278,0.05
+Pacific Northwest,California market squid,2024,0.54,10569842,282549739,-0.0191
+Pacific Northwest,Ocean shrimp,2024,0.54,5737966,155878073,0.0109
+Pacific Northwest,Chinook salmon,2024,3.78,371098,117065133,-0.0301
+Pacific Northwest,Albacore tuna,2024,1.61,832522,104026479,0.0131
+Pacific Northwest,California spiny lobster,2024,19.33,90071,89806067,0.0036
+Pacific Northwest,Sablefish,2024,1.12,1004303,79747738,-0.0417
+Pacific Northwest,Manila clam,2024,19.04,54022,74510925,-0.0028
+Pacific Northwest,Spot shrimp,2024,17.32,46487,47962257,0.05
+Pacific Northwest,Petrale sole,2024,1.16,534507,34849080,0.0066
+Pacific Northwest,Widow rockfish,2024,0.24,1772166,28277649,0.0478
+Pacific Northwest,California halibut,2024,5.6,85704,24433101,0.0193
+Pacific Northwest,Chum salmon,2024,0.61,1100533,23915903,-0.05
+Pacific Northwest,Kumamoto oyster,2024,22.82,20084,23203514,0.0005
+Pacific Northwest,Coho salmon,2024,1.3,292423,21923421,-0.05
+Pacific Northwest,Dover sole,2024,0.45,565914,18043814,0.0422
+Pacific Northwest,Sea cucumbers,2024,5.23,44780,12515713,0.05
+Pacific Northwest,Red rock crab,2024,2.28,88529,12109208,0.05
+Pacific Northwest,Penaeid shrimps,2024,7.04,30682,10184471,0.05
+Pacific Northwest,Lingcod,2024,1.19,128258,9602826,-0.0334
+Pacific Northwest,Bluefin pacific tuna,2024,5.78,24712,9145439,0.05
+Pacific Northwest,Yellowtail rockfish,2024,0.26,491640,8135717,0.05
+Pacific Northwest,Shortspine thornyhead,2024,2.13,75038,7699175,0.05
+Pacific Northwest,Pacific hagfish,2024,1.1,114265,6573662,0.05
+Pacific Northwest,Pacific razor clam,2024,8.95,12399,5891836,0.05
+Pacific Northwest,Pacific sardine,2024,0.2,271530,5833656,-0.05
+Pacific Northwest,Chilipepper rockfish,2024,0.63,187638,4898339,0.05
+Pacific Northwest,Northern anchovy,2024,0.07,822048,4206920,0.0314
+Pacific Northwest,Pacific rock shrimp,2024,4.86,16959,4186912,0.05
+Pacific Northwest,Black rockfish,2024,2.4,22591,3649618,0.0373
+Pacific Northwest,Hagfishes,2024,1.2,16436,3609136,0.05
+Pacific Northwest,White sea bass,2024,4.28,13442,3505513,-0.0032
+Pacific Northwest,Vermilion rockfish,2024,3.7,17484,3277108,0.05
+Pacific Northwest,Bocaccio rockfish,2024,0.59,134580,3003408,0.05
+Pacific Northwest,Cabezon,2024,5.81,7845,2700405,0.0496
+Pacific Northwest,Chub mackerel,2024,0.26,255584,2390684,0.05
+Pacific Northwest,Canary rockfish,2024,0.49,83381,2279592,0.05
+Pacific Northwest,Gopher rockfish,2024,8.88,4819,2258942,0.05
+Pacific Northwest,Nuttall cockle,2024,4.49,7633,2199107,0.05
+Pacific Northwest,Clams,2024,2.11,13628,1823524,-0.05
+Pacific Northwest,California sheephead,2024,4.94,6426,1744145,0.0091
+Pacific Northwest,Brown rockfish,2024,7.5,3781,1435660,0.05
+Pacific Northwest,Black-and-yellow rockfish,2024,8.96,2437,1242990,0.05
+Pacific Northwest,Pacific ocean perch rockfish,2024,0.27,61503,1067551,0.0085
+Pacific Northwest,"Pacific, gaper clam",2024,3.68,6058,1051904,0.05
+Pacific Northwest,White sturgeon,2024,2.91,4685,1008744,-0.05
+Pacific Northwest,Pacific herring,2024,0.17,42788,963979,-0.05
+Pacific Northwest,Rex sole,2024,0.4,34356,926603,0.05
+Pacific Northwest,Kelp greenling,2024,5.21,2944,910261,0.0106
+Pacific Northwest,Smelts,2024,0.64,10755,870285,-0.05
+Pacific Northwest,Washington butterclam,2024,2.19,4680,854849,0.05
+Pacific Northwest,Blackgill rockfish,2024,1.96,9971,769946,0.05
+Pacific Northwest,Jawed vertebrates,2024,2.86,4631,720932,0.05
+Pacific Northwest,China rockfish,2024,6.62,1513,711981,0.0152
+Pacific Northwest,Soft clam,2024,2.01,1994,686335,0.05
+Pacific Northwest,Darkblotched rockfish,2024,0.19,54246,669769,-0.0372
+Pacific Northwest,Rainbow trout,2024,0.77,13385,589008,-0.0058
+Pacific Northwest,Yellowtail jack,2024,4.14,2790,549006,0.05
+Pacific Northwest,Copper rockfish,2024,4.85,725,525550,0.0116
+Pacific Northwest,Jack mackerel,2024,0.37,33965,510068,0.05
+Pacific Northwest,Wahoo,2024,3.42,3082,467222,0.05
+Pacific Northwest,Big skate,2024,0.35,11986,436767,0.0314
+Pacific Northwest,Blue rockfish,2024,2.31,3979,425197,0.0491
+Pacific Northwest,Ocean whitefish,2024,3.46,2613,417878,0.0395
+Pacific Northwest,Longspine thornyhead,2024,0.81,4234,362120,0.05
+Pacific Northwest,"Pacific, sanddab flounder",2024,0.95,6464,352512,-0.05
+Pacific Northwest,Thresher shark,2024,1.02,5287,339955,0.05
+Pacific Northwest,Bank rockfish,2024,1.13,7845,290192,0.05
+Pacific Northwest,Redbanded rockfish,2024,0.77,7353,260457,0.05
+Pacific Northwest,Rockfishes,2024,1.91,2658,257665,0.05
+Pacific Northwest,Pacific bonito,2024,1.96,194,255782,0.05
+Pacific Northwest,Rougheye/blackspot rockfish,2024,0.21,16641,255096,-0.05
+Pacific Northwest,Greenspotted rockfish,2024,2.3,2313,248162,0.05
+Pacific Northwest,Pacific angel shark,2024,1.32,3229,209175,0.05
+Southeast,King mackerel,2024,3.31,186321,38981124,0.05
+Southeast,Paralichthys flounders,2024,2.98,216197,30015794,0.05
+Southeast,Marine shrimp,2023,0.3,1861644,27098993,-0.05
+Southeast,Rock shrimps,2024,2.34,346698,21818137,0.05
+Southeast,Spanish mackerel,2024,1.74,195354,21060410,0.05
+Southeast,Caribbean spiny lobster,2024,7.35,40289,18255381,0.02
+Southeast,Vermilion snapper,2024,5.74,45889,15425089,0.05
+Southeast,Striped mullet,2024,0.85,251964,10594537,0.05
+Southeast,"Quahog, mercenaria clams",2024,11.1,8865,9471772,-0.0038
+Southeast,Bluefin tuna,2024,5.61,29544,8996172,0.05
+Southeast,Golden tilefish,2024,5.11,35980,8696109,0.0494
+Southeast,Atlantic cutlassfish,2024,2.16,76054,8458907,0.05
+Southeast,Kingfishes,2024,1.76,60338,7912242,-0.0421
+Southeast,Spotted seatrout,2024,2.59,49334,7679537,0.034
+Southeast,Gag grouper,2024,7.24,7054,6105805,0.05
+Southeast,Stone crabs,2024,21.67,4321,5494830,0.05
+Southeast,Spot,2024,1.29,50316,4501945,-0.0318
+Southeast,Penaeoid shrimps,2024,10.81,6211,4372319,0.05
+Southeast,Greater amberjack,2024,1.82,30764,3881597,0.0132
+Southeast,Bluefish,2024,0.67,112208,3796690,0.0236
+Southeast,Atlantic croaker,2024,1.38,46011,3732826,0.018
+Southeast,Black sea bass,2024,3.22,19255,3478558,0.042
+Southeast,Snowy grouper,2024,6.03,8585,3215756,0.048
+Southeast,Gray triggerfish,2024,3.92,11306,3176384,0.05
+Southeast,Albacore tuna,2024,1.65,6680,2778121,0.0332
+Southeast,Florida pompano,2024,6.92,6989,2759030,0.05
+Southeast,Red drum,2024,2.9,15398,2621366,0.025
+Southeast,Jawed vertebrates,2024,2.84,16041,2414452,0.05
+Southeast,Sheepshead,2024,2.25,20374,2197985,0.05
+Southeast,Northern pink shrimp,2024,1.69,10397,2118811,-0.0263
+Southeast,Blueline tilefish,2024,4.13,9314,2051196,0.0473
+Southeast,White perch,2024,1.33,29240,2009530,0.0443
+Southeast,Blue catfish,2024,0.34,119121,1911950,-0.0436
+Southeast,Little tunny tuna,2024,1.04,35586,1771675,0.05
+Southeast,Bigeye scad,2024,11.7,2519,1671879,-0.0085
+Southeast,Black drum,2024,1.41,22154,1591769,-0.0039
+Southeast,Scamp,2024,7.16,4193,1539407,0.05
+Southeast,Crevalle jack,2024,1.07,31246,1386126,0.0313
+Southeast,Forktail catfishes,2024,0.85,16538,1267756,0.05
+Southeast,Golden deepsea crab,2021,3.38,11966,1231601,0.0
+Southeast,Southern flounder,2024,4.71,3075,1170048,0.05
+Southeast,Florida stone crab,2024,5.96,3797,1159911,0.05
+Southeast,Yellowtail snapper,2024,4.87,9892,1111189,0.05
+Southeast,Penaeid shrimps,2024,5.62,2484,1029344,0.0311
+Southeast,"Sharpnose, atlantic shark",2024,0.88,17384,1026641,0.0131
+Southeast,Ballyhoos,2024,1.04,18456,1014335,0.05
+Southeast,Mummichog,2024,6.94,2562,996235,0.0307
+Southeast,Silk snapper,2024,4.94,2798,852198,0.05
+Southeast,Whelks,2024,4.0,2623,845041,0.05
+Southeast,Cobia,2024,3.55,3041,822874,0.0397
+Southeast,Irish pompano,2024,1.35,7014,791037,0.0432
+Southeast,Red porgy,2024,3.04,2000,784245,0.05
+Southeast,Almaco jack,2024,1.47,10073,777041,0.05
+Southeast,Northern harvestfish,2024,2.1,5699,775146,0.0123
+Southeast,American shad,2024,1.13,10530,726041,0.05
+Southeast,Blacktip shark,2024,0.84,14266,697076,-0.0015
+Southeast,Mutton snapper,2024,4.35,1971,669817,0.05
+Southeast,Menhadens,2024,0.27,29930,668664,0.05
+Southeast,Wahoo,2024,5.12,2178,666354,0.05
+Southeast,Hogfish,2024,6.07,1833,592404,0.05
+Southeast,Weakfish,2024,1.31,9094,585357,-0.0043
+Southeast,Mojarras,2024,2.15,4387,579211,0.0278
+Southeast,White mullet,2024,0.83,13486,563009,0.05
+Southeast,Triggerfishes,2022,3.69,2613,515775,0.05
+Southeast,Royal red shrimp,2024,2.3,6925,501798,0.0484
+Southeast,Ladyfish,2024,0.94,7806,496500,0.0267
+Southeast,Blue runner,2024,1.36,4315,458203,0.0391
+Southeast,Gray snapper,2024,4.76,1513,458068,0.05
+Southeast,Atlantic menhaden,2024,0.5,3446,330227,0.05
+Southeast,Spinner shark,2024,0.78,3663,307762,0.05
+Southeast,"Dogfish, spiny shark",2024,0.15,13222,265044,0.0195
+Southeast,Great barracuda,2024,1.67,3191,253449,0.05
+Southeast,Gizzard shad,2024,0.15,9220,226483,-0.0386
+Southeast,Blackfin tuna,2024,1.44,2887,217747,0.05

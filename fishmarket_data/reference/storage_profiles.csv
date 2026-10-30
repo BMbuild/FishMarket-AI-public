@@ -1,0 +1,65 @@
+species,form,max_shelf_days,carrying_cost_pct_per_month,shrink_pct_per_month
+American lobster,chilled,14,3.0,6.0
+American lobster,frozen,240,1.6,0.8
+Sea scallops,chilled,8,3.0,6.0
+Sea scallops,frozen,365,1.6,0.8
+Wild salmon,chilled,6,3.0,6.0
+Wild salmon,frozen,365,1.6,0.8
+Farmed salmon,chilled,6,3.0,6.0
+Farmed salmon,frozen,365,1.6,0.8
+Gulf shrimp,chilled,8,3.0,6.0
+Gulf shrimp,frozen,365,1.6,0.8
+Cod,chilled,8,3.0,6.0
+Cod,frozen,365,1.6,0.8
+Yellowfin tuna,chilled,8,3.0,6.0
+Yellowfin tuna,frozen,365,1.6,0.8
+Catfish,chilled,8,3.0,6.0
+Catfish,frozen,365,1.6,0.8
+Tilapia,chilled,8,3.0,6.0
+Tilapia,frozen,365,1.6,0.8
+Sturgeon caviar,chilled,120,1.8,1.0
+Pink salmon,chilled,6,3.0,6.0
+Pink salmon,frozen,365,1.6,0.8
+Sockeye salmon,chilled,6,3.0,6.0
+Sockeye salmon,frozen,365,1.6,0.8
+King crab,chilled,14,3.0,6.0
+King crab,frozen,240,1.6,0.8
+Pacific halibut,chilled,8,3.0,6.0
+Pacific halibut,frozen,365,1.6,0.8
+Alaska pollock,chilled,8,3.0,6.0
+Alaska pollock,frozen,365,1.6,0.8
+Dungeness crab,chilled,12,3.0,6.0
+Dungeness crab,frozen,240,1.6,0.8
+Blue crab,chilled,10,3.0,6.0
+Summer flounder,chilled,8,3.0,6.0
+Summer flounder,frozen,365,1.6,0.8
+Striped bass,chilled,8,3.0,6.0
+Striped bass,frozen,365,1.6,0.8
+Red snapper,chilled,8,3.0,6.0
+Red snapper,frozen,365,1.6,0.8
+Mahi-mahi,chilled,8,3.0,6.0
+Mahi-mahi,frozen,365,1.6,0.8
+Bigeye tuna,chilled,8,3.0,6.0
+Bigeye tuna,frozen,365,1.6,0.8
+Swordfish,chilled,8,3.0,6.0
+Swordfish,frozen,365,1.6,0.8
+Walleye,chilled,8,3.0,6.0
+Walleye,frozen,365,1.6,0.8
+Yellow perch,chilled,8,3.0,6.0
+Yellow perch,frozen,365,1.6,0.8
+Lake whitefish,chilled,8,3.0,6.0
+Lake whitefish,frozen,365,1.6,0.8
+Eastern oysters,chilled,21,3.0,6.0
+Pacific oysters,chilled,21,3.0,6.0
+Hard clams,chilled,14,3.0,6.0
+Blue mussels,chilled,10,3.0,6.0
+Rainbow trout,chilled,8,3.0,6.0
+Rainbow trout,frozen,365,1.6,0.8
+Farmed shrimp,chilled,8,3.0,6.0
+Farmed shrimp,frozen,365,1.6,0.8
+Barramundi,chilled,8,3.0,6.0
+Barramundi,frozen,365,1.6,0.8
+Sugar kelp,chilled,7,3.0,6.0
+Sugar kelp,frozen,365,1.6,0.8
+Pacific amberjack,chilled,8,3.0,6.0
+Pacific amberjack,frozen,365,1.6,0.8

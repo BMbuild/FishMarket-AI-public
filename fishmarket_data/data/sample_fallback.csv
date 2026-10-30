@@ -1,0 +1,1537 @@
+date,region,species,source_type,price,volume,unit,channel,source_id,retrieved_on
+2024-10-01,Alaska,Alaska pollock,wild_catch,0.86,15315771.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-11-01,Alaska,Alaska pollock,wild_catch,0.96,2133177.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-12-01,Alaska,Alaska pollock,wild_catch,0.81,1795530.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-01-01,Alaska,Alaska pollock,wild_catch,0.88,50562839.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-02-01,Alaska,Alaska pollock,wild_catch,0.91,44254444.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-03-01,Alaska,Alaska pollock,wild_catch,0.95,42350709.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-04-01,Alaska,Alaska pollock,wild_catch,0.93,2155165.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-05-01,Alaska,Alaska pollock,wild_catch,0.9,1995321.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-06-01,Alaska,Alaska pollock,wild_catch,0.88,21067057.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-07-01,Alaska,Alaska pollock,wild_catch,0.91,21552586.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-08-01,Alaska,Alaska pollock,wild_catch,0.88,23744617.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-09-01,Alaska,Alaska pollock,wild_catch,0.9,23891217.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-10-01,Alaska,Alaska pollock,wild_catch,0.89,16935992.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-11-01,Alaska,Alaska pollock,wild_catch,0.9,2300640.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-12-01,Alaska,Alaska pollock,wild_catch,0.9,2265994.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-01-01,Alaska,Alaska pollock,wild_catch,0.88,41133687.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-02-01,Alaska,Alaska pollock,wild_catch,0.88,71396222.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-03-01,Alaska,Alaska pollock,wild_catch,0.9,37221712.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-04-01,Alaska,Alaska pollock,wild_catch,0.88,1889232.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-05-01,Alaska,Alaska pollock,wild_catch,0.91,1810122.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-06-01,Alaska,Alaska pollock,wild_catch,0.94,19350722.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-07-01,Alaska,Alaska pollock,wild_catch,0.84,20820676.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-08-01,Alaska,Alaska pollock,wild_catch,0.88,23937692.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-09-01,Alaska,Alaska pollock,wild_catch,0.85,18483476.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-10-01,Pacific Northwest,Alaska pollock,wild_catch,0.98,4634353.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-11-01,Pacific Northwest,Alaska pollock,wild_catch,0.92,499509.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-12-01,Pacific Northwest,Alaska pollock,wild_catch,0.99,563219.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-01-01,Pacific Northwest,Alaska pollock,wild_catch,1.01,10470260.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-02-01,Pacific Northwest,Alaska pollock,wild_catch,1.07,13111522.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-03-01,Pacific Northwest,Alaska pollock,wild_catch,0.92,10667042.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-04-01,Pacific Northwest,Alaska pollock,wild_catch,0.92,573059.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-05-01,Pacific Northwest,Alaska pollock,wild_catch,0.9,722073.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-06-01,Pacific Northwest,Alaska pollock,wild_catch,0.88,6903096.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-07-01,Pacific Northwest,Alaska pollock,wild_catch,0.86,7355610.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-08-01,Pacific Northwest,Alaska pollock,wild_catch,0.87,5363424.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-09-01,Pacific Northwest,Alaska pollock,wild_catch,0.91,6821813.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-10-01,Pacific Northwest,Alaska pollock,wild_catch,0.94,4068985.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-11-01,Pacific Northwest,Alaska pollock,wild_catch,0.92,616820.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-12-01,Pacific Northwest,Alaska pollock,wild_catch,0.94,552592.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-01-01,Pacific Northwest,Alaska pollock,wild_catch,0.99,12308686.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-02-01,Pacific Northwest,Alaska pollock,wild_catch,0.93,11964530.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-03-01,Pacific Northwest,Alaska pollock,wild_catch,0.93,10304897.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-04-01,Pacific Northwest,Alaska pollock,wild_catch,0.88,618193.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-05-01,Pacific Northwest,Alaska pollock,wild_catch,1.0,492495.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-06-01,Pacific Northwest,Alaska pollock,wild_catch,0.9,3969270.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-07-01,Pacific Northwest,Alaska pollock,wild_catch,0.93,7562719.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-08-01,Pacific Northwest,Alaska pollock,wild_catch,0.95,7682623.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-09-01,Pacific Northwest,Alaska pollock,wild_catch,0.94,6138787.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-10-01,Northeast,American lobster,wild_catch,11.37,3108270.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-11-01,Northeast,American lobster,wild_catch,14.35,2859176.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-12-01,Northeast,American lobster,wild_catch,16.66,1344008.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-01-01,Northeast,American lobster,wild_catch,15.52,1160879.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-02-01,Northeast,American lobster,wild_catch,12.1,1201063.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-03-01,Northeast,American lobster,wild_catch,11.39,1117272.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-04-01,Northeast,American lobster,wild_catch,12.04,1021608.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-05-01,Northeast,American lobster,wild_catch,12.37,1744440.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-06-01,Northeast,American lobster,wild_catch,10.44,2206608.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-07-01,Northeast,American lobster,wild_catch,11.24,3388154.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-08-01,Northeast,American lobster,wild_catch,10.13,3844917.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-09-01,Northeast,American lobster,wild_catch,11.55,3983218.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-10-01,Northeast,American lobster,wild_catch,12.33,3382969.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-11-01,Northeast,American lobster,wild_catch,13.91,2486797.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-12-01,Northeast,American lobster,wild_catch,17.09,1525477.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-01-01,Northeast,American lobster,wild_catch,14.59,1154223.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-02-01,Northeast,American lobster,wild_catch,11.71,635516.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-03-01,Northeast,American lobster,wild_catch,12.26,821782.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-04-01,Northeast,American lobster,wild_catch,12.62,1367574.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-05-01,Northeast,American lobster,wild_catch,11.39,1750410.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-06-01,Northeast,American lobster,wild_catch,11.76,2321045.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-07-01,Northeast,American lobster,wild_catch,11.14,3819307.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-08-01,Northeast,American lobster,wild_catch,11.84,3776918.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-09-01,Northeast,American lobster,wild_catch,11.97,5183399.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-10-01,Hawaii-Pacific,Barramundi,aquaculture,6.02,285089.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-11-01,Hawaii-Pacific,Barramundi,aquaculture,5.69,246109.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-12-01,Hawaii-Pacific,Barramundi,aquaculture,5.45,273120.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-01-01,Hawaii-Pacific,Barramundi,aquaculture,5.77,206172.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-02-01,Hawaii-Pacific,Barramundi,aquaculture,6.27,277931.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-03-01,Hawaii-Pacific,Barramundi,aquaculture,5.7,250166.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-04-01,Hawaii-Pacific,Barramundi,aquaculture,5.66,278133.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-05-01,Hawaii-Pacific,Barramundi,aquaculture,5.9,289611.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-06-01,Hawaii-Pacific,Barramundi,aquaculture,6.43,259242.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-07-01,Hawaii-Pacific,Barramundi,aquaculture,6.13,263253.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-08-01,Hawaii-Pacific,Barramundi,aquaculture,5.54,216220.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-09-01,Hawaii-Pacific,Barramundi,aquaculture,6.02,236421.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-10-01,Hawaii-Pacific,Barramundi,aquaculture,5.96,230137.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-11-01,Hawaii-Pacific,Barramundi,aquaculture,6.0,267752.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-12-01,Hawaii-Pacific,Barramundi,aquaculture,6.11,271443.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-01-01,Hawaii-Pacific,Barramundi,aquaculture,5.85,276865.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-02-01,Hawaii-Pacific,Barramundi,aquaculture,6.05,203957.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-03-01,Hawaii-Pacific,Barramundi,aquaculture,5.68,265094.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-04-01,Hawaii-Pacific,Barramundi,aquaculture,5.58,237942.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-05-01,Hawaii-Pacific,Barramundi,aquaculture,5.8,248929.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-06-01,Hawaii-Pacific,Barramundi,aquaculture,5.79,234472.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-07-01,Hawaii-Pacific,Barramundi,aquaculture,5.91,251691.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-08-01,Hawaii-Pacific,Barramundi,aquaculture,5.77,285261.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-09-01,Hawaii-Pacific,Barramundi,aquaculture,5.73,228008.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-10-01,Southeast,Barramundi,aquaculture,5.33,177661.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-11-01,Southeast,Barramundi,aquaculture,4.61,175433.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-12-01,Southeast,Barramundi,aquaculture,5.12,192772.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-01-01,Southeast,Barramundi,aquaculture,4.97,198443.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-02-01,Southeast,Barramundi,aquaculture,5.27,170750.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-03-01,Southeast,Barramundi,aquaculture,4.55,230509.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-04-01,Southeast,Barramundi,aquaculture,5.23,241420.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-05-01,Southeast,Barramundi,aquaculture,4.72,219680.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-06-01,Southeast,Barramundi,aquaculture,4.64,173365.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-07-01,Southeast,Barramundi,aquaculture,5.03,196228.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-08-01,Southeast,Barramundi,aquaculture,4.63,207203.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-09-01,Southeast,Barramundi,aquaculture,4.93,222234.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-10-01,Southeast,Barramundi,aquaculture,5.42,213158.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-11-01,Southeast,Barramundi,aquaculture,4.87,178025.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-12-01,Southeast,Barramundi,aquaculture,5.16,197469.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-01-01,Southeast,Barramundi,aquaculture,4.91,247815.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-02-01,Southeast,Barramundi,aquaculture,5.21,204006.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-03-01,Southeast,Barramundi,aquaculture,5.21,197905.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-04-01,Southeast,Barramundi,aquaculture,4.9,177300.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-05-01,Southeast,Barramundi,aquaculture,4.93,191972.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-06-01,Southeast,Barramundi,aquaculture,4.96,202666.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-07-01,Southeast,Barramundi,aquaculture,5.35,204262.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-08-01,Southeast,Barramundi,aquaculture,5.16,229009.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-09-01,Southeast,Barramundi,aquaculture,5.01,224314.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-10-01,Hawaii-Pacific,Bigeye tuna,wild_catch,8.6,532385.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-11-01,Hawaii-Pacific,Bigeye tuna,wild_catch,9.85,445114.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-12-01,Hawaii-Pacific,Bigeye tuna,wild_catch,12.58,464581.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-01-01,Hawaii-Pacific,Bigeye tuna,wild_catch,10.03,399435.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-02-01,Hawaii-Pacific,Bigeye tuna,wild_catch,9.61,522380.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-03-01,Hawaii-Pacific,Bigeye tuna,wild_catch,8.26,482068.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-04-01,Hawaii-Pacific,Bigeye tuna,wild_catch,8.21,629965.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-05-01,Hawaii-Pacific,Bigeye tuna,wild_catch,7.73,598225.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-06-01,Hawaii-Pacific,Bigeye tuna,wild_catch,8.4,592207.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-07-01,Hawaii-Pacific,Bigeye tuna,wild_catch,8.6,604868.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-08-01,Hawaii-Pacific,Bigeye tuna,wild_catch,8.29,493622.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-09-01,Hawaii-Pacific,Bigeye tuna,wild_catch,8.63,580810.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-10-01,Hawaii-Pacific,Bigeye tuna,wild_catch,9.82,541877.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-11-01,Hawaii-Pacific,Bigeye tuna,wild_catch,9.91,487964.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-12-01,Hawaii-Pacific,Bigeye tuna,wild_catch,12.46,507896.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-01-01,Hawaii-Pacific,Bigeye tuna,wild_catch,9.47,385239.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-02-01,Hawaii-Pacific,Bigeye tuna,wild_catch,9.29,513020.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-03-01,Hawaii-Pacific,Bigeye tuna,wild_catch,8.75,501221.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-04-01,Hawaii-Pacific,Bigeye tuna,wild_catch,8.55,639710.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-05-01,Hawaii-Pacific,Bigeye tuna,wild_catch,8.34,415138.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-06-01,Hawaii-Pacific,Bigeye tuna,wild_catch,8.42,463150.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-07-01,Hawaii-Pacific,Bigeye tuna,wild_catch,8.16,542003.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-08-01,Hawaii-Pacific,Bigeye tuna,wild_catch,9.54,585846.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-09-01,Hawaii-Pacific,Bigeye tuna,wild_catch,9.6,408602.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-10-01,Gulf,Blue crab,wild_catch,3.0,1539103.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-11-01,Gulf,Blue crab,wild_catch,2.78,890889.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-12-01,Gulf,Blue crab,wild_catch,2.8,103935.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-01-01,Gulf,Blue crab,wild_catch,3.53,105432.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-02-01,Gulf,Blue crab,wild_catch,3.48,116936.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-03-01,Gulf,Blue crab,wild_catch,3.73,1333886.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-04-01,Gulf,Blue crab,wild_catch,3.59,2598257.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-05-01,Gulf,Blue crab,wild_catch,4.17,3581781.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-06-01,Gulf,Blue crab,wild_catch,3.64,3889026.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-07-01,Gulf,Blue crab,wild_catch,3.54,5020418.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-08-01,Gulf,Blue crab,wild_catch,2.85,3698612.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-09-01,Gulf,Blue crab,wild_catch,3.07,2660251.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-10-01,Gulf,Blue crab,wild_catch,2.66,1091274.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-11-01,Gulf,Blue crab,wild_catch,2.88,959467.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-12-01,Gulf,Blue crab,wild_catch,2.79,89786.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-01-01,Gulf,Blue crab,wild_catch,3.12,114557.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-02-01,Gulf,Blue crab,wild_catch,3.24,102061.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-03-01,Gulf,Blue crab,wild_catch,3.3,988534.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-04-01,Gulf,Blue crab,wild_catch,4.17,2114740.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-05-01,Gulf,Blue crab,wild_catch,3.99,2740499.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-06-01,Gulf,Blue crab,wild_catch,3.67,4935508.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-07-01,Gulf,Blue crab,wild_catch,3.46,4890413.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-08-01,Gulf,Blue crab,wild_catch,2.89,3373458.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-09-01,Gulf,Blue crab,wild_catch,2.75,3032865.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-10-01,Mid-Atlantic,Blue crab,wild_catch,2.91,2159635.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-11-01,Mid-Atlantic,Blue crab,wild_catch,3.08,1368206.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-12-01,Mid-Atlantic,Blue crab,wild_catch,3.15,147874.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-01-01,Mid-Atlantic,Blue crab,wild_catch,3.34,119446.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-02-01,Mid-Atlantic,Blue crab,wild_catch,3.36,142402.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-03-01,Mid-Atlantic,Blue crab,wild_catch,3.83,1356498.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-04-01,Mid-Atlantic,Blue crab,wild_catch,4.34,2729264.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-05-01,Mid-Atlantic,Blue crab,wild_catch,4.05,5240440.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-06-01,Mid-Atlantic,Blue crab,wild_catch,3.78,4658019.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-07-01,Mid-Atlantic,Blue crab,wild_catch,3.61,4590011.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-08-01,Mid-Atlantic,Blue crab,wild_catch,3.01,6129366.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-09-01,Mid-Atlantic,Blue crab,wild_catch,3.04,4501933.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-10-01,Mid-Atlantic,Blue crab,wild_catch,3.07,1895605.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-11-01,Mid-Atlantic,Blue crab,wild_catch,2.98,1624774.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-12-01,Mid-Atlantic,Blue crab,wild_catch,2.85,130377.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-01-01,Mid-Atlantic,Blue crab,wild_catch,3.55,120818.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-02-01,Mid-Atlantic,Blue crab,wild_catch,3.22,141605.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-03-01,Mid-Atlantic,Blue crab,wild_catch,3.78,1463241.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-04-01,Mid-Atlantic,Blue crab,wild_catch,3.81,3631418.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-05-01,Mid-Atlantic,Blue crab,wild_catch,4.13,5142475.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-06-01,Mid-Atlantic,Blue crab,wild_catch,4.03,5059706.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-07-01,Mid-Atlantic,Blue crab,wild_catch,3.51,5850523.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-08-01,Mid-Atlantic,Blue crab,wild_catch,3.32,6552224.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-09-01,Mid-Atlantic,Blue crab,wild_catch,2.85,3240557.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-10-01,Southeast,Blue crab,wild_catch,3.19,705571.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-11-01,Southeast,Blue crab,wild_catch,2.89,580657.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-12-01,Southeast,Blue crab,wild_catch,2.98,59141.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-01-01,Southeast,Blue crab,wild_catch,3.16,72287.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-02-01,Southeast,Blue crab,wild_catch,3.19,67938.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-03-01,Southeast,Blue crab,wild_catch,3.37,601907.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-04-01,Southeast,Blue crab,wild_catch,3.86,1744609.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-05-01,Southeast,Blue crab,wild_catch,4.67,2038058.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-06-01,Southeast,Blue crab,wild_catch,3.69,2230918.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-07-01,Southeast,Blue crab,wild_catch,3.29,2607589.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-08-01,Southeast,Blue crab,wild_catch,3.07,2694178.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-09-01,Southeast,Blue crab,wild_catch,2.91,1886689.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-10-01,Southeast,Blue crab,wild_catch,2.83,1019833.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-11-01,Southeast,Blue crab,wild_catch,2.94,541442.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-12-01,Southeast,Blue crab,wild_catch,2.84,62708.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-01-01,Southeast,Blue crab,wild_catch,3.12,68309.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-02-01,Southeast,Blue crab,wild_catch,3.14,51594.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-03-01,Southeast,Blue crab,wild_catch,3.28,583744.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-04-01,Southeast,Blue crab,wild_catch,4.14,1339905.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-05-01,Southeast,Blue crab,wild_catch,4.07,2210004.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-06-01,Southeast,Blue crab,wild_catch,4.0,2199735.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-07-01,Southeast,Blue crab,wild_catch,2.98,2327625.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-08-01,Southeast,Blue crab,wild_catch,2.99,2693665.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-09-01,Southeast,Blue crab,wild_catch,2.99,1926096.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-10-01,Northeast,Blue mussels,aquaculture,1.35,920006.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-11-01,Northeast,Blue mussels,aquaculture,1.29,901566.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-12-01,Northeast,Blue mussels,aquaculture,1.35,1129885.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-01-01,Northeast,Blue mussels,aquaculture,1.26,1140918.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-02-01,Northeast,Blue mussels,aquaculture,1.3,899360.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-03-01,Northeast,Blue mussels,aquaculture,1.37,916073.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-04-01,Northeast,Blue mussels,aquaculture,1.34,971922.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-05-01,Northeast,Blue mussels,aquaculture,1.32,1281751.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-06-01,Northeast,Blue mussels,aquaculture,1.42,891156.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-07-01,Northeast,Blue mussels,aquaculture,1.34,902254.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-08-01,Northeast,Blue mussels,aquaculture,1.39,1112092.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-09-01,Northeast,Blue mussels,aquaculture,1.27,1170661.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-10-01,Northeast,Blue mussels,aquaculture,1.41,844689.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-11-01,Northeast,Blue mussels,aquaculture,1.17,792519.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-12-01,Northeast,Blue mussels,aquaculture,1.31,839818.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-01-01,Northeast,Blue mussels,aquaculture,1.3,1096041.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-02-01,Northeast,Blue mussels,aquaculture,1.18,978644.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-03-01,Northeast,Blue mussels,aquaculture,1.38,899316.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-04-01,Northeast,Blue mussels,aquaculture,1.3,912044.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-05-01,Northeast,Blue mussels,aquaculture,1.49,898128.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-06-01,Northeast,Blue mussels,aquaculture,1.3,1230461.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-07-01,Northeast,Blue mussels,aquaculture,1.35,1139579.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-08-01,Northeast,Blue mussels,aquaculture,1.44,1099874.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-09-01,Northeast,Blue mussels,aquaculture,1.36,953087.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-10-01,Pacific Northwest,Blue mussels,aquaculture,1.29,581521.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-11-01,Pacific Northwest,Blue mussels,aquaculture,1.31,715441.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-12-01,Pacific Northwest,Blue mussels,aquaculture,1.36,546145.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-01-01,Pacific Northwest,Blue mussels,aquaculture,1.27,558410.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-02-01,Pacific Northwest,Blue mussels,aquaculture,1.38,572121.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-03-01,Pacific Northwest,Blue mussels,aquaculture,1.38,622278.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-04-01,Pacific Northwest,Blue mussels,aquaculture,1.33,642203.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-05-01,Pacific Northwest,Blue mussels,aquaculture,1.26,467390.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-06-01,Pacific Northwest,Blue mussels,aquaculture,1.37,541803.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-07-01,Pacific Northwest,Blue mussels,aquaculture,1.41,605095.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-08-01,Pacific Northwest,Blue mussels,aquaculture,1.21,517074.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-09-01,Pacific Northwest,Blue mussels,aquaculture,1.18,637472.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-10-01,Pacific Northwest,Blue mussels,aquaculture,1.24,534176.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-11-01,Pacific Northwest,Blue mussels,aquaculture,1.35,730897.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-12-01,Pacific Northwest,Blue mussels,aquaculture,1.32,592625.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-01-01,Pacific Northwest,Blue mussels,aquaculture,1.3,558389.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-02-01,Pacific Northwest,Blue mussels,aquaculture,1.27,626765.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-03-01,Pacific Northwest,Blue mussels,aquaculture,1.3,553569.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-04-01,Pacific Northwest,Blue mussels,aquaculture,1.38,664618.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-05-01,Pacific Northwest,Blue mussels,aquaculture,1.39,666765.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-06-01,Pacific Northwest,Blue mussels,aquaculture,1.37,678902.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-07-01,Pacific Northwest,Blue mussels,aquaculture,1.28,670814.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-08-01,Pacific Northwest,Blue mussels,aquaculture,1.28,554879.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-09-01,Pacific Northwest,Blue mussels,aquaculture,1.36,629193.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-10-01,Gulf,Catfish,aquaculture,2.38,1723074.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-11-01,Gulf,Catfish,aquaculture,2.29,1387301.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-12-01,Gulf,Catfish,aquaculture,2.37,1611363.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-01-01,Gulf,Catfish,aquaculture,2.7,1625345.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-02-01,Gulf,Catfish,aquaculture,2.37,1373355.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-03-01,Gulf,Catfish,aquaculture,2.28,1396827.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-04-01,Gulf,Catfish,aquaculture,2.5,1469616.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-05-01,Gulf,Catfish,aquaculture,2.51,1208895.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-06-01,Gulf,Catfish,aquaculture,2.37,1384163.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-07-01,Gulf,Catfish,aquaculture,2.48,1541852.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-08-01,Gulf,Catfish,aquaculture,2.48,1783492.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-09-01,Gulf,Catfish,aquaculture,2.39,1767882.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-10-01,Gulf,Catfish,aquaculture,2.31,1487969.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-11-01,Gulf,Catfish,aquaculture,2.46,1534271.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-12-01,Gulf,Catfish,aquaculture,2.37,1570448.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-01-01,Gulf,Catfish,aquaculture,2.47,1599017.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-02-01,Gulf,Catfish,aquaculture,2.39,1412311.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-03-01,Gulf,Catfish,aquaculture,2.43,1236246.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-04-01,Gulf,Catfish,aquaculture,2.46,1643909.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-05-01,Gulf,Catfish,aquaculture,2.6,1553045.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-06-01,Gulf,Catfish,aquaculture,2.45,1411572.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-07-01,Gulf,Catfish,aquaculture,2.54,1609013.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-08-01,Gulf,Catfish,aquaculture,2.51,1655301.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-09-01,Gulf,Catfish,aquaculture,2.48,1546860.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-10-01,Southeast,Catfish,aquaculture,2.41,3134519.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-11-01,Southeast,Catfish,aquaculture,2.64,3637689.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-12-01,Southeast,Catfish,aquaculture,2.37,3395806.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-01-01,Southeast,Catfish,aquaculture,2.29,3312192.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-02-01,Southeast,Catfish,aquaculture,2.39,3258592.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-03-01,Southeast,Catfish,aquaculture,2.5,3354273.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-04-01,Southeast,Catfish,aquaculture,2.26,2640140.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-05-01,Southeast,Catfish,aquaculture,2.5,3181973.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-06-01,Southeast,Catfish,aquaculture,2.28,3111039.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-07-01,Southeast,Catfish,aquaculture,2.41,2913371.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-08-01,Southeast,Catfish,aquaculture,2.39,3680829.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-09-01,Southeast,Catfish,aquaculture,2.5,2689793.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-10-01,Southeast,Catfish,aquaculture,2.2,3075043.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-11-01,Southeast,Catfish,aquaculture,2.41,2845895.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-12-01,Southeast,Catfish,aquaculture,2.19,2893428.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-01-01,Southeast,Catfish,aquaculture,2.44,3143000.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-02-01,Southeast,Catfish,aquaculture,2.29,3298940.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-03-01,Southeast,Catfish,aquaculture,2.53,3282690.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-04-01,Southeast,Catfish,aquaculture,2.34,3301835.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-05-01,Southeast,Catfish,aquaculture,2.59,3936607.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-06-01,Southeast,Catfish,aquaculture,2.6,3111938.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-07-01,Southeast,Catfish,aquaculture,2.33,2964360.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-08-01,Southeast,Catfish,aquaculture,2.55,2644790.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-09-01,Southeast,Catfish,aquaculture,2.35,3243767.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-10-01,Northeast,Cod,wild_catch,5.18,1582089.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-11-01,Northeast,Cod,wild_catch,5.38,2873302.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-12-01,Northeast,Cod,wild_catch,6.01,1920578.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-01-01,Northeast,Cod,wild_catch,6.3,2155012.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-02-01,Northeast,Cod,wild_catch,6.78,2184220.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-03-01,Northeast,Cod,wild_catch,5.81,1685468.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-04-01,Northeast,Cod,wild_catch,5.31,1723958.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-05-01,Northeast,Cod,wild_catch,5.19,1454608.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-06-01,Northeast,Cod,wild_catch,5.19,1463015.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-07-01,Northeast,Cod,wild_catch,4.91,1657301.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-08-01,Northeast,Cod,wild_catch,5.14,1752482.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-09-01,Northeast,Cod,wild_catch,4.95,1749676.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-10-01,Northeast,Cod,wild_catch,4.76,2060514.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-11-01,Northeast,Cod,wild_catch,5.28,2265459.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-12-01,Northeast,Cod,wild_catch,5.32,2391766.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-01-01,Northeast,Cod,wild_catch,5.93,1840000.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-02-01,Northeast,Cod,wild_catch,6.29,2130565.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-03-01,Northeast,Cod,wild_catch,6.68,2341794.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-04-01,Northeast,Cod,wild_catch,5.86,1802585.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-05-01,Northeast,Cod,wild_catch,5.5,1766467.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-06-01,Northeast,Cod,wild_catch,5.12,1924817.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-07-01,Northeast,Cod,wild_catch,5.21,1687042.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-08-01,Northeast,Cod,wild_catch,5.12,1406037.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-09-01,Northeast,Cod,wild_catch,5.13,1590003.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-10-01,Pacific Northwest,Cod,wild_catch,5.1,1561483.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-11-01,Pacific Northwest,Cod,wild_catch,5.21,1132708.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-12-01,Pacific Northwest,Cod,wild_catch,5.29,1002327.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-01-01,Pacific Northwest,Cod,wild_catch,6.86,1071596.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-02-01,Pacific Northwest,Cod,wild_catch,6.43,1187648.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-03-01,Pacific Northwest,Cod,wild_catch,5.73,1070016.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-04-01,Pacific Northwest,Cod,wild_catch,5.95,1054571.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-05-01,Pacific Northwest,Cod,wild_catch,5.15,1136327.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-06-01,Pacific Northwest,Cod,wild_catch,5.26,733610.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-07-01,Pacific Northwest,Cod,wild_catch,5.73,843431.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-08-01,Pacific Northwest,Cod,wild_catch,5.02,880968.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-09-01,Pacific Northwest,Cod,wild_catch,5.24,1009914.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-10-01,Pacific Northwest,Cod,wild_catch,4.61,1068378.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-11-01,Pacific Northwest,Cod,wild_catch,5.12,1021481.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-12-01,Pacific Northwest,Cod,wild_catch,5.24,1259372.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-01-01,Pacific Northwest,Cod,wild_catch,5.61,1081274.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-02-01,Pacific Northwest,Cod,wild_catch,6.0,948297.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-03-01,Pacific Northwest,Cod,wild_catch,5.8,909408.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-04-01,Pacific Northwest,Cod,wild_catch,5.61,1061671.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-05-01,Pacific Northwest,Cod,wild_catch,5.1,988080.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-06-01,Pacific Northwest,Cod,wild_catch,5.18,1026166.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-07-01,Pacific Northwest,Cod,wild_catch,4.96,1158866.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-08-01,Pacific Northwest,Cod,wild_catch,4.91,995112.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-09-01,Pacific Northwest,Cod,wild_catch,4.63,950991.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-10-01,Pacific Northwest,Dungeness crab,wild_catch,6.29,91215.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-11-01,Pacific Northwest,Dungeness crab,wild_catch,6.76,83483.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-12-01,Pacific Northwest,Dungeness crab,wild_catch,8.48,4963023.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-01-01,Pacific Northwest,Dungeness crab,wild_catch,6.46,3253576.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-02-01,Pacific Northwest,Dungeness crab,wild_catch,6.56,2631162.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-03-01,Pacific Northwest,Dungeness crab,wild_catch,5.72,1666870.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-04-01,Pacific Northwest,Dungeness crab,wild_catch,5.99,964927.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-05-01,Pacific Northwest,Dungeness crab,wild_catch,5.92,1052006.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-06-01,Pacific Northwest,Dungeness crab,wild_catch,5.89,498006.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-07-01,Pacific Northwest,Dungeness crab,wild_catch,5.51,674562.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-08-01,Pacific Northwest,Dungeness crab,wild_catch,6.08,729499.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-09-01,Pacific Northwest,Dungeness crab,wild_catch,6.3,636177.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-10-01,Pacific Northwest,Dungeness crab,wild_catch,6.27,82010.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-11-01,Pacific Northwest,Dungeness crab,wild_catch,7.0,79638.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-12-01,Pacific Northwest,Dungeness crab,wild_catch,8.24,3008392.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-01-01,Pacific Northwest,Dungeness crab,wild_catch,6.93,2836477.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-02-01,Pacific Northwest,Dungeness crab,wild_catch,6.38,2170612.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-03-01,Pacific Northwest,Dungeness crab,wild_catch,5.69,1574112.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-04-01,Pacific Northwest,Dungeness crab,wild_catch,5.54,914247.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-05-01,Pacific Northwest,Dungeness crab,wild_catch,5.62,955879.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-06-01,Pacific Northwest,Dungeness crab,wild_catch,5.7,679686.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-07-01,Pacific Northwest,Dungeness crab,wild_catch,6.08,650125.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-08-01,Pacific Northwest,Dungeness crab,wild_catch,6.25,671198.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-09-01,Pacific Northwest,Dungeness crab,wild_catch,5.62,947394.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-10-01,Gulf,Eastern oysters,aquaculture,2.58,2325087.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-11-01,Gulf,Eastern oysters,aquaculture,2.78,2808501.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-12-01,Gulf,Eastern oysters,aquaculture,3.43,2107939.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-01-01,Gulf,Eastern oysters,aquaculture,2.63,2207973.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-02-01,Gulf,Eastern oysters,aquaculture,2.45,2305887.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-03-01,Gulf,Eastern oysters,aquaculture,2.39,1827187.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-04-01,Gulf,Eastern oysters,aquaculture,2.46,1137890.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-05-01,Gulf,Eastern oysters,aquaculture,2.43,79463.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-06-01,Gulf,Eastern oysters,aquaculture,2.31,75546.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-07-01,Gulf,Eastern oysters,aquaculture,2.17,77900.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-08-01,Gulf,Eastern oysters,aquaculture,2.28,87545.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-09-01,Gulf,Eastern oysters,aquaculture,2.42,1665698.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-10-01,Gulf,Eastern oysters,aquaculture,2.6,2007821.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-11-01,Gulf,Eastern oysters,aquaculture,2.92,2348229.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-12-01,Gulf,Eastern oysters,aquaculture,3.14,2170907.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-01-01,Gulf,Eastern oysters,aquaculture,2.97,2522651.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-02-01,Gulf,Eastern oysters,aquaculture,2.85,2509894.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-03-01,Gulf,Eastern oysters,aquaculture,2.57,1659119.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-04-01,Gulf,Eastern oysters,aquaculture,2.55,1493314.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-05-01,Gulf,Eastern oysters,aquaculture,2.4,75586.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-06-01,Gulf,Eastern oysters,aquaculture,2.16,86037.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-07-01,Gulf,Eastern oysters,aquaculture,2.34,68616.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-08-01,Gulf,Eastern oysters,aquaculture,2.37,90504.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-09-01,Gulf,Eastern oysters,aquaculture,2.73,1518173.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-10-01,Mid-Atlantic,Eastern oysters,aquaculture,2.85,950182.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-11-01,Mid-Atlantic,Eastern oysters,aquaculture,3.03,1421196.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-12-01,Mid-Atlantic,Eastern oysters,aquaculture,3.36,1416886.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-01-01,Mid-Atlantic,Eastern oysters,aquaculture,2.96,1486373.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-02-01,Mid-Atlantic,Eastern oysters,aquaculture,2.8,1248548.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-03-01,Mid-Atlantic,Eastern oysters,aquaculture,2.89,1002953.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-04-01,Mid-Atlantic,Eastern oysters,aquaculture,2.47,793657.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-05-01,Mid-Atlantic,Eastern oysters,aquaculture,2.48,39800.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-06-01,Mid-Atlantic,Eastern oysters,aquaculture,2.37,46130.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-07-01,Mid-Atlantic,Eastern oysters,aquaculture,2.49,38375.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-08-01,Mid-Atlantic,Eastern oysters,aquaculture,2.32,47703.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-09-01,Mid-Atlantic,Eastern oysters,aquaculture,2.77,720848.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-10-01,Mid-Atlantic,Eastern oysters,aquaculture,2.77,1303603.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-11-01,Mid-Atlantic,Eastern oysters,aquaculture,3.28,1288510.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-12-01,Mid-Atlantic,Eastern oysters,aquaculture,3.69,1780010.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-01-01,Mid-Atlantic,Eastern oysters,aquaculture,3.01,1256157.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-02-01,Mid-Atlantic,Eastern oysters,aquaculture,2.81,1165539.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-03-01,Mid-Atlantic,Eastern oysters,aquaculture,2.76,992719.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-04-01,Mid-Atlantic,Eastern oysters,aquaculture,2.71,764633.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-05-01,Mid-Atlantic,Eastern oysters,aquaculture,2.42,48602.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-06-01,Mid-Atlantic,Eastern oysters,aquaculture,2.36,44196.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-07-01,Mid-Atlantic,Eastern oysters,aquaculture,2.76,45554.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-08-01,Mid-Atlantic,Eastern oysters,aquaculture,2.73,49661.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-09-01,Mid-Atlantic,Eastern oysters,aquaculture,2.77,906040.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-10-01,Northeast,Eastern oysters,aquaculture,2.92,951732.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-11-01,Northeast,Eastern oysters,aquaculture,3.2,887237.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-12-01,Northeast,Eastern oysters,aquaculture,3.54,1016030.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-01-01,Northeast,Eastern oysters,aquaculture,3.29,1116413.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-02-01,Northeast,Eastern oysters,aquaculture,2.9,975101.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-03-01,Northeast,Eastern oysters,aquaculture,2.83,987211.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-04-01,Northeast,Eastern oysters,aquaculture,2.51,792833.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-05-01,Northeast,Eastern oysters,aquaculture,2.42,31420.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-06-01,Northeast,Eastern oysters,aquaculture,2.69,37322.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-07-01,Northeast,Eastern oysters,aquaculture,2.53,37117.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-08-01,Northeast,Eastern oysters,aquaculture,2.62,34698.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-09-01,Northeast,Eastern oysters,aquaculture,2.76,613204.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-10-01,Northeast,Eastern oysters,aquaculture,3.22,924144.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-11-01,Northeast,Eastern oysters,aquaculture,3.28,1044043.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-12-01,Northeast,Eastern oysters,aquaculture,3.43,954883.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-01-01,Northeast,Eastern oysters,aquaculture,3.26,786280.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-02-01,Northeast,Eastern oysters,aquaculture,3.04,1008180.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-03-01,Northeast,Eastern oysters,aquaculture,2.72,873557.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-04-01,Northeast,Eastern oysters,aquaculture,2.85,586481.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-05-01,Northeast,Eastern oysters,aquaculture,2.58,32616.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-06-01,Northeast,Eastern oysters,aquaculture,2.46,42049.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-07-01,Northeast,Eastern oysters,aquaculture,2.58,32192.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-08-01,Northeast,Eastern oysters,aquaculture,2.45,33560.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-09-01,Northeast,Eastern oysters,aquaculture,2.59,655100.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-10-01,Northeast,Farmed salmon,aquaculture,8.05,1713082.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-11-01,Northeast,Farmed salmon,aquaculture,8.44,1593829.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-12-01,Northeast,Farmed salmon,aquaculture,7.35,1713717.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-01-01,Northeast,Farmed salmon,aquaculture,7.31,1671326.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-02-01,Northeast,Farmed salmon,aquaculture,7.36,1776241.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-03-01,Northeast,Farmed salmon,aquaculture,7.96,1588025.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-04-01,Northeast,Farmed salmon,aquaculture,7.78,2001962.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-05-01,Northeast,Farmed salmon,aquaculture,7.25,1735587.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-06-01,Northeast,Farmed salmon,aquaculture,7.43,1840244.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-07-01,Northeast,Farmed salmon,aquaculture,7.44,1644418.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-08-01,Northeast,Farmed salmon,aquaculture,7.21,1646573.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-09-01,Northeast,Farmed salmon,aquaculture,7.14,1933130.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-10-01,Northeast,Farmed salmon,aquaculture,7.72,1934426.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-11-01,Northeast,Farmed salmon,aquaculture,7.91,2172234.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-12-01,Northeast,Farmed salmon,aquaculture,8.33,1579250.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-01-01,Northeast,Farmed salmon,aquaculture,7.64,1633567.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-02-01,Northeast,Farmed salmon,aquaculture,7.45,1683658.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-03-01,Northeast,Farmed salmon,aquaculture,7.28,1957621.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-04-01,Northeast,Farmed salmon,aquaculture,7.56,1674956.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-05-01,Northeast,Farmed salmon,aquaculture,8.18,1977982.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-06-01,Northeast,Farmed salmon,aquaculture,7.35,1840575.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-07-01,Northeast,Farmed salmon,aquaculture,6.96,1964246.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-08-01,Northeast,Farmed salmon,aquaculture,7.42,1651665.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-09-01,Northeast,Farmed salmon,aquaculture,7.42,2042054.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-10-01,Pacific Northwest,Farmed salmon,aquaculture,6.96,2059772.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-11-01,Pacific Northwest,Farmed salmon,aquaculture,7.76,2439816.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-12-01,Pacific Northwest,Farmed salmon,aquaculture,7.28,1953366.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-01-01,Pacific Northwest,Farmed salmon,aquaculture,7.23,2056830.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-02-01,Pacific Northwest,Farmed salmon,aquaculture,7.08,2349121.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-03-01,Pacific Northwest,Farmed salmon,aquaculture,7.49,2280309.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-04-01,Pacific Northwest,Farmed salmon,aquaculture,7.27,2398218.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-05-01,Pacific Northwest,Farmed salmon,aquaculture,7.31,2007796.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-06-01,Pacific Northwest,Farmed salmon,aquaculture,7.15,2455499.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-07-01,Pacific Northwest,Farmed salmon,aquaculture,7.15,2154967.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-08-01,Pacific Northwest,Farmed salmon,aquaculture,7.03,2106734.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-09-01,Pacific Northwest,Farmed salmon,aquaculture,6.97,2014271.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-10-01,Pacific Northwest,Farmed salmon,aquaculture,7.2,2346152.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-11-01,Pacific Northwest,Farmed salmon,aquaculture,7.48,2075447.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-12-01,Pacific Northwest,Farmed salmon,aquaculture,8.23,2045746.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-01-01,Pacific Northwest,Farmed salmon,aquaculture,8.03,2411976.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-02-01,Pacific Northwest,Farmed salmon,aquaculture,7.13,2133799.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-03-01,Pacific Northwest,Farmed salmon,aquaculture,7.34,2280917.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-04-01,Pacific Northwest,Farmed salmon,aquaculture,6.77,2427572.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-05-01,Pacific Northwest,Farmed salmon,aquaculture,7.76,2491336.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-06-01,Pacific Northwest,Farmed salmon,aquaculture,7.21,2098447.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-07-01,Pacific Northwest,Farmed salmon,aquaculture,7.25,2500703.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-08-01,Pacific Northwest,Farmed salmon,aquaculture,8.05,2082567.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-09-01,Pacific Northwest,Farmed salmon,aquaculture,7.43,1789337.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-10-01,Gulf,Farmed shrimp,aquaculture,3.81,1185752.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-11-01,Gulf,Farmed shrimp,aquaculture,3.41,793611.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-12-01,Gulf,Farmed shrimp,aquaculture,3.52,573676.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-01-01,Gulf,Farmed shrimp,aquaculture,3.34,439377.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-02-01,Gulf,Farmed shrimp,aquaculture,3.54,521635.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-03-01,Gulf,Farmed shrimp,aquaculture,3.26,546905.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-04-01,Gulf,Farmed shrimp,aquaculture,3.29,631079.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-05-01,Gulf,Farmed shrimp,aquaculture,3.43,904256.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-06-01,Gulf,Farmed shrimp,aquaculture,3.2,1174677.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-07-01,Gulf,Farmed shrimp,aquaculture,3.77,1335368.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-08-01,Gulf,Farmed shrimp,aquaculture,3.29,1400089.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-09-01,Gulf,Farmed shrimp,aquaculture,3.36,1488899.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-10-01,Gulf,Farmed shrimp,aquaculture,3.06,1333389.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-11-01,Gulf,Farmed shrimp,aquaculture,3.63,738662.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-12-01,Gulf,Farmed shrimp,aquaculture,3.42,488097.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-01-01,Gulf,Farmed shrimp,aquaculture,3.4,367849.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-02-01,Gulf,Farmed shrimp,aquaculture,3.48,457760.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-03-01,Gulf,Farmed shrimp,aquaculture,3.24,561147.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-04-01,Gulf,Farmed shrimp,aquaculture,3.48,679914.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-05-01,Gulf,Farmed shrimp,aquaculture,3.34,799874.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-06-01,Gulf,Farmed shrimp,aquaculture,3.24,783186.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-07-01,Gulf,Farmed shrimp,aquaculture,3.33,1631709.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-08-01,Gulf,Farmed shrimp,aquaculture,3.28,1142570.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-09-01,Gulf,Farmed shrimp,aquaculture,3.29,1517744.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-10-01,Southeast,Farmed shrimp,aquaculture,3.09,1507723.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-11-01,Southeast,Farmed shrimp,aquaculture,3.53,1046922.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-12-01,Southeast,Farmed shrimp,aquaculture,3.49,613278.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-01-01,Southeast,Farmed shrimp,aquaculture,3.32,445727.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-02-01,Southeast,Farmed shrimp,aquaculture,3.42,538336.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-03-01,Southeast,Farmed shrimp,aquaculture,3.4,665654.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-04-01,Southeast,Farmed shrimp,aquaculture,3.68,919341.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-05-01,Southeast,Farmed shrimp,aquaculture,2.98,952979.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-06-01,Southeast,Farmed shrimp,aquaculture,3.44,1369696.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-07-01,Southeast,Farmed shrimp,aquaculture,3.43,1792070.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-08-01,Southeast,Farmed shrimp,aquaculture,3.63,1203467.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-09-01,Southeast,Farmed shrimp,aquaculture,3.44,1549897.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-10-01,Southeast,Farmed shrimp,aquaculture,3.51,1498600.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-11-01,Southeast,Farmed shrimp,aquaculture,3.4,1238383.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-12-01,Southeast,Farmed shrimp,aquaculture,3.43,666835.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-01-01,Southeast,Farmed shrimp,aquaculture,3.19,535649.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-02-01,Southeast,Farmed shrimp,aquaculture,3.34,508400.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-03-01,Southeast,Farmed shrimp,aquaculture,3.4,569463.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-04-01,Southeast,Farmed shrimp,aquaculture,3.19,903707.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-05-01,Southeast,Farmed shrimp,aquaculture,3.08,1047223.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-06-01,Southeast,Farmed shrimp,aquaculture,3.37,1352111.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-07-01,Southeast,Farmed shrimp,aquaculture,3.33,1822336.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-08-01,Southeast,Farmed shrimp,aquaculture,2.99,1652742.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-09-01,Southeast,Farmed shrimp,aquaculture,3.72,1534944.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-10-01,Gulf,Gulf shrimp,wild_catch,3.76,7159039.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-11-01,Gulf,Gulf shrimp,wild_catch,4.04,3989773.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-12-01,Gulf,Gulf shrimp,wild_catch,4.08,2657357.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-01-01,Gulf,Gulf shrimp,wild_catch,4.46,1910297.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-02-01,Gulf,Gulf shrimp,wild_catch,4.42,1639050.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-03-01,Gulf,Gulf shrimp,wild_catch,4.85,2160220.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-04-01,Gulf,Gulf shrimp,wild_catch,4.64,2448333.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-05-01,Gulf,Gulf shrimp,wild_catch,4.28,3750301.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-06-01,Gulf,Gulf shrimp,wild_catch,4.16,5638909.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-07-01,Gulf,Gulf shrimp,wild_catch,3.79,6523866.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-08-01,Gulf,Gulf shrimp,wild_catch,3.91,7383770.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-09-01,Gulf,Gulf shrimp,wild_catch,3.6,6379060.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-10-01,Gulf,Gulf shrimp,wild_catch,3.55,6811389.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-11-01,Gulf,Gulf shrimp,wild_catch,4.09,4172722.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-12-01,Gulf,Gulf shrimp,wild_catch,4.12,1914220.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-01-01,Gulf,Gulf shrimp,wild_catch,4.22,1965334.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-02-01,Gulf,Gulf shrimp,wild_catch,4.39,1629067.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-03-01,Gulf,Gulf shrimp,wild_catch,4.55,2229618.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-04-01,Gulf,Gulf shrimp,wild_catch,4.89,2357779.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-05-01,Gulf,Gulf shrimp,wild_catch,4.54,2720977.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-06-01,Gulf,Gulf shrimp,wild_catch,3.94,4433736.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-07-01,Gulf,Gulf shrimp,wild_catch,3.54,5892584.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-08-01,Gulf,Gulf shrimp,wild_catch,3.77,7204698.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-09-01,Gulf,Gulf shrimp,wild_catch,3.52,8170848.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-10-01,Southeast,Gulf shrimp,wild_catch,3.81,2394605.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-11-01,Southeast,Gulf shrimp,wild_catch,4.03,1345346.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-12-01,Southeast,Gulf shrimp,wild_catch,4.06,715075.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-01-01,Southeast,Gulf shrimp,wild_catch,4.69,715846.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-02-01,Southeast,Gulf shrimp,wild_catch,4.51,426921.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-03-01,Southeast,Gulf shrimp,wild_catch,4.77,778342.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-04-01,Southeast,Gulf shrimp,wild_catch,4.91,1030500.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-05-01,Southeast,Gulf shrimp,wild_catch,4.08,1153548.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-06-01,Southeast,Gulf shrimp,wild_catch,4.22,1332747.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-07-01,Southeast,Gulf shrimp,wild_catch,3.99,2141947.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-08-01,Southeast,Gulf shrimp,wild_catch,3.77,3151153.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-09-01,Southeast,Gulf shrimp,wild_catch,3.95,2881589.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-10-01,Southeast,Gulf shrimp,wild_catch,3.6,2055585.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-11-01,Southeast,Gulf shrimp,wild_catch,4.13,1427372.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-12-01,Southeast,Gulf shrimp,wild_catch,4.18,709509.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-01-01,Southeast,Gulf shrimp,wild_catch,4.24,739980.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-02-01,Southeast,Gulf shrimp,wild_catch,4.69,563935.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-03-01,Southeast,Gulf shrimp,wild_catch,4.69,962277.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-04-01,Southeast,Gulf shrimp,wild_catch,4.63,851159.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-05-01,Southeast,Gulf shrimp,wild_catch,4.2,1206986.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-06-01,Southeast,Gulf shrimp,wild_catch,3.79,1857087.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-07-01,Southeast,Gulf shrimp,wild_catch,3.81,2222286.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-08-01,Southeast,Gulf shrimp,wild_catch,3.55,2384981.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-09-01,Southeast,Gulf shrimp,wild_catch,3.37,2280367.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-10-01,Mid-Atlantic,Hard clams,aquaculture,1.61,688280.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-11-01,Mid-Atlantic,Hard clams,aquaculture,1.85,629300.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-12-01,Mid-Atlantic,Hard clams,aquaculture,1.82,755197.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-01-01,Mid-Atlantic,Hard clams,aquaculture,1.83,678682.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-02-01,Mid-Atlantic,Hard clams,aquaculture,1.67,731744.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-03-01,Mid-Atlantic,Hard clams,aquaculture,1.74,676336.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-04-01,Mid-Atlantic,Hard clams,aquaculture,1.73,836148.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-05-01,Mid-Atlantic,Hard clams,aquaculture,1.78,782968.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-06-01,Mid-Atlantic,Hard clams,aquaculture,1.64,796949.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-07-01,Mid-Atlantic,Hard clams,aquaculture,1.8,682381.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-08-01,Mid-Atlantic,Hard clams,aquaculture,1.7,699257.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-09-01,Mid-Atlantic,Hard clams,aquaculture,1.92,645700.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-10-01,Mid-Atlantic,Hard clams,aquaculture,1.88,742119.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-11-01,Mid-Atlantic,Hard clams,aquaculture,1.68,648337.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-12-01,Mid-Atlantic,Hard clams,aquaculture,1.75,754608.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-01-01,Mid-Atlantic,Hard clams,aquaculture,1.86,721214.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-02-01,Mid-Atlantic,Hard clams,aquaculture,1.77,763664.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-03-01,Mid-Atlantic,Hard clams,aquaculture,1.79,651400.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-04-01,Mid-Atlantic,Hard clams,aquaculture,1.64,701433.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-05-01,Mid-Atlantic,Hard clams,aquaculture,1.63,777027.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-06-01,Mid-Atlantic,Hard clams,aquaculture,1.69,718806.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-07-01,Mid-Atlantic,Hard clams,aquaculture,1.78,680253.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-08-01,Mid-Atlantic,Hard clams,aquaculture,1.67,745974.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-09-01,Mid-Atlantic,Hard clams,aquaculture,1.81,643713.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-10-01,Northeast,Hard clams,aquaculture,1.76,792660.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-11-01,Northeast,Hard clams,aquaculture,1.75,794415.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-12-01,Northeast,Hard clams,aquaculture,1.7,655282.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-01-01,Northeast,Hard clams,aquaculture,1.83,808245.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-02-01,Northeast,Hard clams,aquaculture,1.69,959576.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-03-01,Northeast,Hard clams,aquaculture,1.79,906547.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-04-01,Northeast,Hard clams,aquaculture,1.77,857410.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-05-01,Northeast,Hard clams,aquaculture,1.79,662438.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-06-01,Northeast,Hard clams,aquaculture,1.82,736896.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-07-01,Northeast,Hard clams,aquaculture,1.86,896340.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-08-01,Northeast,Hard clams,aquaculture,1.72,857246.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-09-01,Northeast,Hard clams,aquaculture,1.95,683843.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-10-01,Northeast,Hard clams,aquaculture,1.85,696798.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-11-01,Northeast,Hard clams,aquaculture,1.71,779681.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-12-01,Northeast,Hard clams,aquaculture,1.93,896857.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-01-01,Northeast,Hard clams,aquaculture,1.85,847255.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-02-01,Northeast,Hard clams,aquaculture,1.84,740301.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-03-01,Northeast,Hard clams,aquaculture,1.84,860605.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-04-01,Northeast,Hard clams,aquaculture,1.64,677938.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-05-01,Northeast,Hard clams,aquaculture,1.77,804862.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-06-01,Northeast,Hard clams,aquaculture,1.92,988292.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-07-01,Northeast,Hard clams,aquaculture,1.78,811464.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-08-01,Northeast,Hard clams,aquaculture,1.99,712001.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-09-01,Northeast,Hard clams,aquaculture,1.92,733279.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-10-01,Southeast,Hard clams,aquaculture,1.77,506756.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-11-01,Southeast,Hard clams,aquaculture,1.81,463438.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-12-01,Southeast,Hard clams,aquaculture,1.66,562557.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-01-01,Southeast,Hard clams,aquaculture,1.57,543788.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-02-01,Southeast,Hard clams,aquaculture,1.69,453701.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-03-01,Southeast,Hard clams,aquaculture,1.61,560724.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-04-01,Southeast,Hard clams,aquaculture,1.7,438552.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-05-01,Southeast,Hard clams,aquaculture,1.68,552007.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-06-01,Southeast,Hard clams,aquaculture,1.62,494197.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-07-01,Southeast,Hard clams,aquaculture,1.65,461794.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-08-01,Southeast,Hard clams,aquaculture,1.63,496271.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-09-01,Southeast,Hard clams,aquaculture,1.56,454515.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-10-01,Southeast,Hard clams,aquaculture,1.56,453426.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-11-01,Southeast,Hard clams,aquaculture,1.61,463807.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-12-01,Southeast,Hard clams,aquaculture,1.63,508535.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-01-01,Southeast,Hard clams,aquaculture,1.57,508817.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-02-01,Southeast,Hard clams,aquaculture,1.58,454052.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-03-01,Southeast,Hard clams,aquaculture,1.57,507603.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-04-01,Southeast,Hard clams,aquaculture,1.74,404473.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-05-01,Southeast,Hard clams,aquaculture,1.66,531596.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-06-01,Southeast,Hard clams,aquaculture,1.7,502953.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-07-01,Southeast,Hard clams,aquaculture,1.78,523532.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-08-01,Southeast,Hard clams,aquaculture,1.8,593448.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-09-01,Southeast,Hard clams,aquaculture,1.59,558312.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-10-01,Alaska,King crab,wild_catch,16.12,1466969.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-11-01,Alaska,King crab,wild_catch,18.85,1902794.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-12-01,Alaska,King crab,wild_catch,21.82,1842773.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-01-01,Alaska,King crab,wild_catch,15.88,1234172.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-02-01,Alaska,King crab,wild_catch,16.14,47950.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-03-01,Alaska,King crab,wild_catch,13.45,39288.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-04-01,Alaska,King crab,wild_catch,14.2,51799.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-05-01,Alaska,King crab,wild_catch,13.6,62684.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-06-01,Alaska,King crab,wild_catch,13.59,36849.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-07-01,Alaska,King crab,wild_catch,14.34,40354.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-08-01,Alaska,King crab,wild_catch,14.62,29673.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-09-01,Alaska,King crab,wild_catch,14.45,45940.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-10-01,Alaska,King crab,wild_catch,15.81,1300472.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-11-01,Alaska,King crab,wild_catch,18.27,2082224.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-12-01,Alaska,King crab,wild_catch,21.16,1912606.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-01-01,Alaska,King crab,wild_catch,16.86,1062729.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-02-01,Alaska,King crab,wild_catch,15.55,37511.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-03-01,Alaska,King crab,wild_catch,14.46,46615.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-04-01,Alaska,King crab,wild_catch,13.66,40854.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-05-01,Alaska,King crab,wild_catch,13.49,42460.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-06-01,Alaska,King crab,wild_catch,15.14,46423.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-07-01,Alaska,King crab,wild_catch,14.39,34649.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-08-01,Alaska,King crab,wild_catch,14.57,64275.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-09-01,Alaska,King crab,wild_catch,14.17,46648.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-10-01,Great Lakes,Lake whitefish,wild_catch,4.68,1896163.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-11-01,Great Lakes,Lake whitefish,wild_catch,5.39,1822017.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-12-01,Great Lakes,Lake whitefish,wild_catch,4.62,1266207.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-01-01,Great Lakes,Lake whitefish,wild_catch,4.03,44128.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-02-01,Great Lakes,Lake whitefish,wild_catch,3.92,38851.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-03-01,Great Lakes,Lake whitefish,wild_catch,3.62,44630.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-04-01,Great Lakes,Lake whitefish,wild_catch,3.97,41007.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-05-01,Great Lakes,Lake whitefish,wild_catch,3.71,43352.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-06-01,Great Lakes,Lake whitefish,wild_catch,4.14,51361.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-07-01,Great Lakes,Lake whitefish,wild_catch,4.44,93715.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-08-01,Great Lakes,Lake whitefish,wild_catch,4.0,970133.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-09-01,Great Lakes,Lake whitefish,wild_catch,4.4,1457191.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-10-01,Great Lakes,Lake whitefish,wild_catch,4.76,1908256.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-11-01,Great Lakes,Lake whitefish,wild_catch,5.41,1704413.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-12-01,Great Lakes,Lake whitefish,wild_catch,5.33,1233409.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-01-01,Great Lakes,Lake whitefish,wild_catch,3.68,41942.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-02-01,Great Lakes,Lake whitefish,wild_catch,3.7,44007.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-03-01,Great Lakes,Lake whitefish,wild_catch,3.79,48681.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-04-01,Great Lakes,Lake whitefish,wild_catch,3.77,50293.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-05-01,Great Lakes,Lake whitefish,wild_catch,4.08,42882.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-06-01,Great Lakes,Lake whitefish,wild_catch,4.43,39722.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-07-01,Great Lakes,Lake whitefish,wild_catch,4.34,96727.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-08-01,Great Lakes,Lake whitefish,wild_catch,3.91,1339312.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-09-01,Great Lakes,Lake whitefish,wild_catch,4.63,1380819.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-10-01,Gulf,Mahi-mahi,wild_catch,3.96,509425.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-11-01,Gulf,Mahi-mahi,wild_catch,4.41,487990.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-12-01,Gulf,Mahi-mahi,wild_catch,3.82,284241.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-01-01,Gulf,Mahi-mahi,wild_catch,4.48,351587.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-02-01,Gulf,Mahi-mahi,wild_catch,4.79,412609.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-03-01,Gulf,Mahi-mahi,wild_catch,3.99,394932.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-04-01,Gulf,Mahi-mahi,wild_catch,4.52,463385.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-05-01,Gulf,Mahi-mahi,wild_catch,4.65,769881.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-06-01,Gulf,Mahi-mahi,wild_catch,4.31,518793.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-07-01,Gulf,Mahi-mahi,wild_catch,4.25,684250.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-08-01,Gulf,Mahi-mahi,wild_catch,3.87,589574.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-09-01,Gulf,Mahi-mahi,wild_catch,3.89,425299.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-10-01,Gulf,Mahi-mahi,wild_catch,4.29,434989.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-11-01,Gulf,Mahi-mahi,wild_catch,4.09,496929.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-12-01,Gulf,Mahi-mahi,wild_catch,4.36,347505.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-01-01,Gulf,Mahi-mahi,wild_catch,3.9,431688.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-02-01,Gulf,Mahi-mahi,wild_catch,4.23,467271.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-03-01,Gulf,Mahi-mahi,wild_catch,4.59,439961.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-04-01,Gulf,Mahi-mahi,wild_catch,4.08,523727.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-05-01,Gulf,Mahi-mahi,wild_catch,4.78,687217.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-06-01,Gulf,Mahi-mahi,wild_catch,3.98,731566.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-07-01,Gulf,Mahi-mahi,wild_catch,4.09,496366.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-08-01,Gulf,Mahi-mahi,wild_catch,4.23,468985.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-09-01,Gulf,Mahi-mahi,wild_catch,4.25,478175.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-10-01,Hawaii-Pacific,Mahi-mahi,wild_catch,4.71,778038.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-11-01,Hawaii-Pacific,Mahi-mahi,wild_catch,4.81,545116.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-12-01,Hawaii-Pacific,Mahi-mahi,wild_catch,5.15,589761.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-01-01,Hawaii-Pacific,Mahi-mahi,wild_catch,4.85,637042.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-02-01,Hawaii-Pacific,Mahi-mahi,wild_catch,4.99,606769.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-03-01,Hawaii-Pacific,Mahi-mahi,wild_catch,4.79,735107.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-04-01,Hawaii-Pacific,Mahi-mahi,wild_catch,4.8,619901.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-05-01,Hawaii-Pacific,Mahi-mahi,wild_catch,5.13,1006137.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-06-01,Hawaii-Pacific,Mahi-mahi,wild_catch,5.26,811235.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-07-01,Hawaii-Pacific,Mahi-mahi,wild_catch,5.24,840016.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-08-01,Hawaii-Pacific,Mahi-mahi,wild_catch,4.83,656187.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-09-01,Hawaii-Pacific,Mahi-mahi,wild_catch,4.84,705373.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-10-01,Hawaii-Pacific,Mahi-mahi,wild_catch,4.78,752007.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-11-01,Hawaii-Pacific,Mahi-mahi,wild_catch,4.78,725173.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-12-01,Hawaii-Pacific,Mahi-mahi,wild_catch,5.01,586661.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-01-01,Hawaii-Pacific,Mahi-mahi,wild_catch,4.95,613408.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-02-01,Hawaii-Pacific,Mahi-mahi,wild_catch,5.08,460455.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-03-01,Hawaii-Pacific,Mahi-mahi,wild_catch,5.4,520560.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-04-01,Hawaii-Pacific,Mahi-mahi,wild_catch,4.57,733710.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-05-01,Hawaii-Pacific,Mahi-mahi,wild_catch,5.37,626131.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-06-01,Hawaii-Pacific,Mahi-mahi,wild_catch,5.05,978780.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-07-01,Hawaii-Pacific,Mahi-mahi,wild_catch,4.83,822214.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-08-01,Hawaii-Pacific,Mahi-mahi,wild_catch,4.84,776130.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-09-01,Hawaii-Pacific,Mahi-mahi,wild_catch,5.0,725608.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-10-01,Southeast,Mahi-mahi,wild_catch,4.05,576862.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-11-01,Southeast,Mahi-mahi,wild_catch,3.81,516919.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-12-01,Southeast,Mahi-mahi,wild_catch,4.26,616915.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-01-01,Southeast,Mahi-mahi,wild_catch,3.84,468708.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-02-01,Southeast,Mahi-mahi,wild_catch,4.11,433508.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-03-01,Southeast,Mahi-mahi,wild_catch,4.05,630185.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-04-01,Southeast,Mahi-mahi,wild_catch,4.24,617807.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-05-01,Southeast,Mahi-mahi,wild_catch,4.25,799130.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-06-01,Southeast,Mahi-mahi,wild_catch,4.63,771452.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-07-01,Southeast,Mahi-mahi,wild_catch,4.15,780712.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-08-01,Southeast,Mahi-mahi,wild_catch,4.32,640130.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-09-01,Southeast,Mahi-mahi,wild_catch,3.99,654343.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-10-01,Southeast,Mahi-mahi,wild_catch,3.97,607673.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-11-01,Southeast,Mahi-mahi,wild_catch,4.22,596217.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-12-01,Southeast,Mahi-mahi,wild_catch,4.47,478093.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-01-01,Southeast,Mahi-mahi,wild_catch,4.33,593326.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-02-01,Southeast,Mahi-mahi,wild_catch,4.22,469629.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-03-01,Southeast,Mahi-mahi,wild_catch,4.14,551455.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-04-01,Southeast,Mahi-mahi,wild_catch,4.76,741771.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-05-01,Southeast,Mahi-mahi,wild_catch,4.52,663756.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-06-01,Southeast,Mahi-mahi,wild_catch,4.29,799163.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-07-01,Southeast,Mahi-mahi,wild_catch,4.22,532155.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-08-01,Southeast,Mahi-mahi,wild_catch,3.93,738176.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-09-01,Southeast,Mahi-mahi,wild_catch,4.09,566572.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-10-01,Hawaii-Pacific,Pacific amberjack,aquaculture,11.63,115972.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-11-01,Hawaii-Pacific,Pacific amberjack,aquaculture,12.66,119565.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-12-01,Hawaii-Pacific,Pacific amberjack,aquaculture,12.11,114088.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-01-01,Hawaii-Pacific,Pacific amberjack,aquaculture,12.21,127313.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-02-01,Hawaii-Pacific,Pacific amberjack,aquaculture,12.08,108606.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-03-01,Hawaii-Pacific,Pacific amberjack,aquaculture,12.03,100876.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-04-01,Hawaii-Pacific,Pacific amberjack,aquaculture,10.89,101028.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-05-01,Hawaii-Pacific,Pacific amberjack,aquaculture,11.2,113632.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-06-01,Hawaii-Pacific,Pacific amberjack,aquaculture,12.53,90875.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-07-01,Hawaii-Pacific,Pacific amberjack,aquaculture,12.37,117028.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-08-01,Hawaii-Pacific,Pacific amberjack,aquaculture,13.41,119161.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-09-01,Hawaii-Pacific,Pacific amberjack,aquaculture,13.1,108998.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-10-01,Hawaii-Pacific,Pacific amberjack,aquaculture,11.2,112591.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-11-01,Hawaii-Pacific,Pacific amberjack,aquaculture,12.72,115733.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-12-01,Hawaii-Pacific,Pacific amberjack,aquaculture,13.29,138156.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-01-01,Hawaii-Pacific,Pacific amberjack,aquaculture,11.44,122001.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-02-01,Hawaii-Pacific,Pacific amberjack,aquaculture,12.23,91006.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-03-01,Hawaii-Pacific,Pacific amberjack,aquaculture,12.8,110671.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-04-01,Hawaii-Pacific,Pacific amberjack,aquaculture,11.13,135104.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-05-01,Hawaii-Pacific,Pacific amberjack,aquaculture,12.79,148019.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-06-01,Hawaii-Pacific,Pacific amberjack,aquaculture,13.35,99804.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-07-01,Hawaii-Pacific,Pacific amberjack,aquaculture,12.99,123587.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-08-01,Hawaii-Pacific,Pacific amberjack,aquaculture,12.13,145735.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-09-01,Hawaii-Pacific,Pacific amberjack,aquaculture,13.16,126055.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-10-01,Alaska,Pacific halibut,wild_catch,8.1,1189081.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-11-01,Alaska,Pacific halibut,wild_catch,8.08,572400.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-12-01,Alaska,Pacific halibut,wild_catch,8.92,67908.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-01-01,Alaska,Pacific halibut,wild_catch,8.82,78815.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-02-01,Alaska,Pacific halibut,wild_catch,9.66,63153.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-03-01,Alaska,Pacific halibut,wild_catch,10.62,1146731.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-04-01,Alaska,Pacific halibut,wild_catch,11.4,2054361.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-05-01,Alaska,Pacific halibut,wild_catch,10.01,2661645.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-06-01,Alaska,Pacific halibut,wild_catch,9.08,2238776.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-07-01,Alaska,Pacific halibut,wild_catch,8.59,1633923.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-08-01,Alaska,Pacific halibut,wild_catch,8.24,1772295.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-09-01,Alaska,Pacific halibut,wild_catch,7.78,1650358.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-10-01,Alaska,Pacific halibut,wild_catch,7.65,989853.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-11-01,Alaska,Pacific halibut,wild_catch,8.43,812799.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-12-01,Alaska,Pacific halibut,wild_catch,8.85,71416.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-01-01,Alaska,Pacific halibut,wild_catch,8.85,83076.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-02-01,Alaska,Pacific halibut,wild_catch,9.42,69897.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-03-01,Alaska,Pacific halibut,wild_catch,11.78,1293688.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-04-01,Alaska,Pacific halibut,wild_catch,11.04,2320575.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-05-01,Alaska,Pacific halibut,wild_catch,10.53,2817722.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-06-01,Alaska,Pacific halibut,wild_catch,8.97,2152049.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-07-01,Alaska,Pacific halibut,wild_catch,8.88,2062047.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-08-01,Alaska,Pacific halibut,wild_catch,8.47,1936349.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-09-01,Alaska,Pacific halibut,wild_catch,8.18,1757658.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-10-01,Pacific Northwest,Pacific halibut,wild_catch,7.85,402390.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-11-01,Pacific Northwest,Pacific halibut,wild_catch,9.03,212973.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-12-01,Pacific Northwest,Pacific halibut,wild_catch,9.63,24531.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-01-01,Pacific Northwest,Pacific halibut,wild_catch,9.04,30380.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-02-01,Pacific Northwest,Pacific halibut,wild_catch,9.22,26926.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-03-01,Pacific Northwest,Pacific halibut,wild_catch,11.84,637246.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-04-01,Pacific Northwest,Pacific halibut,wild_catch,12.49,756684.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-05-01,Pacific Northwest,Pacific halibut,wild_catch,10.38,973711.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-06-01,Pacific Northwest,Pacific halibut,wild_catch,9.39,896990.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-07-01,Pacific Northwest,Pacific halibut,wild_catch,9.38,736553.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-08-01,Pacific Northwest,Pacific halibut,wild_catch,8.98,795639.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-09-01,Pacific Northwest,Pacific halibut,wild_catch,8.97,438614.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-10-01,Pacific Northwest,Pacific halibut,wild_catch,8.33,377638.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-11-01,Pacific Northwest,Pacific halibut,wild_catch,9.21,264368.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-12-01,Pacific Northwest,Pacific halibut,wild_catch,8.96,22356.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-01-01,Pacific Northwest,Pacific halibut,wild_catch,9.71,31264.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-02-01,Pacific Northwest,Pacific halibut,wild_catch,11.05,27917.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-03-01,Pacific Northwest,Pacific halibut,wild_catch,12.11,580871.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-04-01,Pacific Northwest,Pacific halibut,wild_catch,12.17,883987.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-05-01,Pacific Northwest,Pacific halibut,wild_catch,10.12,726025.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-06-01,Pacific Northwest,Pacific halibut,wild_catch,9.3,1089330.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-07-01,Pacific Northwest,Pacific halibut,wild_catch,8.89,606554.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-08-01,Pacific Northwest,Pacific halibut,wild_catch,9.15,839940.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-09-01,Pacific Northwest,Pacific halibut,wild_catch,9.08,504271.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-10-01,Alaska,Pacific oysters,aquaculture,2.45,361850.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-11-01,Alaska,Pacific oysters,aquaculture,2.52,316578.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-12-01,Alaska,Pacific oysters,aquaculture,2.57,246088.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-01-01,Alaska,Pacific oysters,aquaculture,2.59,254344.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-02-01,Alaska,Pacific oysters,aquaculture,2.12,331220.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-03-01,Alaska,Pacific oysters,aquaculture,2.2,269783.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-04-01,Alaska,Pacific oysters,aquaculture,2.08,174972.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-05-01,Alaska,Pacific oysters,aquaculture,2.06,9611.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-06-01,Alaska,Pacific oysters,aquaculture,1.84,9691.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-07-01,Alaska,Pacific oysters,aquaculture,2.0,11467.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-08-01,Alaska,Pacific oysters,aquaculture,2.14,9709.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-09-01,Alaska,Pacific oysters,aquaculture,2.23,183951.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-10-01,Alaska,Pacific oysters,aquaculture,2.34,287332.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-11-01,Alaska,Pacific oysters,aquaculture,2.66,287847.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-12-01,Alaska,Pacific oysters,aquaculture,2.57,296808.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-01-01,Alaska,Pacific oysters,aquaculture,2.2,316792.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-02-01,Alaska,Pacific oysters,aquaculture,2.03,248925.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-03-01,Alaska,Pacific oysters,aquaculture,2.09,239147.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-04-01,Alaska,Pacific oysters,aquaculture,2.19,180852.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-05-01,Alaska,Pacific oysters,aquaculture,2.11,10332.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-06-01,Alaska,Pacific oysters,aquaculture,2.12,11184.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-07-01,Alaska,Pacific oysters,aquaculture,2.15,9343.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-08-01,Alaska,Pacific oysters,aquaculture,1.99,9634.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-09-01,Alaska,Pacific oysters,aquaculture,2.21,166752.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-10-01,Pacific Northwest,Pacific oysters,aquaculture,2.46,1564722.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-11-01,Pacific Northwest,Pacific oysters,aquaculture,2.73,1567782.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-12-01,Pacific Northwest,Pacific oysters,aquaculture,2.74,1544525.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-01-01,Pacific Northwest,Pacific oysters,aquaculture,2.79,1562727.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-02-01,Pacific Northwest,Pacific oysters,aquaculture,2.24,1528397.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-03-01,Pacific Northwest,Pacific oysters,aquaculture,2.19,1119044.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-04-01,Pacific Northwest,Pacific oysters,aquaculture,2.17,1099311.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-05-01,Pacific Northwest,Pacific oysters,aquaculture,2.21,57086.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-06-01,Pacific Northwest,Pacific oysters,aquaculture,2.33,57243.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-07-01,Pacific Northwest,Pacific oysters,aquaculture,2.13,59689.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-08-01,Pacific Northwest,Pacific oysters,aquaculture,2.16,57744.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-09-01,Pacific Northwest,Pacific oysters,aquaculture,2.31,1080905.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-10-01,Pacific Northwest,Pacific oysters,aquaculture,2.39,1540384.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-11-01,Pacific Northwest,Pacific oysters,aquaculture,2.69,1780943.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-12-01,Pacific Northwest,Pacific oysters,aquaculture,3.0,1642694.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-01-01,Pacific Northwest,Pacific oysters,aquaculture,2.54,1820567.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-02-01,Pacific Northwest,Pacific oysters,aquaculture,2.44,1615204.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-03-01,Pacific Northwest,Pacific oysters,aquaculture,2.23,1308047.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-04-01,Pacific Northwest,Pacific oysters,aquaculture,2.15,1006871.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-05-01,Pacific Northwest,Pacific oysters,aquaculture,2.1,46895.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-06-01,Pacific Northwest,Pacific oysters,aquaculture,2.02,56101.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-07-01,Pacific Northwest,Pacific oysters,aquaculture,2.23,49432.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-08-01,Pacific Northwest,Pacific oysters,aquaculture,2.23,62380.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-09-01,Pacific Northwest,Pacific oysters,aquaculture,2.56,984589.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-10-01,Alaska,Pink salmon,wild_catch,1.01,303881.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-11-01,Alaska,Pink salmon,wild_catch,1.15,394759.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-12-01,Alaska,Pink salmon,wild_catch,1.24,378002.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-01-01,Alaska,Pink salmon,wild_catch,1.33,470558.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-02-01,Alaska,Pink salmon,wild_catch,1.39,373547.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-03-01,Alaska,Pink salmon,wild_catch,1.29,494680.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-04-01,Alaska,Pink salmon,wild_catch,1.2,496821.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-05-01,Alaska,Pink salmon,wild_catch,0.97,433487.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-06-01,Alaska,Pink salmon,wild_catch,0.92,7443509.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-07-01,Alaska,Pink salmon,wild_catch,0.94,41961027.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-08-01,Alaska,Pink salmon,wild_catch,0.92,54248196.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-09-01,Alaska,Pink salmon,wild_catch,1.05,25138773.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-10-01,Alaska,Pink salmon,wild_catch,1.1,405158.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-11-01,Alaska,Pink salmon,wild_catch,1.14,513345.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-12-01,Alaska,Pink salmon,wild_catch,1.37,624527.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-01-01,Alaska,Pink salmon,wild_catch,1.22,448510.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-02-01,Alaska,Pink salmon,wild_catch,1.38,384837.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-03-01,Alaska,Pink salmon,wild_catch,1.34,429630.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-04-01,Alaska,Pink salmon,wild_catch,1.07,424087.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-05-01,Alaska,Pink salmon,wild_catch,1.03,328098.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-06-01,Alaska,Pink salmon,wild_catch,0.94,8715372.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-07-01,Alaska,Pink salmon,wild_catch,0.86,49108613.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-08-01,Alaska,Pink salmon,wild_catch,0.88,38082501.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-09-01,Alaska,Pink salmon,wild_catch,0.94,14339185.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-10-01,Great Lakes,Rainbow trout,aquaculture,3.0,693006.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-11-01,Great Lakes,Rainbow trout,aquaculture,2.99,853394.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-12-01,Great Lakes,Rainbow trout,aquaculture,2.92,753579.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-01-01,Great Lakes,Rainbow trout,aquaculture,2.83,830111.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-02-01,Great Lakes,Rainbow trout,aquaculture,2.78,726626.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-03-01,Great Lakes,Rainbow trout,aquaculture,2.78,940612.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-04-01,Great Lakes,Rainbow trout,aquaculture,3.32,880509.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-05-01,Great Lakes,Rainbow trout,aquaculture,3.13,896820.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-06-01,Great Lakes,Rainbow trout,aquaculture,3.14,805585.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-07-01,Great Lakes,Rainbow trout,aquaculture,2.72,729922.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-08-01,Great Lakes,Rainbow trout,aquaculture,2.85,796920.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-09-01,Great Lakes,Rainbow trout,aquaculture,3.36,719273.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-10-01,Great Lakes,Rainbow trout,aquaculture,2.96,724590.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-11-01,Great Lakes,Rainbow trout,aquaculture,3.1,751610.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-12-01,Great Lakes,Rainbow trout,aquaculture,2.95,923647.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-01-01,Great Lakes,Rainbow trout,aquaculture,2.97,822541.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-02-01,Great Lakes,Rainbow trout,aquaculture,2.94,832821.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-03-01,Great Lakes,Rainbow trout,aquaculture,2.91,736834.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-04-01,Great Lakes,Rainbow trout,aquaculture,2.96,760454.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-05-01,Great Lakes,Rainbow trout,aquaculture,2.99,908700.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-06-01,Great Lakes,Rainbow trout,aquaculture,2.93,853323.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-07-01,Great Lakes,Rainbow trout,aquaculture,2.86,820636.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-08-01,Great Lakes,Rainbow trout,aquaculture,2.82,819084.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-09-01,Great Lakes,Rainbow trout,aquaculture,2.85,938411.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-10-01,Pacific Northwest,Rainbow trout,aquaculture,3.14,1132875.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-11-01,Pacific Northwest,Rainbow trout,aquaculture,2.99,1358686.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-12-01,Pacific Northwest,Rainbow trout,aquaculture,3.14,1272507.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-01-01,Pacific Northwest,Rainbow trout,aquaculture,3.09,1216209.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-02-01,Pacific Northwest,Rainbow trout,aquaculture,3.23,1145861.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-03-01,Pacific Northwest,Rainbow trout,aquaculture,3.45,1086616.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-04-01,Pacific Northwest,Rainbow trout,aquaculture,3.1,1393359.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-05-01,Pacific Northwest,Rainbow trout,aquaculture,3.51,1088751.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-06-01,Pacific Northwest,Rainbow trout,aquaculture,2.9,1179372.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-07-01,Pacific Northwest,Rainbow trout,aquaculture,3.22,999125.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-08-01,Pacific Northwest,Rainbow trout,aquaculture,3.47,1531298.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-09-01,Pacific Northwest,Rainbow trout,aquaculture,2.84,1132842.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-10-01,Pacific Northwest,Rainbow trout,aquaculture,3.18,1268916.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-11-01,Pacific Northwest,Rainbow trout,aquaculture,2.98,996715.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-12-01,Pacific Northwest,Rainbow trout,aquaculture,3.06,1096202.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-01-01,Pacific Northwest,Rainbow trout,aquaculture,3.34,1263537.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-02-01,Pacific Northwest,Rainbow trout,aquaculture,3.18,1304373.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-03-01,Pacific Northwest,Rainbow trout,aquaculture,3.04,1166884.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-04-01,Pacific Northwest,Rainbow trout,aquaculture,3.25,1135515.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-05-01,Pacific Northwest,Rainbow trout,aquaculture,3.12,1214086.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-06-01,Pacific Northwest,Rainbow trout,aquaculture,3.17,1271717.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-07-01,Pacific Northwest,Rainbow trout,aquaculture,3.17,1288358.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-08-01,Pacific Northwest,Rainbow trout,aquaculture,3.09,1342199.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-09-01,Pacific Northwest,Rainbow trout,aquaculture,2.85,943721.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-10-01,Gulf,Red snapper,wild_catch,6.31,1267694.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-11-01,Gulf,Red snapper,wild_catch,6.61,126785.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-12-01,Gulf,Red snapper,wild_catch,6.36,51692.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-01-01,Gulf,Red snapper,wild_catch,6.67,79293.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-02-01,Gulf,Red snapper,wild_catch,6.08,64521.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-03-01,Gulf,Red snapper,wild_catch,6.78,58845.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-04-01,Gulf,Red snapper,wild_catch,7.56,49261.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-05-01,Gulf,Red snapper,wild_catch,8.03,122074.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-06-01,Gulf,Red snapper,wild_catch,8.8,2242923.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-07-01,Gulf,Red snapper,wild_catch,8.19,3087067.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-08-01,Gulf,Red snapper,wild_catch,6.97,2021664.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-09-01,Gulf,Red snapper,wild_catch,6.64,1622531.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-10-01,Gulf,Red snapper,wild_catch,6.72,1405265.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-11-01,Gulf,Red snapper,wild_catch,6.45,93326.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-12-01,Gulf,Red snapper,wild_catch,6.11,57119.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-01-01,Gulf,Red snapper,wild_catch,6.66,55547.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-02-01,Gulf,Red snapper,wild_catch,6.43,57054.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-03-01,Gulf,Red snapper,wild_catch,6.8,52203.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-04-01,Gulf,Red snapper,wild_catch,8.48,60959.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-05-01,Gulf,Red snapper,wild_catch,8.45,100703.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-06-01,Gulf,Red snapper,wild_catch,8.34,3173218.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-07-01,Gulf,Red snapper,wild_catch,8.36,3799347.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-08-01,Gulf,Red snapper,wild_catch,7.06,3027549.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-09-01,Gulf,Red snapper,wild_catch,6.66,1781040.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-10-01,Southeast,Red snapper,wild_catch,5.89,802362.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-11-01,Southeast,Red snapper,wild_catch,5.83,95417.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-12-01,Southeast,Red snapper,wild_catch,6.07,34201.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-01-01,Southeast,Red snapper,wild_catch,6.07,31357.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-02-01,Southeast,Red snapper,wild_catch,6.53,41631.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-03-01,Southeast,Red snapper,wild_catch,6.47,39861.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-04-01,Southeast,Red snapper,wild_catch,7.44,40469.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-05-01,Southeast,Red snapper,wild_catch,8.03,65673.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-06-01,Southeast,Red snapper,wild_catch,8.48,1696467.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-07-01,Southeast,Red snapper,wild_catch,8.27,2417842.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-08-01,Southeast,Red snapper,wild_catch,7.32,1801056.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-09-01,Southeast,Red snapper,wild_catch,6.08,1112428.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-10-01,Southeast,Red snapper,wild_catch,6.45,778196.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-11-01,Southeast,Red snapper,wild_catch,6.26,83439.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-12-01,Southeast,Red snapper,wild_catch,6.51,43025.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-01-01,Southeast,Red snapper,wild_catch,7.23,41324.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-02-01,Southeast,Red snapper,wild_catch,6.22,43624.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-03-01,Southeast,Red snapper,wild_catch,7.5,33321.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-04-01,Southeast,Red snapper,wild_catch,7.74,35997.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-05-01,Southeast,Red snapper,wild_catch,8.69,94911.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-06-01,Southeast,Red snapper,wild_catch,8.25,1773044.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-07-01,Southeast,Red snapper,wild_catch,7.8,3384690.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-08-01,Southeast,Red snapper,wild_catch,7.14,1928155.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-09-01,Southeast,Red snapper,wild_catch,6.38,1231674.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-10-01,Northeast,Sea scallops,wild_catch,15.12,610107.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-11-01,Northeast,Sea scallops,wild_catch,17.45,623309.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-12-01,Northeast,Sea scallops,wild_catch,17.84,542874.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-01-01,Northeast,Sea scallops,wild_catch,17.45,684894.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-02-01,Northeast,Sea scallops,wild_catch,15.58,506932.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-03-01,Northeast,Sea scallops,wild_catch,14.9,566817.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-04-01,Northeast,Sea scallops,wild_catch,14.31,602783.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-05-01,Northeast,Sea scallops,wild_catch,13.96,489469.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-06-01,Northeast,Sea scallops,wild_catch,14.34,550493.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-07-01,Northeast,Sea scallops,wild_catch,14.86,524889.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-08-01,Northeast,Sea scallops,wild_catch,15.39,529186.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-09-01,Northeast,Sea scallops,wild_catch,15.96,654766.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-10-01,Northeast,Sea scallops,wild_catch,16.87,799091.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-11-01,Northeast,Sea scallops,wild_catch,17.21,641181.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-12-01,Northeast,Sea scallops,wild_catch,18.63,716792.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-01-01,Northeast,Sea scallops,wild_catch,18.23,514188.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-02-01,Northeast,Sea scallops,wild_catch,15.56,570566.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-03-01,Northeast,Sea scallops,wild_catch,15.31,625442.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-04-01,Northeast,Sea scallops,wild_catch,13.99,524506.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-05-01,Northeast,Sea scallops,wild_catch,15.26,458765.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-06-01,Northeast,Sea scallops,wild_catch,14.51,616655.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-07-01,Northeast,Sea scallops,wild_catch,13.91,472636.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-08-01,Northeast,Sea scallops,wild_catch,14.89,609877.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-09-01,Northeast,Sea scallops,wild_catch,17.12,581641.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-10-01,Alaska,Sockeye salmon,wild_catch,3.79,203306.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-11-01,Alaska,Sockeye salmon,wild_catch,4.3,145300.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-12-01,Alaska,Sockeye salmon,wild_catch,4.85,141666.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-01-01,Alaska,Sockeye salmon,wild_catch,4.24,165676.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-02-01,Alaska,Sockeye salmon,wild_catch,3.92,150773.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-03-01,Alaska,Sockeye salmon,wild_catch,3.42,180318.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-04-01,Alaska,Sockeye salmon,wild_catch,3.61,235807.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-05-01,Alaska,Sockeye salmon,wild_catch,3.53,1004644.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-06-01,Alaska,Sockeye salmon,wild_catch,3.24,11885300.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-07-01,Alaska,Sockeye salmon,wild_catch,3.21,21404708.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-08-01,Alaska,Sockeye salmon,wild_catch,3.21,15100200.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-09-01,Alaska,Sockeye salmon,wild_catch,3.49,1563016.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-10-01,Alaska,Sockeye salmon,wild_catch,3.9,178952.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-11-01,Alaska,Sockeye salmon,wild_catch,4.39,175254.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-12-01,Alaska,Sockeye salmon,wild_catch,4.89,130541.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-01-01,Alaska,Sockeye salmon,wild_catch,4.25,131196.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-02-01,Alaska,Sockeye salmon,wild_catch,4.03,217103.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-03-01,Alaska,Sockeye salmon,wild_catch,3.65,186348.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-04-01,Alaska,Sockeye salmon,wild_catch,3.48,175075.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-05-01,Alaska,Sockeye salmon,wild_catch,3.24,1203277.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-06-01,Alaska,Sockeye salmon,wild_catch,3.4,10588257.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-07-01,Alaska,Sockeye salmon,wild_catch,3.08,24044599.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-08-01,Alaska,Sockeye salmon,wild_catch,3.48,17325056.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-09-01,Alaska,Sockeye salmon,wild_catch,3.39,1254351.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-10-01,Pacific Northwest,Sockeye salmon,wild_catch,4.0,43527.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-11-01,Pacific Northwest,Sockeye salmon,wild_catch,4.6,47838.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-12-01,Pacific Northwest,Sockeye salmon,wild_catch,5.31,49524.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-01-01,Pacific Northwest,Sockeye salmon,wild_catch,4.27,49721.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-02-01,Pacific Northwest,Sockeye salmon,wild_catch,4.12,59963.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-03-01,Pacific Northwest,Sockeye salmon,wild_catch,4.0,55182.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-04-01,Pacific Northwest,Sockeye salmon,wild_catch,3.84,49127.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-05-01,Pacific Northwest,Sockeye salmon,wild_catch,3.73,316339.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-06-01,Pacific Northwest,Sockeye salmon,wild_catch,3.56,2236043.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-07-01,Pacific Northwest,Sockeye salmon,wild_catch,3.31,5455026.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-08-01,Pacific Northwest,Sockeye salmon,wild_catch,3.41,4239821.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-09-01,Pacific Northwest,Sockeye salmon,wild_catch,3.74,383148.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-10-01,Pacific Northwest,Sockeye salmon,wild_catch,4.16,43355.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-11-01,Pacific Northwest,Sockeye salmon,wild_catch,4.29,58546.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-12-01,Pacific Northwest,Sockeye salmon,wild_catch,4.78,52336.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-01-01,Pacific Northwest,Sockeye salmon,wild_catch,4.12,42063.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-02-01,Pacific Northwest,Sockeye salmon,wild_catch,4.32,46786.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-03-01,Pacific Northwest,Sockeye salmon,wild_catch,4.03,49261.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-04-01,Pacific Northwest,Sockeye salmon,wild_catch,3.78,50186.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-05-01,Pacific Northwest,Sockeye salmon,wild_catch,3.59,422379.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-06-01,Pacific Northwest,Sockeye salmon,wild_catch,3.66,2716411.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-07-01,Pacific Northwest,Sockeye salmon,wild_catch,3.42,7052720.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-08-01,Pacific Northwest,Sockeye salmon,wild_catch,3.24,3940254.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-09-01,Pacific Northwest,Sockeye salmon,wild_catch,4.02,290077.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-10-01,Mid-Atlantic,Striped bass,wild_catch,5.2,550188.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-11-01,Mid-Atlantic,Striped bass,wild_catch,6.09,321162.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-12-01,Mid-Atlantic,Striped bass,wild_catch,5.83,31289.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-01-01,Mid-Atlantic,Striped bass,wild_catch,5.62,30266.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-02-01,Mid-Atlantic,Striped bass,wild_catch,6.02,30851.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-03-01,Mid-Atlantic,Striped bass,wild_catch,5.42,22644.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-04-01,Mid-Atlantic,Striped bass,wild_catch,5.88,70672.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-05-01,Mid-Atlantic,Striped bass,wild_catch,5.84,662540.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-06-01,Mid-Atlantic,Striped bass,wild_catch,5.51,1204610.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-07-01,Mid-Atlantic,Striped bass,wild_catch,5.47,916145.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-08-01,Mid-Atlantic,Striped bass,wild_catch,5.72,782038.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-09-01,Mid-Atlantic,Striped bass,wild_catch,5.73,912303.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-10-01,Mid-Atlantic,Striped bass,wild_catch,5.55,535458.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-11-01,Mid-Atlantic,Striped bass,wild_catch,5.66,372609.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-12-01,Mid-Atlantic,Striped bass,wild_catch,6.4,28872.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-01-01,Mid-Atlantic,Striped bass,wild_catch,6.25,27683.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-02-01,Mid-Atlantic,Striped bass,wild_catch,6.29,39112.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-03-01,Mid-Atlantic,Striped bass,wild_catch,5.77,32153.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-04-01,Mid-Atlantic,Striped bass,wild_catch,5.4,72775.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-05-01,Mid-Atlantic,Striped bass,wild_catch,6.01,696576.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-06-01,Mid-Atlantic,Striped bass,wild_catch,6.4,880609.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-07-01,Mid-Atlantic,Striped bass,wild_catch,5.57,856340.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-08-01,Mid-Atlantic,Striped bass,wild_catch,5.95,856674.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-09-01,Mid-Atlantic,Striped bass,wild_catch,5.3,678031.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-10-01,Northeast,Striped bass,wild_catch,5.92,404554.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-11-01,Northeast,Striped bass,wild_catch,5.7,269564.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-12-01,Northeast,Striped bass,wild_catch,6.22,20262.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-01-01,Northeast,Striped bass,wild_catch,5.89,24079.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-02-01,Northeast,Striped bass,wild_catch,6.23,24125.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-03-01,Northeast,Striped bass,wild_catch,6.2,22917.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-04-01,Northeast,Striped bass,wild_catch,5.25,47784.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-05-01,Northeast,Striped bass,wild_catch,5.53,770111.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-06-01,Northeast,Striped bass,wild_catch,5.78,935103.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-07-01,Northeast,Striped bass,wild_catch,5.49,729564.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-08-01,Northeast,Striped bass,wild_catch,5.95,716808.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-09-01,Northeast,Striped bass,wild_catch,5.65,516919.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-10-01,Northeast,Striped bass,wild_catch,5.41,547688.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-11-01,Northeast,Striped bass,wild_catch,6.04,333563.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-12-01,Northeast,Striped bass,wild_catch,6.38,21488.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-01-01,Northeast,Striped bass,wild_catch,6.38,25663.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-02-01,Northeast,Striped bass,wild_catch,6.22,25306.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-03-01,Northeast,Striped bass,wild_catch,5.79,28987.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-04-01,Northeast,Striped bass,wild_catch,5.97,55353.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-05-01,Northeast,Striped bass,wild_catch,5.74,524970.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-06-01,Northeast,Striped bass,wild_catch,6.12,803926.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-07-01,Northeast,Striped bass,wild_catch,6.32,780111.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-08-01,Northeast,Striped bass,wild_catch,5.6,682300.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-09-01,Northeast,Striped bass,wild_catch,6.01,715585.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-10-01,Pacific Northwest,Sturgeon caviar,aquaculture,832.01,4902.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-11-01,Pacific Northwest,Sturgeon caviar,aquaculture,970.7,4921.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-12-01,Pacific Northwest,Sturgeon caviar,aquaculture,1207.41,3747.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-01-01,Pacific Northwest,Sturgeon caviar,aquaculture,981.2,4035.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-02-01,Pacific Northwest,Sturgeon caviar,aquaculture,967.72,3621.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-03-01,Pacific Northwest,Sturgeon caviar,aquaculture,959.92,3738.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-04-01,Pacific Northwest,Sturgeon caviar,aquaculture,855.45,4867.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-05-01,Pacific Northwest,Sturgeon caviar,aquaculture,867.9,4059.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-06-01,Pacific Northwest,Sturgeon caviar,aquaculture,860.81,3960.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-07-01,Pacific Northwest,Sturgeon caviar,aquaculture,760.59,4115.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-08-01,Pacific Northwest,Sturgeon caviar,aquaculture,876.87,4432.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-09-01,Pacific Northwest,Sturgeon caviar,aquaculture,850.81,4312.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-10-01,Pacific Northwest,Sturgeon caviar,aquaculture,898.78,5267.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-11-01,Pacific Northwest,Sturgeon caviar,aquaculture,1086.33,6514.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-12-01,Pacific Northwest,Sturgeon caviar,aquaculture,1207.7,4129.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-01-01,Pacific Northwest,Sturgeon caviar,aquaculture,1036.63,3397.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-02-01,Pacific Northwest,Sturgeon caviar,aquaculture,1051.77,3847.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-03-01,Pacific Northwest,Sturgeon caviar,aquaculture,944.22,3732.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-04-01,Pacific Northwest,Sturgeon caviar,aquaculture,897.35,4852.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-05-01,Pacific Northwest,Sturgeon caviar,aquaculture,917.77,4264.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-06-01,Pacific Northwest,Sturgeon caviar,aquaculture,805.95,4616.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-07-01,Pacific Northwest,Sturgeon caviar,aquaculture,858.15,4295.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-08-01,Pacific Northwest,Sturgeon caviar,aquaculture,852.01,3962.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-09-01,Pacific Northwest,Sturgeon caviar,aquaculture,900.95,4262.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-10-01,Southeast,Sturgeon caviar,aquaculture,915.6,4162.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-11-01,Southeast,Sturgeon caviar,aquaculture,847.82,3248.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-12-01,Southeast,Sturgeon caviar,aquaculture,1152.34,3203.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-01-01,Southeast,Sturgeon caviar,aquaculture,859.64,2560.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-02-01,Southeast,Sturgeon caviar,aquaculture,989.71,2738.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-03-01,Southeast,Sturgeon caviar,aquaculture,880.65,2753.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-04-01,Southeast,Sturgeon caviar,aquaculture,799.4,3130.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-05-01,Southeast,Sturgeon caviar,aquaculture,740.47,3417.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-06-01,Southeast,Sturgeon caviar,aquaculture,732.32,2704.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-07-01,Southeast,Sturgeon caviar,aquaculture,731.49,3019.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-08-01,Southeast,Sturgeon caviar,aquaculture,775.01,2217.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-09-01,Southeast,Sturgeon caviar,aquaculture,844.92,3117.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-10-01,Southeast,Sturgeon caviar,aquaculture,850.04,4258.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-11-01,Southeast,Sturgeon caviar,aquaculture,993.18,3836.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-12-01,Southeast,Sturgeon caviar,aquaculture,1179.98,2878.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-01-01,Southeast,Sturgeon caviar,aquaculture,969.35,3067.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-02-01,Southeast,Sturgeon caviar,aquaculture,974.0,2775.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-03-01,Southeast,Sturgeon caviar,aquaculture,917.47,2456.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-04-01,Southeast,Sturgeon caviar,aquaculture,824.16,2943.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-05-01,Southeast,Sturgeon caviar,aquaculture,866.38,2798.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-06-01,Southeast,Sturgeon caviar,aquaculture,789.4,2854.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-07-01,Southeast,Sturgeon caviar,aquaculture,805.62,2659.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-08-01,Southeast,Sturgeon caviar,aquaculture,760.57,2964.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-09-01,Southeast,Sturgeon caviar,aquaculture,928.15,2655.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-10-01,Alaska,Sugar kelp,aquaculture,0.73,19292.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-11-01,Alaska,Sugar kelp,aquaculture,0.7,22139.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-12-01,Alaska,Sugar kelp,aquaculture,0.65,16934.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-01-01,Alaska,Sugar kelp,aquaculture,0.67,18886.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-02-01,Alaska,Sugar kelp,aquaculture,0.72,19763.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-03-01,Alaska,Sugar kelp,aquaculture,0.65,808987.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-04-01,Alaska,Sugar kelp,aquaculture,0.71,1177669.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-05-01,Alaska,Sugar kelp,aquaculture,0.72,944502.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-06-01,Alaska,Sugar kelp,aquaculture,0.64,350741.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-07-01,Alaska,Sugar kelp,aquaculture,0.68,20761.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-08-01,Alaska,Sugar kelp,aquaculture,0.73,21343.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-09-01,Alaska,Sugar kelp,aquaculture,0.72,22636.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-10-01,Alaska,Sugar kelp,aquaculture,0.79,21810.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-11-01,Alaska,Sugar kelp,aquaculture,0.78,21352.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-12-01,Alaska,Sugar kelp,aquaculture,0.66,22097.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-01-01,Alaska,Sugar kelp,aquaculture,0.71,20179.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-02-01,Alaska,Sugar kelp,aquaculture,0.71,20762.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-03-01,Alaska,Sugar kelp,aquaculture,0.72,686562.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-04-01,Alaska,Sugar kelp,aquaculture,0.69,1386756.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-05-01,Alaska,Sugar kelp,aquaculture,0.71,1046001.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-06-01,Alaska,Sugar kelp,aquaculture,0.75,342305.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-07-01,Alaska,Sugar kelp,aquaculture,0.76,20297.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-08-01,Alaska,Sugar kelp,aquaculture,0.76,19762.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-09-01,Alaska,Sugar kelp,aquaculture,0.75,19609.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-10-01,Northeast,Sugar kelp,aquaculture,0.76,64696.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-11-01,Northeast,Sugar kelp,aquaculture,0.79,49045.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-12-01,Northeast,Sugar kelp,aquaculture,0.73,66637.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-01-01,Northeast,Sugar kelp,aquaculture,0.8,62755.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-02-01,Northeast,Sugar kelp,aquaculture,0.74,60676.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-03-01,Northeast,Sugar kelp,aquaculture,0.76,2048610.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-04-01,Northeast,Sugar kelp,aquaculture,0.74,3718861.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-05-01,Northeast,Sugar kelp,aquaculture,0.69,2767860.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-06-01,Northeast,Sugar kelp,aquaculture,0.72,966469.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-07-01,Northeast,Sugar kelp,aquaculture,0.81,65497.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-08-01,Northeast,Sugar kelp,aquaculture,0.76,58674.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-09-01,Northeast,Sugar kelp,aquaculture,0.79,64009.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-10-01,Northeast,Sugar kelp,aquaculture,0.85,89268.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-11-01,Northeast,Sugar kelp,aquaculture,0.76,62037.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-12-01,Northeast,Sugar kelp,aquaculture,0.77,49189.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-01-01,Northeast,Sugar kelp,aquaculture,0.76,57658.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-02-01,Northeast,Sugar kelp,aquaculture,0.77,65299.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-03-01,Northeast,Sugar kelp,aquaculture,0.74,2030283.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-04-01,Northeast,Sugar kelp,aquaculture,0.8,3378732.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-05-01,Northeast,Sugar kelp,aquaculture,0.74,3041295.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-06-01,Northeast,Sugar kelp,aquaculture,0.77,1184707.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-07-01,Northeast,Sugar kelp,aquaculture,0.82,64395.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-08-01,Northeast,Sugar kelp,aquaculture,0.81,65503.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-09-01,Northeast,Sugar kelp,aquaculture,0.8,63686.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-10-01,Mid-Atlantic,Summer flounder,wild_catch,5.44,817503.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-11-01,Mid-Atlantic,Summer flounder,wild_catch,4.55,663048.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-12-01,Mid-Atlantic,Summer flounder,wild_catch,4.88,620283.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-01-01,Mid-Atlantic,Summer flounder,wild_catch,4.86,653545.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-02-01,Mid-Atlantic,Summer flounder,wild_catch,5.02,707354.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-03-01,Mid-Atlantic,Summer flounder,wild_catch,4.7,766686.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-04-01,Mid-Atlantic,Summer flounder,wild_catch,5.2,818525.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-05-01,Mid-Atlantic,Summer flounder,wild_catch,4.97,1025073.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-06-01,Mid-Atlantic,Summer flounder,wild_catch,4.69,1469869.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-07-01,Mid-Atlantic,Summer flounder,wild_catch,4.82,1376479.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-08-01,Mid-Atlantic,Summer flounder,wild_catch,4.75,834074.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-09-01,Mid-Atlantic,Summer flounder,wild_catch,4.57,999422.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-10-01,Mid-Atlantic,Summer flounder,wild_catch,4.66,820550.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-11-01,Mid-Atlantic,Summer flounder,wild_catch,4.51,753944.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-12-01,Mid-Atlantic,Summer flounder,wild_catch,5.46,714146.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-01-01,Mid-Atlantic,Summer flounder,wild_catch,4.77,600818.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-02-01,Mid-Atlantic,Summer flounder,wild_catch,4.68,677207.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-03-01,Mid-Atlantic,Summer flounder,wild_catch,5.29,850724.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-04-01,Mid-Atlantic,Summer flounder,wild_catch,4.53,1104382.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-05-01,Mid-Atlantic,Summer flounder,wild_catch,5.1,918567.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-06-01,Mid-Atlantic,Summer flounder,wild_catch,4.77,1463379.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-07-01,Mid-Atlantic,Summer flounder,wild_catch,4.57,1407565.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-08-01,Mid-Atlantic,Summer flounder,wild_catch,4.63,843585.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-09-01,Mid-Atlantic,Summer flounder,wild_catch,4.74,836743.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-10-01,Northeast,Summer flounder,wild_catch,5.11,727465.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-11-01,Northeast,Summer flounder,wild_catch,5.13,454715.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-12-01,Northeast,Summer flounder,wild_catch,5.05,449152.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-01-01,Northeast,Summer flounder,wild_catch,5.03,437094.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-02-01,Northeast,Summer flounder,wild_catch,5.26,467035.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-03-01,Northeast,Summer flounder,wild_catch,4.61,542941.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-04-01,Northeast,Summer flounder,wild_catch,4.82,820010.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-05-01,Northeast,Summer flounder,wild_catch,5.0,752931.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-06-01,Northeast,Summer flounder,wild_catch,4.87,1050881.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-07-01,Northeast,Summer flounder,wild_catch,4.83,1245136.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-08-01,Northeast,Summer flounder,wild_catch,4.73,1090499.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-09-01,Northeast,Summer flounder,wild_catch,4.69,779798.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-10-01,Northeast,Summer flounder,wild_catch,4.75,724405.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-11-01,Northeast,Summer flounder,wild_catch,5.16,544269.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-12-01,Northeast,Summer flounder,wild_catch,4.93,518874.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-01-01,Northeast,Summer flounder,wild_catch,4.9,564657.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-02-01,Northeast,Summer flounder,wild_catch,5.47,559041.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-03-01,Northeast,Summer flounder,wild_catch,5.11,586386.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-04-01,Northeast,Summer flounder,wild_catch,4.95,742134.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-05-01,Northeast,Summer flounder,wild_catch,5.01,740739.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-06-01,Northeast,Summer flounder,wild_catch,4.91,886616.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-07-01,Northeast,Summer flounder,wild_catch,4.92,931005.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-08-01,Northeast,Summer flounder,wild_catch,4.86,999188.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-09-01,Northeast,Summer flounder,wild_catch,4.5,768798.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-10-01,Hawaii-Pacific,Swordfish,wild_catch,7.03,385313.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-11-01,Hawaii-Pacific,Swordfish,wild_catch,6.71,422115.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-12-01,Hawaii-Pacific,Swordfish,wild_catch,6.63,359380.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-01-01,Hawaii-Pacific,Swordfish,wild_catch,6.8,382797.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-02-01,Hawaii-Pacific,Swordfish,wild_catch,7.02,362204.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-03-01,Hawaii-Pacific,Swordfish,wild_catch,7.09,327782.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-04-01,Hawaii-Pacific,Swordfish,wild_catch,6.99,357925.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-05-01,Hawaii-Pacific,Swordfish,wild_catch,6.56,382853.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-06-01,Hawaii-Pacific,Swordfish,wild_catch,6.46,323641.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-07-01,Hawaii-Pacific,Swordfish,wild_catch,6.53,391722.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-08-01,Hawaii-Pacific,Swordfish,wild_catch,6.83,480375.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-09-01,Hawaii-Pacific,Swordfish,wild_catch,6.77,354959.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-10-01,Hawaii-Pacific,Swordfish,wild_catch,7.49,385751.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-11-01,Hawaii-Pacific,Swordfish,wild_catch,7.79,415753.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-12-01,Hawaii-Pacific,Swordfish,wild_catch,7.45,348786.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-01-01,Hawaii-Pacific,Swordfish,wild_catch,6.82,453530.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-02-01,Hawaii-Pacific,Swordfish,wild_catch,6.74,359080.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-03-01,Hawaii-Pacific,Swordfish,wild_catch,6.66,420433.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-04-01,Hawaii-Pacific,Swordfish,wild_catch,6.61,474784.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-05-01,Hawaii-Pacific,Swordfish,wild_catch,6.28,375117.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-06-01,Hawaii-Pacific,Swordfish,wild_catch,6.55,600971.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-07-01,Hawaii-Pacific,Swordfish,wild_catch,6.42,351214.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-08-01,Hawaii-Pacific,Swordfish,wild_catch,6.49,445100.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-09-01,Hawaii-Pacific,Swordfish,wild_catch,7.02,375135.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-10-01,Northeast,Swordfish,wild_catch,6.8,700478.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-11-01,Northeast,Swordfish,wild_catch,6.2,491223.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-12-01,Northeast,Swordfish,wild_catch,6.55,597198.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-01-01,Northeast,Swordfish,wild_catch,6.06,670508.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-02-01,Northeast,Swordfish,wild_catch,6.73,624351.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-03-01,Northeast,Swordfish,wild_catch,5.79,613954.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-04-01,Northeast,Swordfish,wild_catch,6.4,488129.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-05-01,Northeast,Swordfish,wild_catch,6.55,545633.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-06-01,Northeast,Swordfish,wild_catch,6.28,670362.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-07-01,Northeast,Swordfish,wild_catch,6.29,719165.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-08-01,Northeast,Swordfish,wild_catch,6.18,577481.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-09-01,Northeast,Swordfish,wild_catch,6.08,579182.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-10-01,Northeast,Swordfish,wild_catch,6.18,542077.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-11-01,Northeast,Swordfish,wild_catch,6.31,395898.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-12-01,Northeast,Swordfish,wild_catch,6.48,610468.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-01-01,Northeast,Swordfish,wild_catch,6.18,647004.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-02-01,Northeast,Swordfish,wild_catch,6.16,656661.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-03-01,Northeast,Swordfish,wild_catch,6.78,590706.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-04-01,Northeast,Swordfish,wild_catch,6.88,618839.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-05-01,Northeast,Swordfish,wild_catch,5.88,711163.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-06-01,Northeast,Swordfish,wild_catch,6.36,655085.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-07-01,Northeast,Swordfish,wild_catch,6.21,726664.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-08-01,Northeast,Swordfish,wild_catch,6.16,529928.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-09-01,Northeast,Swordfish,wild_catch,6.26,515630.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-10-01,Southeast,Swordfish,wild_catch,5.92,496581.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-11-01,Southeast,Swordfish,wild_catch,5.83,331151.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-12-01,Southeast,Swordfish,wild_catch,5.74,603423.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-01-01,Southeast,Swordfish,wild_catch,6.41,625269.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-02-01,Southeast,Swordfish,wild_catch,5.75,506338.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-03-01,Southeast,Swordfish,wild_catch,5.65,385626.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-04-01,Southeast,Swordfish,wild_catch,5.01,517486.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-05-01,Southeast,Swordfish,wild_catch,6.01,491846.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-06-01,Southeast,Swordfish,wild_catch,5.58,581971.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-07-01,Southeast,Swordfish,wild_catch,5.14,484602.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-08-01,Southeast,Swordfish,wild_catch,5.74,455583.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-09-01,Southeast,Swordfish,wild_catch,5.81,477674.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-10-01,Southeast,Swordfish,wild_catch,5.37,537047.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-11-01,Southeast,Swordfish,wild_catch,5.95,533029.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-12-01,Southeast,Swordfish,wild_catch,6.18,619168.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-01-01,Southeast,Swordfish,wild_catch,6.06,388350.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-02-01,Southeast,Swordfish,wild_catch,5.99,564563.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-03-01,Southeast,Swordfish,wild_catch,5.71,545273.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-04-01,Southeast,Swordfish,wild_catch,5.67,673464.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-05-01,Southeast,Swordfish,wild_catch,5.68,473892.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-06-01,Southeast,Swordfish,wild_catch,5.53,427259.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-07-01,Southeast,Swordfish,wild_catch,5.79,524929.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-08-01,Southeast,Swordfish,wild_catch,5.39,422896.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-09-01,Southeast,Swordfish,wild_catch,5.75,627160.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-10-01,Gulf,Tilapia,aquaculture,1.82,846971.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-11-01,Gulf,Tilapia,aquaculture,1.75,944750.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-12-01,Gulf,Tilapia,aquaculture,1.85,901079.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-01-01,Gulf,Tilapia,aquaculture,1.81,802557.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-02-01,Gulf,Tilapia,aquaculture,1.76,801669.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-03-01,Gulf,Tilapia,aquaculture,1.85,851558.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-04-01,Gulf,Tilapia,aquaculture,2.03,832613.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-05-01,Gulf,Tilapia,aquaculture,1.74,812649.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-06-01,Gulf,Tilapia,aquaculture,1.91,721301.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-07-01,Gulf,Tilapia,aquaculture,1.69,743591.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-08-01,Gulf,Tilapia,aquaculture,1.91,800067.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-09-01,Gulf,Tilapia,aquaculture,1.73,641332.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-10-01,Gulf,Tilapia,aquaculture,1.82,689287.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-11-01,Gulf,Tilapia,aquaculture,1.9,846148.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-12-01,Gulf,Tilapia,aquaculture,1.77,658008.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-01-01,Gulf,Tilapia,aquaculture,1.78,871308.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-02-01,Gulf,Tilapia,aquaculture,1.83,828047.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-03-01,Gulf,Tilapia,aquaculture,1.82,779942.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-04-01,Gulf,Tilapia,aquaculture,1.76,720931.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-05-01,Gulf,Tilapia,aquaculture,1.69,707611.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-06-01,Gulf,Tilapia,aquaculture,1.76,814547.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-07-01,Gulf,Tilapia,aquaculture,1.9,837708.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-08-01,Gulf,Tilapia,aquaculture,1.75,961918.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-09-01,Gulf,Tilapia,aquaculture,1.85,779435.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-10-01,Southeast,Tilapia,aquaculture,1.9,1534053.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-11-01,Southeast,Tilapia,aquaculture,1.65,1188758.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-12-01,Southeast,Tilapia,aquaculture,1.85,1373817.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-01-01,Southeast,Tilapia,aquaculture,1.95,1168385.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-02-01,Southeast,Tilapia,aquaculture,1.85,1318094.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-03-01,Southeast,Tilapia,aquaculture,1.86,1440807.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-04-01,Southeast,Tilapia,aquaculture,1.71,1197669.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-05-01,Southeast,Tilapia,aquaculture,1.82,1272242.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-06-01,Southeast,Tilapia,aquaculture,1.85,1152467.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-07-01,Southeast,Tilapia,aquaculture,2.0,1283005.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-08-01,Southeast,Tilapia,aquaculture,1.64,1296605.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-09-01,Southeast,Tilapia,aquaculture,1.76,1532047.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-10-01,Southeast,Tilapia,aquaculture,1.78,1547377.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-11-01,Southeast,Tilapia,aquaculture,1.91,1340572.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-12-01,Southeast,Tilapia,aquaculture,1.92,1646584.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-01-01,Southeast,Tilapia,aquaculture,1.74,1377196.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-02-01,Southeast,Tilapia,aquaculture,1.87,1102150.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-03-01,Southeast,Tilapia,aquaculture,1.97,1270881.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-04-01,Southeast,Tilapia,aquaculture,1.77,1350415.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-05-01,Southeast,Tilapia,aquaculture,1.72,1370033.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-06-01,Southeast,Tilapia,aquaculture,1.78,1197394.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-07-01,Southeast,Tilapia,aquaculture,1.86,1425775.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-08-01,Southeast,Tilapia,aquaculture,1.7,1547416.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-09-01,Southeast,Tilapia,aquaculture,1.85,1225060.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-10-01,Great Lakes,Walleye,wild_catch,5.25,613394.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-11-01,Great Lakes,Walleye,wild_catch,5.98,700486.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-12-01,Great Lakes,Walleye,wild_catch,6.3,657794.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-01-01,Great Lakes,Walleye,wild_catch,5.88,629341.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-02-01,Great Lakes,Walleye,wild_catch,6.82,735620.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-03-01,Great Lakes,Walleye,wild_catch,8.05,573734.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-04-01,Great Lakes,Walleye,wild_catch,6.9,39573.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-05-01,Great Lakes,Walleye,wild_catch,6.06,32076.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-06-01,Great Lakes,Walleye,wild_catch,6.52,927677.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-07-01,Great Lakes,Walleye,wild_catch,6.41,1057560.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-08-01,Great Lakes,Walleye,wild_catch,5.49,940746.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-09-01,Great Lakes,Walleye,wild_catch,5.67,854214.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-10-01,Great Lakes,Walleye,wild_catch,5.76,918706.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-11-01,Great Lakes,Walleye,wild_catch,6.39,685130.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-12-01,Great Lakes,Walleye,wild_catch,6.63,736063.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-01-01,Great Lakes,Walleye,wild_catch,6.39,599717.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-02-01,Great Lakes,Walleye,wild_catch,7.19,669965.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-03-01,Great Lakes,Walleye,wild_catch,8.08,783836.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-04-01,Great Lakes,Walleye,wild_catch,7.28,40069.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-05-01,Great Lakes,Walleye,wild_catch,6.93,37540.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-06-01,Great Lakes,Walleye,wild_catch,6.05,630340.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-07-01,Great Lakes,Walleye,wild_catch,6.31,807070.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-08-01,Great Lakes,Walleye,wild_catch,6.01,709361.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-09-01,Great Lakes,Walleye,wild_catch,5.5,971182.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-10-01,Pacific Northwest,Wild salmon,wild_catch,7.06,2173176.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-11-01,Pacific Northwest,Wild salmon,wild_catch,7.92,865950.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-12-01,Pacific Northwest,Wild salmon,wild_catch,9.04,582557.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-01-01,Pacific Northwest,Wild salmon,wild_catch,9.55,458200.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-02-01,Pacific Northwest,Wild salmon,wild_catch,9.17,285881.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-03-01,Pacific Northwest,Wild salmon,wild_catch,8.84,357034.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-04-01,Pacific Northwest,Wild salmon,wild_catch,8.17,485734.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-05-01,Pacific Northwest,Wild salmon,wild_catch,7.29,1818350.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-06-01,Pacific Northwest,Wild salmon,wild_catch,7.17,3871162.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-07-01,Pacific Northwest,Wild salmon,wild_catch,6.67,10119286.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-08-01,Pacific Northwest,Wild salmon,wild_catch,6.14,9877858.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-09-01,Pacific Northwest,Wild salmon,wild_catch,6.77,5095240.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-10-01,Pacific Northwest,Wild salmon,wild_catch,7.46,2188926.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-11-01,Pacific Northwest,Wild salmon,wild_catch,8.55,740787.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-12-01,Pacific Northwest,Wild salmon,wild_catch,8.89,629008.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-01-01,Pacific Northwest,Wild salmon,wild_catch,9.53,544518.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-02-01,Pacific Northwest,Wild salmon,wild_catch,9.17,280197.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-03-01,Pacific Northwest,Wild salmon,wild_catch,9.35,285219.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-04-01,Pacific Northwest,Wild salmon,wild_catch,8.26,537075.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-05-01,Pacific Northwest,Wild salmon,wild_catch,7.7,1568829.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-06-01,Pacific Northwest,Wild salmon,wild_catch,6.87,4283061.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-07-01,Pacific Northwest,Wild salmon,wild_catch,6.6,7894674.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-08-01,Pacific Northwest,Wild salmon,wild_catch,6.97,11022922.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-09-01,Pacific Northwest,Wild salmon,wild_catch,7.02,6322179.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-10-01,Great Lakes,Yellow perch,wild_catch,5.05,521227.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-11-01,Great Lakes,Yellow perch,wild_catch,5.36,640722.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-12-01,Great Lakes,Yellow perch,wild_catch,4.98,523548.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-01-01,Great Lakes,Yellow perch,wild_catch,5.66,729429.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-02-01,Great Lakes,Yellow perch,wild_catch,5.84,662603.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-03-01,Great Lakes,Yellow perch,wild_catch,6.9,567715.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-04-01,Great Lakes,Yellow perch,wild_catch,6.33,683454.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-05-01,Great Lakes,Yellow perch,wild_catch,5.28,30767.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-06-01,Great Lakes,Yellow perch,wild_catch,5.16,29035.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-07-01,Great Lakes,Yellow perch,wild_catch,4.98,597649.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-08-01,Great Lakes,Yellow perch,wild_catch,4.72,812294.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-09-01,Great Lakes,Yellow perch,wild_catch,4.93,617066.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-10-01,Great Lakes,Yellow perch,wild_catch,5.58,636247.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-11-01,Great Lakes,Yellow perch,wild_catch,5.31,655528.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-12-01,Great Lakes,Yellow perch,wild_catch,5.34,517891.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-01-01,Great Lakes,Yellow perch,wild_catch,5.2,513494.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-02-01,Great Lakes,Yellow perch,wild_catch,5.78,688487.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-03-01,Great Lakes,Yellow perch,wild_catch,6.94,609835.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-04-01,Great Lakes,Yellow perch,wild_catch,6.1,611881.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-05-01,Great Lakes,Yellow perch,wild_catch,4.9,24554.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-06-01,Great Lakes,Yellow perch,wild_catch,4.82,27552.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-07-01,Great Lakes,Yellow perch,wild_catch,4.73,484078.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-08-01,Great Lakes,Yellow perch,wild_catch,4.62,541166.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-09-01,Great Lakes,Yellow perch,wild_catch,4.5,692661.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-10-01,Gulf,Yellowfin tuna,wild_catch,2.07,2547639.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-11-01,Gulf,Yellowfin tuna,wild_catch,2.08,2817924.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-12-01,Gulf,Yellowfin tuna,wild_catch,2.11,2028714.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-01-01,Gulf,Yellowfin tuna,wild_catch,2.11,1886751.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-02-01,Gulf,Yellowfin tuna,wild_catch,2.26,2142414.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-03-01,Gulf,Yellowfin tuna,wild_catch,2.09,1906266.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-04-01,Gulf,Yellowfin tuna,wild_catch,2.1,1848893.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-05-01,Gulf,Yellowfin tuna,wild_catch,2.04,2173470.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-06-01,Gulf,Yellowfin tuna,wild_catch,2.2,2054889.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-07-01,Gulf,Yellowfin tuna,wild_catch,2.0,2503382.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-08-01,Gulf,Yellowfin tuna,wild_catch,2.06,2236189.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-09-01,Gulf,Yellowfin tuna,wild_catch,2.02,2605145.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-10-01,Gulf,Yellowfin tuna,wild_catch,2.1,1696647.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-11-01,Gulf,Yellowfin tuna,wild_catch,2.17,2705186.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-12-01,Gulf,Yellowfin tuna,wild_catch,2.04,2228072.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-01-01,Gulf,Yellowfin tuna,wild_catch,1.95,2532981.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-02-01,Gulf,Yellowfin tuna,wild_catch,1.99,1722917.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-03-01,Gulf,Yellowfin tuna,wild_catch,2.13,2417182.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-04-01,Gulf,Yellowfin tuna,wild_catch,1.92,2019829.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-05-01,Gulf,Yellowfin tuna,wild_catch,2.09,1731021.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-06-01,Gulf,Yellowfin tuna,wild_catch,2.11,2100095.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-07-01,Gulf,Yellowfin tuna,wild_catch,1.92,2265947.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-08-01,Gulf,Yellowfin tuna,wild_catch,2.05,1875336.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-09-01,Gulf,Yellowfin tuna,wild_catch,1.97,2140186.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-10-01,Southeast,Yellowfin tuna,wild_catch,1.95,1964914.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-11-01,Southeast,Yellowfin tuna,wild_catch,2.08,1976279.0,lb,sample,SRC-SMP-01,2026-10-01
+2024-12-01,Southeast,Yellowfin tuna,wild_catch,1.89,1521476.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-01-01,Southeast,Yellowfin tuna,wild_catch,2.03,1807734.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-02-01,Southeast,Yellowfin tuna,wild_catch,1.92,1703775.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-03-01,Southeast,Yellowfin tuna,wild_catch,2.02,1646771.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-04-01,Southeast,Yellowfin tuna,wild_catch,2.01,1700386.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-05-01,Southeast,Yellowfin tuna,wild_catch,2.06,1792422.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-06-01,Southeast,Yellowfin tuna,wild_catch,1.87,1725428.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-07-01,Southeast,Yellowfin tuna,wild_catch,2.12,2036484.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-08-01,Southeast,Yellowfin tuna,wild_catch,2.11,1997016.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-09-01,Southeast,Yellowfin tuna,wild_catch,1.98,1760849.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-10-01,Southeast,Yellowfin tuna,wild_catch,2.06,1800583.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-11-01,Southeast,Yellowfin tuna,wild_catch,2.05,1396376.0,lb,sample,SRC-SMP-01,2026-10-01
+2025-12-01,Southeast,Yellowfin tuna,wild_catch,2.11,1760685.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-01-01,Southeast,Yellowfin tuna,wild_catch,2.03,2129234.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-02-01,Southeast,Yellowfin tuna,wild_catch,2.02,1929142.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-03-01,Southeast,Yellowfin tuna,wild_catch,2.06,1560507.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-04-01,Southeast,Yellowfin tuna,wild_catch,2.34,1496744.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-05-01,Southeast,Yellowfin tuna,wild_catch,2.06,1571171.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-06-01,Southeast,Yellowfin tuna,wild_catch,2.05,1949322.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-07-01,Southeast,Yellowfin tuna,wild_catch,2.1,1443630.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-08-01,Southeast,Yellowfin tuna,wild_catch,2.06,1893705.0,lb,sample,SRC-SMP-01,2026-10-01
+2026-09-01,Southeast,Yellowfin tuna,wild_catch,2.05,1313659.0,lb,sample,SRC-SMP-01,2026-10-01

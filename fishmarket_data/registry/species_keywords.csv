@@ -1,0 +1,32 @@
+# First matching row wins. keyword is a case-insensitive regular expression on the species name.
+keyword,pattern,gears
+farmed|aquaculture|pond,farm_flat,farm_finfish
+oyster,farm_oyster,farm_shellfish;dredge;dive
+kelp|seaweed|nori|dulse,farm_seaweed,farm_seaweed
+king crab|snow crab|tanner crab|golden.*crab|deepsea crab,crab_winter,pot_trap
+stone crab,stone_crab,pot_trap
+dungeness|rock crab|jonah crab|green crab|box crab,crab_dungeness,pot_trap
+crab,crab_summer,pot_trap
+spiny lobster,spiny_lobster,pot_trap;dive
+lobster,lobster,pot_trap
+crayfish|crawfish|procambarus,crawfish,pot_trap;farm_shellfish
+spot shrimp|spot prawn|prawn,prawn_spring,pot_trap
+shrimp,shrimp,trawl
+conch|whelk,shellfish_wild,pot_trap;dive
+octopus,octopus,pot_trap
+squid,squid,trawl;seine
+sablefish|black cod,groundfish,pot_trap;line;trawl
+\bcod\b,groundfish,trawl;line;pot_trap
+black sea bass|scup,summer_fish,pot_trap;line;trawl
+caviar|sturgeon,farm_flat,farm_finfish;net
+salmon,salmon_run,net;seine;line
+halibut,halibut,line
+tuna|swordfish|mahi|wahoo|opah|marlin|mackerel scad,pelagic,line
+scallop,shellfish_wild,dredge;farm_shellfish
+geoduck|urchin|sea cucumber,dive_winter,dive
+clam|quahog|mussel,shellfish_wild,dredge;dive;farm_shellfish
+herring|menhaden|mackerel|sardine|anchov|shad,small_pelagic,seine;net
+walleye|whitefish|yellow perch|lake trout|chub|smelt|cisco,lake,net;line
+catfish|carp|buffalo|tilapia|trout|barramundi|amberjack|striped bass hybrid,farm_flat,farm_finfish;net;line
+striped bass|bluefish|weakfish|croaker|drum|spot\b|flounder|fluke|sheepshead|mullet|pompano,summer_fish,line;net;trawl
+.,groundfish,trawl;line;net

@@ -1,0 +1,5 @@
+{
+  "_note": "USD per million tokens. UNVERIFIED third-party figures: check Anthropic's pricing page before trusting the cost meter.",
+  "claude-haiku-5-5":  {"input": 0.10, "output": 0.50, "long_prompt_threshold": 100000, "long_prompt_multiplier": 5},
+  "claude-sonnet-5-5": {"input": 2.00, "output": 10.00, "cache_read": 0.20}
+}

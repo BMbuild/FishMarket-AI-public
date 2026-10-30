@@ -1,0 +1,13 @@
+species,regions,base_price,monthly_lb,note
+Crawfish (farmed),Gulf,2.10,4000000,pond crawfish
+Hybrid striped bass (farmed),Mid-Atlantic;Southeast;Gulf,3.60,250000,pond and tank finfish
+Steelhead trout (farmed),Pacific Northwest,3.40,600000,net-pen and tank finfish
+Arctic char (farmed),Great Lakes;Northeast,4.80,80000,recirculating tanks
+Bay scallops (farmed),Northeast;Mid-Atlantic,11.00,40000,shellfish farm
+Geoduck (farmed),Pacific Northwest,18.00,120000,intertidal shellfish farm
+Manila clams (farmed),Pacific Northwest,2.60,500000,intertidal shellfish farm
+Bull kelp (farmed),Alaska;Pacific Northwest,0.70,90000,seaweed farm
+Sablefish (farmed),Pacific Northwest,6.50,30000,net-pen finfish
+Red abalone (farmed),Pacific Northwest,25.00,15000,land-based shellfish farm
+Yellow perch (farmed),Great Lakes,5.80,60000,pond and tank finfish
+Seaweed blend (farmed),Northeast;Alaska,0.80,60000,seaweed farm
